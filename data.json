@@ -1,23 +1,52 @@
 {
-  "ts": "2026-04-04T20:25:11.354477+09:00",
+  "ts": "2026-04-04T20:26:13.269738+09:00",
   "start_date": "2026-04-05",
-  "status": "stopped",
-  "equity": 32993.89,
-  "available": 32993.89,
+  "status": "running",
+  "equity": 32996.44,
+  "available": 32924.45,
   "unrealized": 0.0,
   "daily_pnl": 0,
-  "total_pnl": -6.11,
-  "cum_pct": -0.02,
-  "daily_avg_pct": -0.02,
-  "annual_pct": -7.04,
+  "total_pnl": -3.56,
+  "cum_pct": -0.01,
+  "daily_avg_pct": -0.01,
+  "annual_pct": -3.58,
   "mdd": 0.0,
   "current_dd": 0.0,
-  "seed_used": 0,
-  "seed_used_pct": 0.0,
+  "seed_used": 71.98,
+  "seed_used_pct": 0.22,
   "long_count": 0,
   "short_count": 0,
   "positions": [],
-  "signals": {},
+  "signals": {
+    "LINKUSDT": {
+      "dir": "short",
+      "conf": 0.577
+    },
+    "DOGEUSDT": {
+      "dir": "short",
+      "conf": 0.554
+    },
+    "NEARUSDT": {
+      "dir": "short",
+      "conf": 0.643
+    },
+    "BTCUSDT": {
+      "dir": "short",
+      "conf": 0.557
+    },
+    "TRUMPUSDT": {
+      "dir": "short",
+      "conf": 0.583
+    },
+    "AAVEUSDT": {
+      "dir": "short",
+      "conf": 0.585
+    },
+    "AVAXUSDT": {
+      "dir": "short",
+      "conf": 0.838
+    }
+  },
   "equity_hist": [],
   "trade_history": [],
   "num_days": 1
