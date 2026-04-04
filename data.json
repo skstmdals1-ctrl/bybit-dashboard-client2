@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-05T02:01:04.957719+09:00",
+  "ts": "2026-04-05T02:02:06.075164+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 32986.97,
-  "available": 31066.43,
-  "unrealized": -7.74,
+  "equity": 32988.04,
+  "available": 31066.94,
+  "unrealized": -4.1,
   "daily_pnl": 0,
-  "total_pnl": -13.03,
+  "total_pnl": -11.96,
   "cum_pct": -0.04,
   "daily_avg_pct": -0.04,
   "annual_pct": -13.59,
   "mdd": -0.25,
-  "current_dd": -0.14,
-  "seed_used": 1920.55,
+  "current_dd": -0.05,
+  "seed_used": 1921.1,
   "seed_used_pct": 5.82,
   "long_count": 1,
   "short_count": 4,
@@ -20,35 +20,35 @@
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": 2.27,
-      "pnl_pct": 0.06,
+      "pnl": 0.09,
+      "pnl_pct": 0.0,
       "margin": 458.8,
       "leverage": "8",
       "tier": "5/9",
       "entry": 80.668,
-      "mark": 80.618
+      "mark": 80.666
     },
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": -17.53,
-      "pnl_pct": -1.15,
+      "pnl": -14.13,
+      "pnl_pct": -0.93,
       "margin": 305.28,
       "leverage": "5",
       "tier": "4/12",
       "entry": 0.1212,
-      "mark": 0.1198
+      "mark": 0.1201
     },
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": 6.06,
-      "pnl_pct": 0.21,
+      "pnl": 8.35,
+      "pnl_pct": 0.28,
       "margin": 293.2,
       "leverage": "10",
       "tier": "4/9",
       "entry": 8.9445,
-      "mark": 8.926
+      "mark": 8.919
     },
     {
       "symbol": "ADAUSDT",
@@ -64,13 +64,13 @@
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": 0.46,
-      "pnl_pct": 0.11,
+      "pnl": 0.59,
+      "pnl_pct": 0.14,
       "margin": 71.3,
       "leverage": "6",
       "tier": "2/9",
       "entry": 1.3131,
-      "mark": 1.3117
+      "mark": 1.3113
     }
   ],
   "signals": {
@@ -80,7 +80,7 @@
     },
     "DOGEUSDT": {
       "dir": "short",
-      "conf": 0.558
+      "conf": 0.559
     },
     "NEARUSDT": {
       "dir": "short",
@@ -124,7 +124,7 @@
     },
     "SUIUSDT": {
       "dir": "short",
-      "conf": 0.557
+      "conf": 0.556
     },
     "SOLUSDT": {
       "dir": "short",
