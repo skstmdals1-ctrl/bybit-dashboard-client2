@@ -1,43 +1,43 @@
 {
-  "ts": "2026-04-05T00:01:53.062644+09:00",
+  "ts": "2026-04-05T00:02:54.126368+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 32975.79,
-  "available": 32272.38,
-  "unrealized": -20.58,
+  "equity": 32971.88,
+  "available": 32141.18,
+  "unrealized": -23.28,
   "daily_pnl": 0,
-  "total_pnl": -24.21,
-  "cum_pct": -0.07,
-  "daily_avg_pct": -0.07,
-  "annual_pct": -22.55,
+  "total_pnl": -28.12,
+  "cum_pct": -0.09,
+  "daily_avg_pct": -0.09,
+  "annual_pct": -28.01,
   "mdd": -0.09,
   "current_dd": -0.09,
-  "seed_used": 703.42,
-  "seed_used_pct": 2.13,
+  "seed_used": 830.7,
+  "seed_used_pct": 2.52,
   "long_count": 1,
   "short_count": 3,
   "positions": [
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": -14.24,
-      "pnl_pct": -1.4,
+      "pnl": -15.25,
+      "pnl_pct": -1.5,
       "margin": 203.61,
       "leverage": "5",
       "tier": "3/12",
       "entry": 0.1219,
-      "mark": 0.1202
+      "mark": 0.1201
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -4.14,
-      "pnl_pct": -0.32,
+      "pnl": -6.08,
+      "pnl_pct": -0.46,
       "margin": 164.08,
       "leverage": "8",
-      "tier": "2/9",
+      "tier": "3/9",
       "entry": 80.0393,
-      "mark": 80.292
+      "mark": 80.41
     },
     {
       "symbol": "ADAUSDT",
@@ -53,13 +53,13 @@
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": -0.88,
-      "pnl_pct": -0.12,
+      "pnl": -0.64,
+      "pnl_pct": -0.09,
       "margin": 71.15,
       "leverage": "10",
       "tier": "2/9",
       "entry": 8.883,
-      "mark": 8.894
+      "mark": 8.891
     }
   ],
   "signals": {
@@ -89,7 +89,7 @@
     },
     "AVAXUSDT": {
       "dir": "short",
-      "conf": 0.806
+      "conf": 0.816
     },
     "ETHUSDT": {
       "dir": "short",
@@ -117,7 +117,7 @@
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.801
+      "conf": 0.799
     },
     "XRPUSDT": {
       "dir": "short",
@@ -137,10 +137,15 @@
     },
     "ADAUSDT": {
       "dir": "short",
-      "conf": 0.988
+      "conf": 0.994
     }
   },
-  "equity_hist": [],
+  "equity_hist": [
+    {
+      "t": "2026-04-05",
+      "v": 0.0
+    }
+  ],
   "trade_history": [],
   "num_days": 1
 }
