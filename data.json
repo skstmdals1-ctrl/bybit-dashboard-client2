@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-05T07:48:38.203861+09:00",
+  "ts": "2026-04-05T07:49:39.212792+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 32937.43,
-  "available": 30615.77,
-  "unrealized": -55.68,
+  "equity": 32940.31,
+  "available": 30618.86,
+  "unrealized": -54.12,
   "daily_pnl": 0,
-  "total_pnl": -62.57,
-  "cum_pct": -0.19,
-  "daily_avg_pct": -0.19,
-  "annual_pct": -50.05,
+  "total_pnl": -59.69,
+  "cum_pct": -0.18,
+  "daily_avg_pct": -0.18,
+  "annual_pct": -48.19,
   "mdd": -0.46,
   "current_dd": -0.21,
-  "seed_used": 2321.66,
+  "seed_used": 2321.44,
   "seed_used_pct": 7.05,
   "long_count": 1,
   "short_count": 4,
@@ -31,30 +31,30 @@
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": -7.58,
-      "pnl_pct": -0.16,
+      "pnl": -6.55,
+      "pnl_pct": -0.14,
       "margin": 462.6,
       "leverage": "10",
       "tier": "5/9",
       "entry": 8.9843,
-      "mark": 8.999
+      "mark": 8.997
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -12.38,
-      "pnl_pct": -0.34,
+      "pnl": -11.92,
+      "pnl_pct": -0.32,
       "margin": 458.8,
       "leverage": "8",
       "tier": "5/9",
       "entry": 80.668,
-      "mark": 80.94
+      "mark": 80.93
     },
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": -20.18,
-      "pnl_pct": -1.32,
+      "pnl": -20.56,
+      "pnl_pct": -1.35,
       "margin": 305.28,
       "leverage": "5",
       "tier": "4/12",
@@ -64,13 +64,13 @@
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": 0.51,
-      "pnl_pct": 0.05,
+      "pnl": 0.97,
+      "pnl_pct": 0.1,
       "margin": 166.47,
       "leverage": "6",
       "tier": "2/9",
       "entry": 1.3174,
-      "mark": 1.3167
+      "mark": 1.3161
     }
   ],
   "signals": {
@@ -100,7 +100,7 @@
     },
     "AVAXUSDT": {
       "dir": "short",
-      "conf": 0.666
+      "conf": 0.67
     },
     "ETHUSDT": {
       "dir": "short",
@@ -128,7 +128,7 @@
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.576
+      "conf": 0.568
     },
     "XRPUSDT": {
       "dir": "short",
