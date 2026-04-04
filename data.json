@@ -1,76 +1,76 @@
 {
-  "ts": "2026-04-05T04:01:31.622154+09:00",
+  "ts": "2026-04-05T04:02:32.865023+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 32923.81,
-  "available": 30602.88,
-  "unrealized": -68.96,
+  "equity": 32901.78,
+  "available": 30578.87,
+  "unrealized": -89.05,
   "daily_pnl": 0,
-  "total_pnl": -76.19,
-  "cum_pct": -0.23,
-  "daily_avg_pct": -0.23,
-  "annual_pct": -56.85,
+  "total_pnl": -98.22,
+  "cum_pct": -0.3,
+  "daily_avg_pct": -0.3,
+  "annual_pct": -66.6,
   "mdd": -0.37,
-  "current_dd": -0.28,
-  "seed_used": 2320.93,
-  "seed_used_pct": 7.05,
+  "current_dd": -0.31,
+  "seed_used": 2322.91,
+  "seed_used_pct": 7.06,
   "long_count": 1,
   "short_count": 4,
   "positions": [
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": -17.37,
-      "pnl_pct": -0.38,
+      "pnl": -21.49,
+      "pnl_pct": -0.46,
       "margin": 462.6,
       "leverage": "10",
       "tier": "5/9",
       "entry": 8.9843,
-      "mark": 9.018
+      "mark": 9.026
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -6.14,
-      "pnl_pct": -0.17,
+      "pnl": -13.29,
+      "pnl_pct": -0.36,
       "margin": 458.8,
       "leverage": "8",
       "tier": "5/9",
       "entry": 80.668,
-      "mark": 80.803
+      "mark": 80.96
     },
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": -32.4,
-      "pnl_pct": -2.12,
+      "pnl": -31.77,
+      "pnl_pct": -2.08,
       "margin": 305.28,
       "leverage": "5",
       "tier": "4/12",
       "entry": 0.1212,
-      "mark": 0.1186
+      "mark": 0.1187
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": -13.23,
-      "pnl_pct": -0.3,
+      "pnl": -22.17,
+      "pnl_pct": -0.5,
       "margin": 293.62,
       "leverage": "15",
       "tier": "4/9",
       "entry": 0.2463,
-      "mark": 0.247
+      "mark": 0.2475
     },
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": 0.16,
-      "pnl_pct": 0.04,
+      "pnl": -0.36,
+      "pnl_pct": -0.08,
       "margin": 71.3,
       "leverage": "6",
       "tier": "2/9",
       "entry": 1.3131,
-      "mark": 1.3126
+      "mark": 1.3142
     }
   ],
   "signals": {
@@ -80,7 +80,7 @@
     },
     "DOGEUSDT": {
       "dir": "short",
-      "conf": 0.56
+      "conf": 0.561
     },
     "NEARUSDT": {
       "dir": "short",
