@@ -1,54 +1,65 @@
 {
-  "ts": "2026-04-04T23:46:36.253791+09:00",
+  "ts": "2026-04-04T23:47:37.288861+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 32995.67,
-  "available": 32455.16,
-  "unrealized": -0.19,
+  "equity": 32992.18,
+  "available": 32381.51,
+  "unrealized": -1.59,
   "daily_pnl": 0,
-  "total_pnl": -4.33,
-  "cum_pct": -0.01,
-  "daily_avg_pct": -0.01,
-  "annual_pct": -3.58,
+  "total_pnl": -7.82,
+  "cum_pct": -0.02,
+  "daily_avg_pct": -0.02,
+  "annual_pct": -7.04,
   "mdd": -0.02,
   "current_dd": -0.02,
-  "seed_used": 540.51,
-  "seed_used_pct": 1.64,
+  "seed_used": 610.67,
+  "seed_used_pct": 1.85,
   "long_count": 1,
-  "short_count": 2,
+  "short_count": 3,
   "positions": [
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": -1.39,
-      "pnl_pct": -0.23,
+      "pnl": -1.69,
+      "pnl_pct": -0.28,
       "margin": 121.15,
       "leverage": "5",
       "tier": "3/12",
       "entry": 0.1226,
-      "mark": 0.1223
+      "mark": 0.1222
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": 0.0,
-      "pnl_pct": -0.0,
+      "pnl": -0.88,
+      "pnl_pct": -0.08,
       "margin": 71.36,
       "leverage": "15",
       "tier": "2/9",
       "entry": 0.2446,
-      "mark": 0.2446
+      "mark": 0.2448
     },
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": 1.2,
-      "pnl_pct": 0.17,
+      "pnl": 1.04,
+      "pnl_pct": 0.15,
       "margin": 71.15,
       "leverage": "10",
       "tier": "2/9",
       "entry": 8.883,
-      "mark": 8.868
+      "mark": 8.87
+    },
+    {
+      "symbol": "SOLUSDT",
+      "side": "SHORT",
+      "pnl": -0.07,
+      "pnl_pct": -0.01,
+      "margin": 69.83,
+      "leverage": "8",
+      "tier": "1/9",
+      "entry": 79.81,
+      "mark": 79.82
     }
   ],
   "signals": {
@@ -78,7 +89,7 @@
     },
     "AVAXUSDT": {
       "dir": "short",
-      "conf": 0.803
+      "conf": 0.806
     },
     "ETHUSDT": {
       "dir": "short",
@@ -94,11 +105,11 @@
     },
     "ALGOUSDT": {
       "dir": "long",
-      "conf": 0.605
+      "conf": 0.604
     },
     "HYPEUSDT": {
       "dir": "short",
-      "conf": 0.556
+      "conf": 0.558
     },
     "SUIUSDT": {
       "dir": "short",
@@ -106,7 +117,7 @@
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.563
+      "conf": 0.801
     },
     "XRPUSDT": {
       "dir": "short",
@@ -126,7 +137,7 @@
     },
     "ADAUSDT": {
       "dir": "short",
-      "conf": 0.971
+      "conf": 0.969
     }
   },
   "equity_hist": [],
