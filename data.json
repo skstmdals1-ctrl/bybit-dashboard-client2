@@ -1,49 +1,24 @@
 {
-  "ts": "2026-04-05T11:00:00+09:00",
+  "ts": "2026-04-04T20:25:11.354477+09:00",
   "start_date": "2026-04-05",
-  "status": "running",
-  "equity": 33120.45,
-  "available": 18500.00,
-  "unrealized": 320.15,
-  "daily_pnl": 85.30,
-  "total_pnl": 120.45,
-  "cum_pct": 0.37,
-  "daily_avg_pct": 0.37,
-  "annual_pct": 138.25,
-  "mdd": -1.25,
-  "current_dd": -0.42,
-  "seed_used": 14620.45,
-  "seed_used_pct": 44.14,
-  "long_count": 3,
-  "short_count": 1,
-  "num_days": 1,
-  "positions": [
-    {
-      "symbol": "BTCUSDT",
-      "side": "LONG",
-      "pnl": 215.30,
-      "pnl_pct": 0.82,
-      "margin": 4800.00,
-      "leverage": "15",
-      "tier": "3/10",
-      "entry": 83120.5000,
-      "mark": 83801.2000
-    }
-  ],
-  "signals": {
-    "BTCUSDT": { "dir": "long", "conf": 0.812 },
-    "ETHUSDT": { "dir": "short", "conf": 0.741 }
-  },
-  "equity_hist": [
-    { "t": "2026-04-05", "v": 120.45 }
-  ],
-  "trade_history": [
-    {
-      "ts": "2026-04-05 10:32",
-      "symbol": "SOLUSDT",
-      "side": "Sell",
-      "pnl": 45.20,
-      "reason": "fixed_tp"
-    }
-  ]
+  "status": "stopped",
+  "equity": 32993.89,
+  "available": 32993.89,
+  "unrealized": 0.0,
+  "daily_pnl": 0,
+  "total_pnl": -6.11,
+  "cum_pct": -0.02,
+  "daily_avg_pct": -0.02,
+  "annual_pct": -7.04,
+  "mdd": 0.0,
+  "current_dd": 0.0,
+  "seed_used": 0,
+  "seed_used_pct": 0.0,
+  "long_count": 0,
+  "short_count": 0,
+  "positions": [],
+  "signals": {},
+  "equity_hist": [],
+  "trade_history": [],
+  "num_days": 1
 }
