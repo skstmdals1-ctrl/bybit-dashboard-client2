@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-04T22:50:33.206134+09:00",
+  "ts": "2026-04-04T22:51:35.641422+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 33004.25,
-  "available": 32463.15,
-  "unrealized": 8.0,
+  "equity": 33006.8,
+  "available": 32465.37,
+  "unrealized": 8.13,
   "daily_pnl": 0,
-  "total_pnl": 4.25,
-  "cum_pct": 0.01,
-  "daily_avg_pct": 0.01,
-  "annual_pct": 3.72,
+  "total_pnl": 6.8,
+  "cum_pct": 0.02,
+  "daily_avg_pct": 0.02,
+  "annual_pct": 7.57,
   "mdd": -0.02,
   "current_dd": 0.0,
-  "seed_used": 541.1,
+  "seed_used": 541.42,
   "seed_used_pct": 1.64,
   "long_count": 1,
   "short_count": 2,
@@ -20,35 +20,35 @@
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": 2.86,
-      "pnl_pct": 0.47,
+      "pnl": 3.95,
+      "pnl_pct": 0.65,
       "margin": 121.15,
       "leverage": "5",
       "tier": "3/12",
       "entry": 0.1226,
-      "mark": 0.1232
+      "mark": 0.1234
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": 3.94,
-      "pnl_pct": 0.37,
+      "pnl": 3.06,
+      "pnl_pct": 0.29,
       "margin": 71.36,
       "leverage": "15",
       "tier": "2/9",
       "entry": 0.2446,
-      "mark": 0.2437
+      "mark": 0.2439
     },
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": 1.2,
-      "pnl_pct": 0.17,
+      "pnl": 1.12,
+      "pnl_pct": 0.16,
       "margin": 71.15,
       "leverage": "10",
       "tier": "2/9",
       "entry": 8.883,
-      "mark": 8.868
+      "mark": 8.869
     }
   ],
   "signals": {
@@ -78,7 +78,7 @@
     },
     "AVAXUSDT": {
       "dir": "short",
-      "conf": 0.803
+      "conf": 0.819
     },
     "ETHUSDT": {
       "dir": "short",
