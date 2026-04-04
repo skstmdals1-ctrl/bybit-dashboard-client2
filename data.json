@@ -1,32 +1,32 @@
 {
-  "ts": "2026-04-04T21:15:49.277872+09:00",
+  "ts": "2026-04-04T21:16:50.419359+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 32996.73,
-  "available": 32828.9,
-  "unrealized": -0.32,
+  "equity": 32997.35,
+  "available": 32756.91,
+  "unrealized": -0.56,
   "daily_pnl": 0,
-  "total_pnl": -3.27,
+  "total_pnl": -2.65,
   "cum_pct": -0.01,
   "daily_avg_pct": -0.01,
   "annual_pct": -3.58,
   "mdd": -0.01,
-  "current_dd": -0.0,
-  "seed_used": 167.84,
-  "seed_used_pct": 0.51,
+  "current_dd": 0.0,
+  "seed_used": 240.44,
+  "seed_used_pct": 0.73,
   "long_count": 0,
   "short_count": 1,
   "positions": [
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": -0.32,
-      "pnl_pct": -0.05,
+      "pnl": -0.56,
+      "pnl_pct": -0.08,
       "margin": 71.15,
       "leverage": "10",
       "tier": "2/9",
       "entry": 8.883,
-      "mark": 8.887
+      "mark": 8.89
     }
   ],
   "signals": {
@@ -56,7 +56,7 @@
     },
     "AVAXUSDT": {
       "dir": "short",
-      "conf": 0.817
+      "conf": 0.812
     },
     "ETHUSDT": {
       "dir": "short",
@@ -68,19 +68,19 @@
     },
     "BNBUSDT": {
       "dir": "short",
-      "conf": 0.62
+      "conf": 0.619
     },
     "ALGOUSDT": {
       "dir": "long",
-      "conf": 0.598
+      "conf": 0.599
     },
     "HYPEUSDT": {
       "dir": "short",
-      "conf": 0.557
+      "conf": 0.561
     },
     "SUIUSDT": {
       "dir": "short",
-      "conf": 0.654
+      "conf": 0.653
     },
     "SOLUSDT": {
       "dir": "short",
@@ -88,7 +88,7 @@
     },
     "XRPUSDT": {
       "dir": "short",
-      "conf": 0.62
+      "conf": 0.619
     },
     "DOTUSDT": {
       "dir": "short",
@@ -96,11 +96,15 @@
     },
     "1000PEPEUSDT": {
       "dir": "short",
-      "conf": 0.574
+      "conf": 0.575
     },
     "ENAUSDT": {
       "dir": "short",
       "conf": 0.511
+    },
+    "ADAUSDT": {
+      "dir": "short",
+      "conf": 0.998
     }
   },
   "equity_hist": [],
