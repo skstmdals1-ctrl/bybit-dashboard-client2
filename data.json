@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-04T23:05:51.483132+09:00",
+  "ts": "2026-04-04T23:06:52.718995+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 33002.27,
-  "available": 32460.91,
-  "unrealized": 7.17,
+  "equity": 33004.35,
+  "available": 32462.88,
+  "unrealized": 7.56,
   "daily_pnl": 0,
-  "total_pnl": 2.27,
+  "total_pnl": 4.35,
   "cum_pct": 0.01,
   "daily_avg_pct": 0.01,
   "annual_pct": 3.72,
   "mdd": -0.02,
-  "current_dd": -0.01,
-  "seed_used": 541.36,
+  "current_dd": -0.0,
+  "seed_used": 541.47,
   "seed_used_pct": 1.64,
   "long_count": 1,
   "short_count": 2,
@@ -20,13 +20,13 @@
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": 3.7,
-      "pnl_pct": 0.61,
+      "pnl": 4.09,
+      "pnl_pct": 0.68,
       "margin": 121.15,
       "leverage": "5",
       "tier": "3/12",
       "entry": 0.1226,
-      "mark": 0.1233
+      "mark": 0.1234
     },
     {
       "symbol": "ADAUSDT",
@@ -54,7 +54,7 @@
   "signals": {
     "LINKUSDT": {
       "dir": "short",
-      "conf": 0.577
+      "conf": 0.576
     },
     "DOGEUSDT": {
       "dir": "short",
@@ -78,7 +78,7 @@
     },
     "AVAXUSDT": {
       "dir": "short",
-      "conf": 0.819
+      "conf": 0.809
     },
     "ETHUSDT": {
       "dir": "short",
@@ -90,7 +90,7 @@
     },
     "BNBUSDT": {
       "dir": "short",
-      "conf": 0.621
+      "conf": 0.612
     },
     "ALGOUSDT": {
       "dir": "long",
@@ -126,7 +126,7 @@
     },
     "ADAUSDT": {
       "dir": "short",
-      "conf": 0.929
+      "conf": 0.948
     }
   },
   "equity_hist": [],
