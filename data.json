@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-05T02:36:44.237290+09:00",
+  "ts": "2026-04-05T02:37:45.504947+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 32928.45,
-  "available": 30829.48,
-  "unrealized": -64.43,
+  "equity": 32926.53,
+  "available": 30828.04,
+  "unrealized": -67.28,
   "daily_pnl": 0,
-  "total_pnl": -71.55,
+  "total_pnl": -73.47,
   "cum_pct": -0.22,
   "daily_avg_pct": -0.22,
   "annual_pct": -55.24,
   "mdd": -0.27,
-  "current_dd": -0.27,
-  "seed_used": 2098.98,
+  "current_dd": -0.23,
+  "seed_used": 2098.49,
   "seed_used_pct": 6.37,
   "long_count": 1,
   "short_count": 4,
@@ -20,57 +20,57 @@
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -9.65,
-      "pnl_pct": -0.26,
+      "pnl": -10.24,
+      "pnl_pct": -0.28,
       "margin": 458.8,
       "leverage": "8",
       "tier": "5/9",
       "entry": 80.668,
-      "mark": 80.88
+      "mark": 80.893
     },
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": -11.36,
-      "pnl_pct": -0.74,
+      "pnl": -14.39,
+      "pnl_pct": -0.94,
       "margin": 305.28,
       "leverage": "5",
       "tier": "4/12",
       "entry": 0.1212,
-      "mark": 0.1203
+      "mark": 0.12
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": -20.38,
-      "pnl_pct": -0.46,
+      "pnl": -18.6,
+      "pnl_pct": -0.42,
       "margin": 293.62,
       "leverage": "15",
       "tier": "4/9",
       "entry": 0.2463,
-      "mark": 0.2474
+      "mark": 0.2473
     },
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": -22.46,
-      "pnl_pct": -0.77,
+      "pnl": -23.45,
+      "pnl_pct": -0.8,
       "margin": 293.2,
       "leverage": "10",
       "tier": "4/9",
       "entry": 8.9445,
-      "mark": 9.013
+      "mark": 9.016
     },
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": -0.59,
+      "pnl": -0.62,
       "pnl_pct": -0.14,
       "margin": 71.3,
       "leverage": "6",
       "tier": "2/9",
       "entry": 1.3131,
-      "mark": 1.3149
+      "mark": 1.315
     }
   ],
   "signals": {
@@ -100,7 +100,7 @@
     },
     "AVAXUSDT": {
       "dir": "short",
-      "conf": 0.814
+      "conf": 0.812
     },
     "ETHUSDT": {
       "dir": "short",
@@ -128,7 +128,7 @@
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.635
+      "conf": 0.626
     },
     "XRPUSDT": {
       "dir": "short",
