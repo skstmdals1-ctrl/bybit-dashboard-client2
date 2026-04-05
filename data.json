@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-05T17:07:01.891307+09:00",
+  "ts": "2026-04-05T17:08:02.995851+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 105116.11,
-  "available": 103270.76,
-  "unrealized": -54.17,
+  "equity": 105113.18,
+  "available": 103267.95,
+  "unrealized": -54.67,
   "daily_pnl": 197.64,
-  "total_pnl": 116.11,
+  "total_pnl": 113.18,
   "cum_pct": 0.11,
   "daily_avg_pct": 0.11,
   "annual_pct": 49.37,
   "mdd": -0.46,
-  "current_dd": -0.01,
-  "seed_used": 1845.35,
+  "current_dd": 0.0,
+  "seed_used": 1845.23,
   "seed_used_pct": 1.76,
   "long_count": 2,
   "short_count": 4,
@@ -20,35 +20,35 @@
     {
       "symbol": "HYPEUSDT",
       "side": "LONG",
-      "pnl": -51.21,
-      "pnl_pct": -0.92,
+      "pnl": -50.6,
+      "pnl_pct": -0.91,
       "margin": 461.99,
       "leverage": "12",
       "tier": "4/9",
       "entry": 36.0298,
-      "mark": 35.697
+      "mark": 35.701
     },
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": -63.38,
-      "pnl_pct": -4.15,
+      "pnl": -64.27,
+      "pnl_pct": -4.21,
       "margin": 305.28,
       "leverage": "5",
       "tier": "4/12",
       "entry": 0.1212,
-      "mark": 0.1162
+      "mark": 0.1161
     },
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": 15.45,
-      "pnl_pct": 1.55,
+      "pnl": 15.07,
+      "pnl_pct": 1.51,
       "margin": 166.47,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3174,
-      "mark": 1.297
+      "mark": 1.2975
     },
     {
       "symbol": "ADAUSDT",
@@ -64,24 +64,24 @@
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": 0.65,
-      "pnl_pct": 0.11,
+      "pnl": 0.78,
+      "pnl_pct": 0.14,
       "margin": 71.49,
       "leverage": "8",
       "tier": "1/9",
       "entry": 8.812,
-      "mark": 8.802
+      "mark": 8.8
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": 6.19,
-      "pnl_pct": 1.32,
+      "pnl": 6.2,
+      "pnl_pct": 1.33,
       "margin": 58.48,
       "leverage": "8",
       "tier": "5/9",
       "entry": 80.668,
-      "mark": 79.6
+      "mark": 79.599
     }
   ],
   "signals": {
@@ -123,7 +123,7 @@
     },
     "BNBUSDT": {
       "dir": "short",
-      "conf": 0.609
+      "conf": 0.608
     },
     "ALGOUSDT": {
       "dir": "long",
