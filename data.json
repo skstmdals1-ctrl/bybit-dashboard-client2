@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-05T15:51:01.472774+09:00",
+  "ts": "2026-04-05T15:52:02.532948+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 33138.08,
-  "available": 31348.93,
-  "unrealized": -46.39,
+  "equity": 33142.0,
+  "available": 31352.3,
+  "unrealized": -42.44,
   "daily_pnl": 190.9,
-  "total_pnl": 138.08,
-  "cum_pct": 0.42,
-  "daily_avg_pct": 0.42,
-  "annual_pct": 361.72,
+  "total_pnl": 142.0,
+  "cum_pct": 0.43,
+  "daily_avg_pct": 0.43,
+  "annual_pct": 378.81,
   "mdd": -0.46,
-  "current_dd": 0.0,
-  "seed_used": 1789.16,
+  "current_dd": -0.01,
+  "seed_used": 1789.7,
   "seed_used_pct": 5.4,
   "long_count": 2,
   "short_count": 3,
@@ -20,19 +20,19 @@
     {
       "symbol": "HYPEUSDT",
       "side": "LONG",
-      "pnl": -55.06,
-      "pnl_pct": -0.99,
+      "pnl": -49.06,
+      "pnl_pct": -0.88,
       "margin": 461.99,
       "leverage": "12",
       "tier": "4/9",
       "entry": 36.0298,
-      "mark": 35.672
+      "mark": 35.711
     },
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": -47.26,
-      "pnl_pct": -3.1,
+      "pnl": -47.64,
+      "pnl_pct": -3.12,
       "margin": 305.28,
       "leverage": "5",
       "tier": "4/12",
@@ -42,35 +42,35 @@
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": 12.42,
-      "pnl_pct": 1.24,
+      "pnl": 12.49,
+      "pnl_pct": 1.25,
       "margin": 166.47,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3174,
-      "mark": 1.301
+      "mark": 1.3009
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": 11.71,
-      "pnl_pct": 1.26,
+      "pnl": 11.36,
+      "pnl_pct": 1.22,
       "margin": 115.96,
       "leverage": "8",
       "tier": "5/9",
       "entry": 80.668,
-      "mark": 79.65
+      "mark": 79.68
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": 31.8,
-      "pnl_pct": 1.83,
+      "pnl": 30.4,
+      "pnl_pct": 1.75,
       "margin": 115.8,
       "leverage": "15",
       "tier": "5/9",
       "entry": 0.2473,
-      "mark": 0.2428
+      "mark": 0.243
     }
   ],
   "signals": {
@@ -136,7 +136,7 @@
     },
     "DOTUSDT": {
       "dir": "short",
-      "conf": 0.641
+      "conf": 0.639
     },
     "1000PEPEUSDT": {
       "dir": "long",
@@ -152,7 +152,7 @@
     },
     "TAOUSDT": {
       "dir": "long",
-      "conf": 0.531
+      "conf": 0.538
     },
     "WLDUSDT": {
       "dir": "short",
