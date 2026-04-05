@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-05T16:50:44.162432+09:00",
+  "ts": "2026-04-05T16:51:45.242868+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 105100.85,
-  "available": 103257.47,
-  "unrealized": -69.8,
+  "equity": 105107.34,
+  "available": 103263.64,
+  "unrealized": -66.25,
   "daily_pnl": 197.64,
-  "total_pnl": 100.85,
+  "total_pnl": 107.34,
   "cum_pct": 0.1,
   "daily_avg_pct": 0.1,
   "annual_pct": 44.03,
   "mdd": -0.46,
-  "current_dd": -0.02,
-  "seed_used": 1843.38,
+  "current_dd": -0.01,
+  "seed_used": 1843.7,
   "seed_used_pct": 1.75,
   "long_count": 2,
   "short_count": 4,
@@ -20,35 +20,35 @@
     {
       "symbol": "HYPEUSDT",
       "side": "LONG",
-      "pnl": -72.91,
-      "pnl_pct": -1.32,
+      "pnl": -69.06,
+      "pnl_pct": -1.25,
       "margin": 461.99,
       "leverage": "12",
       "tier": "4/9",
       "entry": 36.0298,
-      "mark": 35.556
+      "mark": 35.581
     },
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": -62.0,
-      "pnl_pct": -4.06,
+      "pnl": -62.25,
+      "pnl_pct": -4.08,
       "margin": 305.28,
       "leverage": "5",
       "tier": "4/12",
       "entry": 0.1212,
-      "mark": 0.1163
+      "mark": 0.1162
     },
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": 15.98,
-      "pnl_pct": 1.6,
+      "pnl": 16.21,
+      "pnl_pct": 1.62,
       "margin": 166.47,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3174,
-      "mark": 1.2963
+      "mark": 1.296
     },
     {
       "symbol": "ADAUSDT",
@@ -64,24 +64,24 @@
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": 1.49,
-      "pnl_pct": 0.26,
+      "pnl": 1.36,
+      "pnl_pct": 0.24,
       "margin": 71.49,
       "leverage": "8",
       "tier": "1/9",
       "entry": 8.812,
-      "mark": 8.789
+      "mark": 8.791
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": 6.69,
-      "pnl_pct": 1.43,
+      "pnl": 6.54,
+      "pnl_pct": 1.4,
       "margin": 58.48,
       "leverage": "8",
       "tier": "5/9",
       "entry": 80.668,
-      "mark": 79.515
+      "mark": 79.54
     }
   ],
   "signals": {
@@ -139,11 +139,11 @@
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.762
+      "conf": 0.758
     },
     "XRPUSDT": {
       "dir": "short",
-      "conf": 0.617
+      "conf": 0.616
     },
     "DOTUSDT": {
       "dir": "short",
@@ -163,7 +163,7 @@
     },
     "TAOUSDT": {
       "dir": "long",
-      "conf": 0.531
+      "conf": 0.527
     },
     "WLDUSDT": {
       "dir": "short",
