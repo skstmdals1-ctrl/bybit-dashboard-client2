@@ -1,76 +1,76 @@
 {
-  "ts": "2026-04-05T14:51:56.342897+09:00",
+  "ts": "2026-04-05T14:52:57.623400+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 33087.23,
-  "available": 29970.19,
-  "unrealized": 94.22,
-  "daily_pnl": 0,
-  "total_pnl": 87.23,
-  "cum_pct": 0.26,
-  "daily_avg_pct": 0.26,
-  "annual_pct": 157.99,
+  "equity": 33094.47,
+  "available": 30209.64,
+  "unrealized": 50.78,
+  "daily_pnl": 51.45,
+  "total_pnl": 94.47,
+  "cum_pct": 0.29,
+  "daily_avg_pct": 0.29,
+  "annual_pct": 187.76,
   "mdd": -0.46,
   "current_dd": 0.0,
-  "seed_used": 3117.05,
-  "seed_used_pct": 9.42,
+  "seed_used": 2884.83,
+  "seed_used_pct": 8.72,
   "long_count": 2,
   "short_count": 4,
   "positions": [
     {
-      "symbol": "ADAUSDT",
-      "side": "SHORT",
-      "pnl": 90.68,
-      "pnl_pct": 1.31,
-      "margin": 463.15,
-      "leverage": "15",
-      "tier": "5/9",
-      "entry": 0.2473,
-      "mark": 0.2441
-    },
-    {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": 56.78,
-      "pnl_pct": 1.23,
+      "pnl": 58.32,
+      "pnl_pct": 1.26,
       "margin": 462.6,
       "leverage": "10",
       "tier": "5/9",
       "entry": 8.9843,
-      "mark": 8.874
+      "mark": 8.871
     },
     {
       "symbol": "HYPEUSDT",
       "side": "LONG",
-      "pnl": -48.13,
-      "pnl_pct": -0.87,
+      "pnl": -53.21,
+      "pnl_pct": -0.96,
       "margin": 461.99,
       "leverage": "12",
       "tier": "4/9",
       "entry": 36.0298,
-      "mark": 35.717
+      "mark": 35.684
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": 19.93,
-      "pnl_pct": 0.54,
+      "pnl": 21.75,
+      "pnl_pct": 0.59,
       "margin": 458.8,
       "leverage": "8",
       "tier": "5/9",
       "entry": 80.668,
-      "mark": 80.23
+      "mark": 80.19
     },
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": -37.44,
-      "pnl_pct": -2.45,
+      "pnl": -39.45,
+      "pnl_pct": -2.58,
       "margin": 305.28,
       "leverage": "5",
       "tier": "4/12",
       "entry": 0.1212,
-      "mark": 0.1182
+      "mark": 0.1181
+    },
+    {
+      "symbol": "ADAUSDT",
+      "side": "SHORT",
+      "pnl": 50.96,
+      "pnl_pct": 1.47,
+      "margin": 231.58,
+      "leverage": "15",
+      "tier": "5/9",
+      "entry": 0.2473,
+      "mark": 0.2437
     },
     {
       "symbol": "XRPUSDT",
@@ -172,6 +172,14 @@
       "v": 0.0
     }
   ],
-  "trade_history": [],
+  "trade_history": [
+    {
+      "ts": "2026-04-05 14:52",
+      "symbol": "ADAUSDT",
+      "side": "Sell",
+      "pnl": 51.45,
+      "reason": "-"
+    }
+  ],
   "num_days": 1
 }
