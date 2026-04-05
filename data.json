@@ -1,87 +1,87 @@
 {
-  "ts": "2026-04-05T16:46:38.694402+09:00",
+  "ts": "2026-04-05T16:47:40.634257+09:00",
   "start_date": "2026-04-05",
-  "status": "stopped",
-  "equity": 105098.22,
-  "available": 103255.41,
-  "unrealized": -75.59,
+  "status": "running",
+  "equity": 105101.99,
+  "available": 103257.35,
+  "unrealized": -67.08,
   "daily_pnl": 197.64,
-  "total_pnl": 98.22,
-  "cum_pct": 0.09,
-  "daily_avg_pct": 0.09,
-  "annual_pct": 38.87,
+  "total_pnl": 101.99,
+  "cum_pct": 0.1,
+  "daily_avg_pct": 0.1,
+  "annual_pct": 44.03,
   "mdd": -0.46,
-  "current_dd": -0.01,
-  "seed_used": 1842.81,
-  "seed_used_pct": 1.75,
+  "current_dd": -0.02,
+  "seed_used": 1844.64,
+  "seed_used_pct": 1.76,
   "long_count": 2,
   "short_count": 4,
   "positions": [
     {
       "symbol": "HYPEUSDT",
       "side": "LONG",
-      "pnl": -76.91,
-      "pnl_pct": -1.39,
+      "pnl": -66.91,
+      "pnl_pct": -1.21,
       "margin": 461.99,
       "leverage": "12",
       "tier": "4/9",
       "entry": 36.0298,
-      "mark": 35.53
+      "mark": 35.595
     },
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": -63.76,
-      "pnl_pct": -4.18,
+      "pnl": -60.61,
+      "pnl_pct": -3.97,
       "margin": 305.28,
       "leverage": "5",
       "tier": "4/12",
       "entry": 0.1212,
-      "mark": 0.1161
+      "mark": 0.1164
     },
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": 15.53,
-      "pnl_pct": 1.55,
+      "pnl": 14.84,
+      "pnl_pct": 1.49,
       "margin": 166.47,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3174,
-      "mark": 1.2969
+      "mark": 1.2978
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": 41.63,
-      "pnl_pct": 2.4,
+      "pnl": 38.82,
+      "pnl_pct": 2.24,
       "margin": 115.8,
       "leverage": "15",
       "tier": "5/9",
       "entry": 0.2473,
-      "mark": 0.2414
+      "mark": 0.2418
     },
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": 1.17,
-      "pnl_pct": 0.2,
+      "pnl": 0.58,
+      "pnl_pct": 0.1,
       "margin": 71.49,
       "leverage": "8",
       "tier": "1/9",
       "entry": 8.812,
-      "mark": 8.794
+      "mark": 8.803
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": 6.74,
-      "pnl_pct": 1.44,
+      "pnl": 6.17,
+      "pnl_pct": 1.32,
       "margin": 58.48,
       "leverage": "8",
       "tier": "5/9",
       "entry": 80.668,
-      "mark": 79.506
+      "mark": 79.604
     }
   ],
   "signals": {
