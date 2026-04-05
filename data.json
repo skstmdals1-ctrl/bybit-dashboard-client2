@@ -1,98 +1,98 @@
 {
-  "ts": "2026-04-06T07:45:27.084396+09:00",
+  "ts": "2026-04-06T07:46:28.178016+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 105163.28,
-  "available": 101015.85,
-  "unrealized": -42.1,
+  "equity": 105139.34,
+  "available": 100982.91,
+  "unrealized": -68.57,
   "daily_pnl": 13.13,
-  "total_pnl": 163.28,
-  "cum_pct": 0.16,
-  "daily_avg_pct": 0.08,
-  "annual_pct": 33.89,
+  "total_pnl": 139.34,
+  "cum_pct": 0.13,
+  "daily_avg_pct": 0.065,
+  "annual_pct": 26.77,
   "mdd": -0.46,
-  "current_dd": -0.07,
-  "seed_used": 4147.44,
-  "seed_used_pct": 3.94,
+  "current_dd": -0.14,
+  "seed_used": 4156.43,
+  "seed_used_pct": 3.95,
   "long_count": 2,
   "short_count": 5,
   "positions": [
     {
       "symbol": "TAOUSDT",
       "side": "SHORT",
-      "pnl": -65.22,
-      "pnl_pct": -1.0,
+      "pnl": -92.93,
+      "pnl_pct": -1.42,
       "margin": 934.69,
       "leverage": "7",
       "tier": "3/9",
       "entry": 302.2371,
-      "mark": 305.25
+      "mark": 306.53
     },
     {
       "symbol": "HYPEUSDT",
       "side": "LONG",
-      "pnl": 33.68,
-      "pnl_pct": 0.7,
+      "pnl": 48.92,
+      "pnl_pct": 1.02,
       "margin": 531.41,
       "leverage": "9",
       "tier": "3/9",
       "entry": 35.788,
-      "mark": 36.04
+      "mark": 36.154
     },
     {
       "symbol": "ENAUSDT",
       "side": "SHORT",
-      "pnl": -14.8,
-      "pnl_pct": -0.46,
+      "pnl": -24.16,
+      "pnl_pct": -0.76,
       "margin": 530.93,
       "leverage": "6",
       "tier": "2/9",
       "entry": 0.0783,
-      "mark": 0.0786
+      "mark": 0.0789
     },
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": -0.37,
-      "pnl_pct": -0.01,
+      "pnl": -4.81,
+      "pnl_pct": -0.18,
       "margin": 527.93,
       "leverage": "5",
       "tier": "3/9",
       "entry": 594.5162,
-      "mark": 594.6
+      "mark": 595.6
     },
     {
       "symbol": "ALGOUSDT",
       "side": "LONG",
-      "pnl": 6.85,
-      "pnl_pct": 0.9,
+      "pnl": 9.12,
+      "pnl_pct": 1.19,
       "margin": 152.64,
       "leverage": "5",
       "tier": "5/12",
       "entry": 0.1212,
-      "mark": 0.1223
+      "mark": 0.1226
     },
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": 4.43,
-      "pnl_pct": 0.89,
+      "pnl": 3.52,
+      "pnl_pct": 0.7,
       "margin": 83.24,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3174,
-      "mark": 1.3057
+      "mark": 1.3081
     },
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": -6.68,
-      "pnl_pct": -1.17,
+      "pnl": -8.24,
+      "pnl_pct": -1.44,
       "margin": 71.49,
       "leverage": "8",
       "tier": "1/9",
       "entry": 8.812,
-      "mark": 8.915
+      "mark": 8.939
     }
   ],
   "signals": {
@@ -122,7 +122,7 @@
     },
     "AVAXUSDT": {
       "dir": "short",
-      "conf": 0.705
+      "conf": 0.715
     },
     "ETHUSDT": {
       "dir": "short",
@@ -182,7 +182,7 @@
     },
     "BCHUSDT": {
       "dir": "long",
-      "conf": 0.723
+      "conf": 0.717
     }
   },
   "equity_hist": [
