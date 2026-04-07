@@ -1,49 +1,49 @@
 {
-  "ts": "2026-04-07T10:52:20.372889+09:00",
+  "ts": "2026-04-07T10:53:21.481894+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 114191.85,
-  "available": 101449.45,
-  "unrealized": -1749.99,
-  "daily_pnl": 483.72,
-  "total_pnl": 9191.85,
-  "cum_pct": 8.75,
-  "daily_avg_pct": 2.9167,
-  "annual_pct": 3608477.66,
+  "equity": 114046.88,
+  "available": 101443.29,
+  "unrealized": -1949.46,
+  "daily_pnl": 537.64,
+  "total_pnl": 9046.88,
+  "cum_pct": 8.62,
+  "daily_avg_pct": 2.8733,
+  "annual_pct": 3093577.88,
   "mdd": -1.17,
   "current_dd": -0.89,
-  "seed_used": 12742.4,
-  "seed_used_pct": 11.16,
+  "seed_used": 12603.6,
+  "seed_used_pct": 11.05,
   "long_count": 3,
-  "short_count": 5,
+  "short_count": 4,
   "positions": [
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": -1282.49,
-      "pnl_pct": -2.68,
+      "pnl": -1432.26,
+      "pnl_pct": -2.99,
       "margin": 4792.85,
       "leverage": "10",
       "tier": "8/9",
       "entry": 8.9608,
-      "mark": 8.721
+      "mark": 8.693
     },
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": 34.79,
-      "pnl_pct": 0.39,
+      "pnl": 42.96,
+      "pnl_pct": 0.49,
       "margin": 1473.66,
       "leverage": "6",
       "tier": "5/9",
       "entry": 433.0037,
-      "mark": 431.3
+      "mark": 430.9
     },
     {
       "symbol": "1000PEPEUSDT",
       "side": "LONG",
-      "pnl": -284.61,
-      "pnl_pct": -4.16,
+      "pnl": -292.45,
+      "pnl_pct": -4.27,
       "margin": 1369.33,
       "leverage": "5",
       "tier": "5/12",
@@ -53,30 +53,30 @@
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": -9.39,
-      "pnl_pct": -0.2,
+      "pnl": -3.61,
+      "pnl_pct": -0.08,
       "margin": 931.79,
       "leverage": "5",
       "tier": "3/9",
       "entry": 596.5373,
-      "mark": 597.74
+      "mark": 597.0
     },
     {
       "symbol": "NEARUSDT",
       "side": "LONG",
-      "pnl": -114.56,
-      "pnl_pct": -2.59,
+      "pnl": -122.25,
+      "pnl_pct": -2.76,
       "margin": 886.33,
       "leverage": "5",
       "tier": "3/10",
       "entry": 1.2676,
-      "mark": 1.2348
+      "mark": 1.2326
     },
     {
       "symbol": "ENAUSDT",
       "side": "SHORT",
-      "pnl": -151.98,
-      "pnl_pct": -4.77,
+      "pnl": -150.76,
+      "pnl_pct": -4.73,
       "margin": 530.93,
       "leverage": "6",
       "tier": "2/9",
@@ -86,24 +86,13 @@
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": 7.33,
-      "pnl_pct": 0.58,
+      "pnl": 9.04,
+      "pnl_pct": 0.72,
       "margin": 210.17,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3239,
-      "mark": 1.3162
-    },
-    {
-      "symbol": "SOLUSDT",
-      "side": "SHORT",
-      "pnl": 51.04,
-      "pnl_pct": 2.83,
-      "margin": 120.08,
-      "leverage": "15",
-      "tier": "1/12",
-      "entry": 81.87,
-      "mark": 79.55
+      "mark": 1.3144
     }
   ],
   "signals": {
@@ -211,10 +200,31 @@
     },
     {
       "t": "2026-04-07",
-      "v": 334.75
+      "v": 362.18
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-07 10:52",
+      "symbol": "SOLUSDT",
+      "side": "Sell",
+      "pnl": 14.09,
+      "reason": "1/12"
+    },
+    {
+      "ts": "2026-04-07 10:52",
+      "symbol": "SOLUSDT",
+      "side": "Sell",
+      "pnl": 13.34,
+      "reason": "1/12"
+    },
+    {
+      "ts": "2026-04-07 10:52",
+      "symbol": "SOLUSDT",
+      "side": "Sell",
+      "pnl": 26.48,
+      "reason": "1/12"
+    },
     {
       "ts": "2026-04-07 09:42",
       "symbol": "ALGOUSDT",
@@ -333,27 +343,6 @@
       "side": "Buy",
       "pnl": 5.62,
       "reason": "마진 38.2USDT < 47"
-    },
-    {
-      "ts": "2026-04-06 10:21",
-      "symbol": "TAOUSDT",
-      "side": "Sell",
-      "pnl": 29.08,
-      "reason": "5/9"
-    },
-    {
-      "ts": "2026-04-06 08:31",
-      "symbol": "HYPEUSDT",
-      "side": "Buy",
-      "pnl": 9.43,
-      "reason": "마진 33.2USDT < 43"
-    },
-    {
-      "ts": "2026-04-06 08:31",
-      "symbol": "HYPEUSDT",
-      "side": "Buy",
-      "pnl": 9.25,
-      "reason": "마진 33.2USDT < 43"
     }
   ],
   "num_days": 3
