@@ -1,38 +1,38 @@
 {
-  "ts": "2026-04-07T17:45:01.642366+09:00",
+  "ts": "2026-04-07T17:46:02.820860+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 114158.29,
-  "available": 104597.79,
-  "unrealized": -486.6,
+  "equity": 114137.93,
+  "available": 104575.2,
+  "unrealized": -504.21,
   "daily_pnl": -816.22,
-  "total_pnl": 9158.29,
-  "cum_pct": 8.72,
-  "daily_avg_pct": 2.9067,
-  "annual_pct": 3482734.23,
+  "total_pnl": 9137.93,
+  "cum_pct": 8.7,
+  "daily_avg_pct": 2.9,
+  "annual_pct": 3400940.38,
   "mdd": -1.24,
-  "current_dd": -0.9,
-  "seed_used": 9560.5,
-  "seed_used_pct": 8.37,
+  "current_dd": -0.92,
+  "seed_used": 9562.73,
+  "seed_used_pct": 8.38,
   "long_count": 2,
   "short_count": 8,
   "positions": [
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": 6.2,
-      "pnl_pct": 0.07,
+      "pnl": 4.57,
+      "pnl_pct": 0.05,
       "margin": 1473.66,
       "leverage": "6",
       "tier": "5/9",
       "entry": 433.0037,
-      "mark": 432.7
+      "mark": 432.78
     },
     {
       "symbol": "1000PEPEUSDT",
       "side": "LONG",
-      "pnl": -250.91,
-      "pnl_pct": -3.66,
+      "pnl": -252.68,
+      "pnl_pct": -3.69,
       "margin": 1369.33,
       "leverage": "5",
       "tier": "5/12",
@@ -42,30 +42,30 @@
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": -38.76,
-      "pnl_pct": -0.83,
+      "pnl": -41.88,
+      "pnl_pct": -0.9,
       "margin": 931.79,
       "leverage": "5",
       "tier": "4/9",
       "entry": 596.5373,
-      "mark": 601.5
+      "mark": 601.9
     },
     {
       "symbol": "NEARUSDT",
       "side": "LONG",
-      "pnl": -98.48,
-      "pnl_pct": -2.22,
+      "pnl": -98.13,
+      "pnl_pct": -2.21,
       "margin": 886.33,
       "leverage": "5",
       "tier": "3/10",
       "entry": 1.2676,
-      "mark": 1.2394
+      "mark": 1.2395
     },
     {
       "symbol": "DOGEUSDT",
       "side": "SHORT",
-      "pnl": -3.1,
-      "pnl_pct": -0.11,
+      "pnl": -5.01,
+      "pnl_pct": -0.17,
       "margin": 576.01,
       "leverage": "5",
       "tier": "3/9",
@@ -75,57 +75,57 @@
     {
       "symbol": "ENAUSDT",
       "side": "SHORT",
-      "pnl": -112.9,
-      "pnl_pct": -3.54,
+      "pnl": -118.6,
+      "pnl_pct": -3.72,
       "margin": 530.93,
       "leverage": "6",
       "tier": "2/9",
       "entry": 0.0783,
-      "mark": 0.081
+      "mark": 0.0812
     },
     {
       "symbol": "WLDUSDT",
       "side": "SHORT",
-      "pnl": 1.6,
-      "pnl_pct": 0.08,
+      "pnl": -0.8,
+      "pnl_pct": -0.04,
       "margin": 247.22,
       "leverage": "8",
       "tier": "2/9",
       "entry": 0.2465,
-      "mark": 0.2463
+      "mark": 0.2466
     },
     {
       "symbol": "LTCUSDT",
       "side": "SHORT",
-      "pnl": 3.04,
-      "pnl_pct": 0.11,
+      "pnl": 2.54,
+      "pnl_pct": 0.09,
       "margin": 246.36,
       "leverage": "11",
       "tier": "2/9",
       "entry": 53.45,
-      "mark": 53.39
+      "mark": 53.4
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": 0.72,
-      "pnl_pct": 0.06,
+      "pnl": 0.46,
+      "pnl_pct": 0.04,
       "margin": 245.17,
       "leverage": "5",
       "tier": "2/9",
       "entry": 80.12,
-      "mark": 80.073
+      "mark": 80.09
     },
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": 5.99,
-      "pnl_pct": 0.48,
+      "pnl": 5.33,
+      "pnl_pct": 0.42,
       "margin": 210.17,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3239,
-      "mark": 1.3176
+      "mark": 1.3183
     }
   ],
   "signals": {
@@ -139,7 +139,7 @@
     },
     "NEARUSDT": {
       "dir": "short",
-      "conf": 0.613
+      "conf": 0.614
     },
     "BTCUSDT": {
       "dir": "short",
@@ -195,7 +195,7 @@
     },
     "1000PEPEUSDT": {
       "dir": "long",
-      "conf": 0.524
+      "conf": 0.521
     },
     "ENAUSDT": {
       "dir": "short",
@@ -219,7 +219,7 @@
     },
     "LTCUSDT": {
       "dir": "short",
-      "conf": 0.915
+      "conf": 0.911
     }
   },
   "equity_hist": [
