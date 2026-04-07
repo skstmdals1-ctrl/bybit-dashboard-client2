@@ -1,119 +1,108 @@
 {
-  "ts": "2026-04-08T08:42:01.003680+09:00",
+  "ts": "2026-04-08T08:43:02.150688+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 112795.93,
-  "available": 103524.06,
-  "unrealized": -1538.24,
-  "daily_pnl": -381.18,
-  "total_pnl": 7795.93,
-  "cum_pct": 7.42,
-  "daily_avg_pct": 1.855,
-  "annual_pct": 81851.87,
+  "equity": 112837.71,
+  "available": 103574.94,
+  "unrealized": -1492.58,
+  "daily_pnl": -381.17,
+  "total_pnl": 7837.71,
+  "cum_pct": 7.46,
+  "daily_avg_pct": 1.865,
+  "annual_pct": 84841.74,
   "mdd": -2.22,
   "current_dd": -2.09,
-  "seed_used": 9271.87,
-  "seed_used_pct": 8.22,
-  "long_count": 2,
+  "seed_used": 9262.77,
+  "seed_used_pct": 8.21,
+  "long_count": 1,
   "short_count": 6,
   "positions": [
     {
       "symbol": "DOGEUSDT",
       "side": "SHORT",
-      "pnl": -446.02,
-      "pnl_pct": -2.22,
+      "pnl": -407.3,
+      "pnl_pct": -2.03,
       "margin": 4011.75,
       "leverage": "5",
       "tier": "7/9",
       "entry": 0.0932,
-      "mark": 0.0953
+      "mark": 0.0951
     },
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": -328.68,
-      "pnl_pct": -2.49,
+      "pnl": -325.65,
+      "pnl_pct": -2.47,
       "margin": 2196.32,
       "leverage": "6",
       "tier": "5/9",
       "entry": 435.6347,
-      "mark": 446.5
+      "mark": 446.4
     },
     {
       "symbol": "LTCUSDT",
       "side": "SHORT",
-      "pnl": -333.72,
-      "pnl_pct": -2.99,
+      "pnl": -331.64,
+      "pnl_pct": -2.97,
       "margin": 1014.08,
       "leverage": "11",
       "tier": "3/9",
       "entry": 53.8102,
-      "mark": 55.42
+      "mark": 55.41
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": -234.71,
-      "pnl_pct": -8.15,
+      "pnl": -232.36,
+      "pnl_pct": -8.07,
       "margin": 575.95,
       "leverage": "5",
       "tier": "2/9",
       "entry": 0.2454,
-      "mark": 0.2654
+      "mark": 0.2652
     },
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": -147.49,
-      "pnl_pct": -5.13,
+      "pnl": -149.78,
+      "pnl_pct": -5.21,
       "margin": 575.39,
       "leverage": "5",
       "tier": "2/9",
       "entry": 1.2558,
-      "mark": 1.3202
+      "mark": 1.3212
     },
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": -57.54,
-      "pnl_pct": -4.56,
+      "pnl": -55.73,
+      "pnl_pct": -4.42,
       "margin": 210.17,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3239,
-      "mark": 1.3843
+      "mark": 1.3824
     },
     {
       "symbol": "BNBUSDT",
       "side": "LONG",
-      "pnl": 9.65,
-      "pnl_pct": 3.02,
+      "pnl": 9.59,
+      "pnl_pct": 3.0,
       "margin": 63.94,
       "leverage": "5",
       "tier": "2/9",
       "entry": 603.2,
-      "mark": 621.41
-    },
-    {
-      "symbol": "NEARUSDT",
-      "side": "LONG",
-      "pnl": 0.01,
-      "pnl_pct": 4.14,
-      "margin": 0.03,
-      "leverage": "5",
-      "tier": "1/10",
-      "entry": 1.2676,
-      "mark": 1.32
+      "mark": 621.3
     }
   ],
   "signals": {
     "LINKUSDT": {
       "dir": "short",
-      "conf": 0.534
+      "conf": 0.533
     },
     "DOGEUSDT": {
       "dir": "short",
-      "conf": 0.601
+      "conf": 0.598
     },
     "NEARUSDT": {
       "dir": "long",
@@ -129,11 +118,11 @@
     },
     "AAVEUSDT": {
       "dir": "short",
-      "conf": 0.567
+      "conf": 0.566
     },
     "AVAXUSDT": {
-      "dir": "short",
-      "conf": 0.507
+      "dir": "long",
+      "conf": 0.534
     },
     "ETHUSDT": {
       "dir": "short",
@@ -145,7 +134,7 @@
     },
     "BNBUSDT": {
       "dir": "short",
-      "conf": 0.589
+      "conf": 0.513
     },
     "ALGOUSDT": {
       "dir": "long",
@@ -196,8 +185,8 @@
       "conf": 0.529
     },
     "LTCUSDT": {
-      "dir": "short",
-      "conf": 0.578
+      "dir": "long",
+      "conf": 0.52
     }
   },
   "equity_hist": [
@@ -219,6 +208,13 @@
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-08 08:42",
+      "symbol": "NEARUSDT",
+      "side": "Buy",
+      "pnl": 0.01,
+      "reason": "마진 0.0USDT < 46"
+    },
     {
       "ts": "2026-04-08 08:37",
       "symbol": "NEARUSDT",
@@ -351,13 +347,6 @@
       "side": "Sell",
       "pnl": 0.03,
       "reason": "L2"
-    },
-    {
-      "ts": "2026-04-08 02:30",
-      "symbol": "SOLUSDT",
-      "side": "Sell",
-      "pnl": 8.35,
-      "reason": "2/9"
     }
   ],
   "num_days": 4
