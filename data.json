@@ -1,38 +1,38 @@
 {
-  "ts": "2026-04-07T14:10:04.077789+09:00",
+  "ts": "2026-04-07T14:11:05.253861+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 114134.01,
-  "available": 106923.13,
-  "unrealized": -488.63,
-  "daily_pnl": -844.64,
-  "total_pnl": 9134.01,
-  "cum_pct": 8.7,
-  "daily_avg_pct": 2.9,
-  "annual_pct": 3400940.38,
+  "equity": 114129.29,
+  "available": 106670.9,
+  "unrealized": -484.15,
+  "daily_pnl": -844.66,
+  "total_pnl": 9129.29,
+  "cum_pct": 8.69,
+  "daily_avg_pct": 2.8967,
+  "annual_pct": 3361360.84,
   "mdd": -1.24,
   "current_dd": -0.91,
-  "seed_used": 7210.88,
-  "seed_used_pct": 6.32,
-  "long_count": 3,
-  "short_count": 5,
+  "seed_used": 7458.4,
+  "seed_used_pct": 6.54,
+  "long_count": 2,
+  "short_count": 6,
   "positions": [
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": 14.37,
-      "pnl_pct": 0.16,
+      "pnl": 16.41,
+      "pnl_pct": 0.19,
       "margin": 1473.66,
       "leverage": "6",
       "tier": "5/9",
       "entry": 433.0037,
-      "mark": 432.3
+      "mark": 432.2
     },
     {
       "symbol": "1000PEPEUSDT",
       "side": "LONG",
-      "pnl": -276.78,
-      "pnl_pct": -4.04,
+      "pnl": -275.8,
+      "pnl_pct": -4.03,
       "margin": 1369.33,
       "leverage": "5",
       "tier": "5/12",
@@ -42,35 +42,46 @@
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": -14.7,
-      "pnl_pct": -0.32,
+      "pnl": -13.22,
+      "pnl_pct": -0.28,
       "margin": 931.79,
       "leverage": "5",
       "tier": "4/9",
       "entry": 596.5373,
-      "mark": 598.42
+      "mark": 598.23
     },
     {
       "symbol": "NEARUSDT",
       "side": "LONG",
-      "pnl": -110.71,
-      "pnl_pct": -2.5,
+      "pnl": -111.41,
+      "pnl_pct": -2.51,
       "margin": 886.33,
       "leverage": "5",
       "tier": "3/10",
       "entry": 1.2676,
-      "mark": 1.2359
+      "mark": 1.2357
     },
     {
       "symbol": "ENAUSDT",
       "side": "SHORT",
-      "pnl": -110.86,
-      "pnl_pct": -3.48,
+      "pnl": -111.27,
+      "pnl_pct": -3.49,
       "margin": 530.93,
       "leverage": "6",
       "tier": "2/9",
       "entry": 0.0783,
       "mark": 0.081
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "side": "SHORT",
+      "pnl": 0.74,
+      "pnl_pct": 0.02,
+      "margin": 246.87,
+      "leverage": "13",
+      "tier": "1/9",
+      "entry": 8.676,
+      "mark": 8.674
     },
     {
       "symbol": "LTCUSDT",
@@ -86,24 +97,13 @@
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": 6.57,
-      "pnl_pct": 0.52,
+      "pnl": 6.85,
+      "pnl_pct": 0.54,
       "margin": 210.17,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3239,
-      "mark": 1.317
-    },
-    {
-      "symbol": "AVAXUSDT",
-      "side": "LONG",
-      "pnl": -0.02,
-      "pnl_pct": -2.17,
-      "margin": 0.09,
-      "leverage": "10",
-      "tier": "9/9",
-      "entry": 8.8681,
-      "mark": 8.676
+      "mark": 1.3167
     }
   ],
   "signals": {
@@ -113,7 +113,7 @@
     },
     "DOGEUSDT": {
       "dir": "short",
-      "conf": 0.689
+      "conf": 0.693
     },
     "NEARUSDT": {
       "dir": "short",
@@ -172,12 +172,12 @@
       "conf": 0.551
     },
     "1000PEPEUSDT": {
-      "dir": "long",
-      "conf": 0.502
+      "dir": "short",
+      "conf": 0.504
     },
     "ENAUSDT": {
       "dir": "short",
-      "conf": 0.581
+      "conf": 0.583
     },
     "ADAUSDT": {
       "dir": "short",
@@ -211,10 +211,17 @@
     },
     {
       "t": "2026-04-07",
-      "v": -593.99
+      "v": -594.01
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-07 14:11",
+      "symbol": "AVAXUSDT",
+      "side": "Buy",
+      "pnl": -0.02,
+      "reason": "8/9"
+    },
     {
       "ts": "2026-04-07 14:10",
       "symbol": "AVAXUSDT",
@@ -347,13 +354,6 @@
       "side": "Sell",
       "pnl": -40.05,
       "reason": "3/9"
-    },
-    {
-      "ts": "2026-04-07 00:04",
-      "symbol": "HYPEUSDT",
-      "side": "Buy",
-      "pnl": 21.39,
-      "reason": "1/10"
     }
   ],
   "num_days": 3
