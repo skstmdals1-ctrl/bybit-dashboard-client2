@@ -1,43 +1,43 @@
 {
-  "ts": "2026-04-08T17:53:09.742903+09:00",
+  "ts": "2026-04-08T17:54:10.969564+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 113163.13,
-  "available": 102854.7,
-  "unrealized": -1194.98,
+  "equity": 113136.46,
+  "available": 102820.04,
+  "unrealized": -1230.34,
   "daily_pnl": -374.96,
-  "total_pnl": 8163.13,
-  "cum_pct": 7.77,
-  "daily_avg_pct": 1.9425,
-  "annual_pct": 112018.47,
+  "total_pnl": 8136.46,
+  "cum_pct": 7.75,
+  "daily_avg_pct": 1.9375,
+  "annual_pct": 110029.11,
   "mdd": -2.22,
-  "current_dd": -1.73,
-  "seed_used": 10308.43,
-  "seed_used_pct": 9.11,
+  "current_dd": -1.77,
+  "seed_used": 10316.42,
+  "seed_used_pct": 9.12,
   "long_count": 2,
   "short_count": 6,
   "positions": [
     {
       "symbol": "DOGEUSDT",
       "side": "SHORT",
-      "pnl": -293.29,
-      "pnl_pct": -1.46,
+      "pnl": -329.86,
+      "pnl_pct": -1.64,
       "margin": 4011.75,
       "leverage": "5",
       "tier": "7/9",
       "entry": 0.0932,
-      "mark": 0.0946
+      "mark": 0.0948
     },
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": -284.81,
+      "pnl": -284.21,
       "pnl_pct": -2.16,
       "margin": 2196.32,
       "leverage": "6",
       "tier": "5/9",
       "entry": 435.6347,
-      "mark": 445.05
+      "mark": 445.03
     },
     {
       "symbol": "LTCUSDT",
@@ -86,24 +86,24 @@
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": -52.49,
-      "pnl_pct": -4.16,
+      "pnl": -52.11,
+      "pnl_pct": -4.13,
       "margin": 210.17,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3239,
-      "mark": 1.379
+      "mark": 1.3786
     },
     {
       "symbol": "NEARUSDT",
       "side": "LONG",
-      "pnl": 51.6,
-      "pnl_pct": 5.09,
+      "pnl": 51.91,
+      "pnl_pct": 5.12,
       "margin": 202.83,
       "leverage": "5",
       "tier": "2/11",
       "entry": 1.2932,
-      "mark": 1.359
+      "mark": 1.3594
     }
   ],
   "signals": {
@@ -113,7 +113,7 @@
     },
     "DOGEUSDT": {
       "dir": "long",
-      "conf": 0.642
+      "conf": 0.643
     },
     "NEARUSDT": {
       "dir": "long",
