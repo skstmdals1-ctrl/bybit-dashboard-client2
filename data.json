@@ -1,109 +1,109 @@
 {
-  "ts": "2026-04-08T11:47:40.035215+09:00",
+  "ts": "2026-04-08T11:48:41.192812+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 113287.32,
-  "available": 103458.22,
-  "unrealized": -1063.58,
+  "equity": 113248.54,
+  "available": 103411.88,
+  "unrealized": -1103.51,
   "daily_pnl": -374.96,
-  "total_pnl": 8287.32,
-  "cum_pct": 7.89,
-  "daily_avg_pct": 1.9725,
-  "annual_pct": 124730.12,
+  "total_pnl": 8248.54,
+  "cum_pct": 7.86,
+  "daily_avg_pct": 1.965,
+  "annual_pct": 121423.45,
   "mdd": -2.22,
   "current_dd": -1.67,
-  "seed_used": 9829.1,
-  "seed_used_pct": 8.68,
+  "seed_used": 9836.66,
+  "seed_used_pct": 8.69,
   "long_count": 2,
   "short_count": 6,
   "positions": [
     {
       "symbol": "DOGEUSDT",
       "side": "SHORT",
-      "pnl": -233.06,
-      "pnl_pct": -1.16,
+      "pnl": -252.42,
+      "pnl_pct": -1.26,
       "margin": 4011.75,
       "leverage": "5",
       "tier": "7/9",
       "entry": 0.0932,
-      "mark": 0.0943
+      "mark": 0.0944
     },
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": -238.83,
-      "pnl_pct": -1.81,
+      "pnl": -243.98,
+      "pnl_pct": -1.85,
       "margin": 2196.32,
       "leverage": "6",
       "tier": "5/9",
       "entry": 435.6347,
-      "mark": 443.53
+      "mark": 443.7
     },
     {
       "symbol": "LTCUSDT",
       "side": "SHORT",
-      "pnl": -246.65,
-      "pnl_pct": -2.21,
+      "pnl": -254.94,
+      "pnl_pct": -2.29,
       "margin": 1014.08,
       "leverage": "11",
       "tier": "3/9",
       "entry": 53.8102,
-      "mark": 55.0
+      "mark": 55.04
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": -180.73,
-      "pnl_pct": -6.28,
+      "pnl": -184.25,
+      "pnl_pct": -6.4,
       "margin": 575.95,
       "leverage": "5",
       "tier": "2/9",
       "entry": 0.2454,
-      "mark": 0.2608
+      "mark": 0.2611
     },
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": -113.12,
-      "pnl_pct": -3.93,
+      "pnl": -117.71,
+      "pnl_pct": -4.09,
       "margin": 575.39,
       "leverage": "5",
       "tier": "2/9",
       "entry": 1.2558,
-      "mark": 1.3052
+      "mark": 1.3072
     },
     {
       "symbol": "BNBUSDT",
       "side": "LONG",
-      "pnl": -6.58,
-      "pnl_pct": -0.18,
+      "pnl": -6.28,
+      "pnl_pct": -0.17,
       "margin": 245.58,
       "leverage": "15",
       "tier": "2/9",
       "entry": 616.0,
-      "mark": 614.9
+      "mark": 614.95
     },
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": -43.63,
-      "pnl_pct": -3.46,
+      "pnl": -44.2,
+      "pnl_pct": -3.51,
       "margin": 210.17,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3239,
-      "mark": 1.3697
+      "mark": 1.3703
     },
     {
       "symbol": "NEARUSDT",
       "side": "LONG",
-      "pnl": -1.1,
-      "pnl_pct": -0.11,
+      "pnl": 0.16,
+      "pnl_pct": 0.02,
       "margin": 202.83,
       "leverage": "5",
       "tier": "2/11",
       "entry": 1.2932,
-      "mark": 1.2918
+      "mark": 1.2934
     }
   ],
   "signals": {
@@ -113,7 +113,7 @@
     },
     "DOGEUSDT": {
       "dir": "long",
-      "conf": 0.518
+      "conf": 0.52
     },
     "NEARUSDT": {
       "dir": "long",
