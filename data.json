@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-08T10:31:10.341560+09:00",
+  "ts": "2026-04-08T10:32:11.544309+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 113368.62,
-  "available": 104010.91,
-  "unrealized": -983.15,
+  "equity": 113373.62,
+  "available": 104016.86,
+  "unrealized": -977.12,
   "daily_pnl": -374.96,
-  "total_pnl": 8368.62,
+  "total_pnl": 8373.62,
   "cum_pct": 7.97,
   "daily_avg_pct": 1.9925,
   "annual_pct": 133993.14,
   "mdd": -2.22,
   "current_dd": -1.63,
-  "seed_used": 9357.71,
+  "seed_used": 9356.76,
   "seed_used_pct": 8.25,
   "long_count": 1,
   "short_count": 6,
@@ -20,8 +20,8 @@
     {
       "symbol": "DOGEUSDT",
       "side": "SHORT",
-      "pnl": -194.33,
-      "pnl_pct": -0.97,
+      "pnl": -192.18,
+      "pnl_pct": -0.96,
       "margin": 4011.75,
       "leverage": "5",
       "tier": "7/9",
@@ -31,13 +31,13 @@
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": -215.84,
-      "pnl_pct": -1.64,
+      "pnl": -212.82,
+      "pnl_pct": -1.61,
       "margin": 2196.32,
       "leverage": "6",
       "tier": "5/9",
       "entry": 435.6347,
-      "mark": 442.77
+      "mark": 442.67
     },
     {
       "symbol": "LTCUSDT",
@@ -64,35 +64,35 @@
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": -112.44,
-      "pnl_pct": -3.91,
+      "pnl": -111.98,
+      "pnl_pct": -3.89,
       "margin": 575.39,
       "leverage": "5",
       "tier": "2/9",
       "entry": 1.2558,
-      "mark": 1.3049
+      "mark": 1.3047
     },
     {
       "symbol": "BNBUSDT",
       "side": "LONG",
-      "pnl": -0.96,
-      "pnl_pct": -0.03,
+      "pnl": 0.0,
+      "pnl_pct": 0.0,
       "margin": 245.58,
       "leverage": "15",
       "tier": "2/9",
       "entry": 616.0,
-      "mark": 615.84
+      "mark": 616.0
     },
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": -38.87,
-      "pnl_pct": -3.08,
+      "pnl": -39.44,
+      "pnl_pct": -3.13,
       "margin": 210.17,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3239,
-      "mark": 1.3647
+      "mark": 1.3653
     }
   ],
   "signals": {
@@ -106,11 +106,11 @@
     },
     "NEARUSDT": {
       "dir": "long",
-      "conf": 0.599
+      "conf": 0.6
     },
     "BTCUSDT": {
       "dir": "short",
-      "conf": 0.53
+      "conf": 0.528
     },
     "TRUMPUSDT": {
       "dir": "short",
