@@ -1,49 +1,60 @@
 {
-  "ts": "2026-04-09T16:33:36.716759+09:00",
+  "ts": "2026-04-09T16:34:37.955590+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 114020.12,
-  "available": 104271.56,
-  "unrealized": -492.12,
+  "equity": 113989.21,
+  "available": 104237.0,
+  "unrealized": -516.11,
   "daily_pnl": 275.63,
-  "total_pnl": 9020.12,
-  "cum_pct": 8.59,
-  "daily_avg_pct": 1.718,
-  "annual_pct": 50041.99,
+  "total_pnl": 8989.21,
+  "cum_pct": 8.56,
+  "daily_avg_pct": 1.712,
+  "annual_pct": 48973.93,
   "mdd": -2.22,
   "current_dd": -1.03,
-  "seed_used": 9748.56,
-  "seed_used_pct": 8.55,
+  "seed_used": 9752.21,
+  "seed_used_pct": 8.56,
   "long_count": 2,
   "short_count": 9,
   "positions": [
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": -254.87,
-      "pnl_pct": -1.93,
+      "pnl": -259.1,
+      "pnl_pct": -1.97,
       "margin": 2196.32,
       "leverage": "6",
       "tier": "5/9",
       "entry": 435.6347,
-      "mark": 444.06
+      "mark": 444.2
+    },
+    {
+      "symbol": "ADAUSDT",
+      "side": "SHORT",
+      "pnl": -68.96,
+      "pnl_pct": -1.35,
+      "margin": 1021.6,
+      "leverage": "5",
+      "tier": "3/9",
+      "entry": 0.2479,
+      "mark": 0.2512
     },
     {
       "symbol": "LTCUSDT",
       "side": "SHORT",
-      "pnl": -26.91,
-      "pnl_pct": -0.24,
+      "pnl": -33.13,
+      "pnl_pct": -0.3,
       "margin": 1014.08,
       "leverage": "11",
       "tier": "4/9",
       "entry": 53.8102,
-      "mark": 53.94
+      "mark": 53.97
     },
     {
       "symbol": "1000PEPEUSDT",
       "side": "LONG",
-      "pnl": -134.55,
-      "pnl_pct": -1.9,
+      "pnl": -126.54,
+      "pnl_pct": -1.79,
       "margin": 1009.72,
       "leverage": "7",
       "tier": "3/9",
@@ -51,92 +62,81 @@
       "mark": 0.0035
     },
     {
-      "symbol": "ADAUSDT",
-      "side": "SHORT",
-      "pnl": -65.72,
-      "pnl_pct": -2.28,
-      "margin": 575.95,
-      "leverage": "5",
-      "tier": "3/9",
-      "entry": 0.2454,
-      "mark": 0.251
-    },
-    {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": -3.85,
-      "pnl_pct": -0.13,
+      "pnl": -5.68,
+      "pnl_pct": -0.2,
       "margin": 575.39,
       "leverage": "5",
       "tier": "2/9",
       "entry": 1.2558,
-      "mark": 1.2575
+      "mark": 1.2583
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -2.3,
-      "pnl_pct": -0.07,
+      "pnl": -7.68,
+      "pnl_pct": -0.24,
       "margin": 350.68,
       "leverage": "9",
       "tier": "2/9",
       "entry": 82.19,
-      "mark": 82.25
+      "mark": 82.39
     },
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": -0.67,
-      "pnl_pct": -0.02,
+      "pnl": -3.28,
+      "pnl_pct": -0.12,
       "margin": 316.61,
       "leverage": "9",
       "tier": "2/9",
       "entry": 599.9,
-      "mark": 600.04
+      "mark": 600.59
     },
     {
       "symbol": "XMRUSDT",
       "side": "SHORT",
-      "pnl": -20.5,
-      "pnl_pct": -0.75,
+      "pnl": -27.26,
+      "pnl_pct": -1.0,
       "margin": 304.18,
       "leverage": "9",
       "tier": "2/9",
       "entry": 328.2518,
-      "mark": 330.71
+      "mark": 331.52
     },
     {
       "symbol": "NEARUSDT",
       "side": "LONG",
-      "pnl": 12.54,
-      "pnl_pct": 0.98,
+      "pnl": 12.73,
+      "pnl_pct": 1.0,
       "margin": 255.08,
       "leverage": "5",
       "tier": "2/10",
       "entry": 1.3341,
-      "mark": 1.3472
+      "mark": 1.3474
     },
     {
       "symbol": "DOGEUSDT",
       "side": "SHORT",
-      "pnl": 12.65,
-      "pnl_pct": 0.86,
+      "pnl": 11.37,
+      "pnl_pct": 0.77,
       "margin": 245.88,
       "leverage": "6",
       "tier": "2/9",
       "entry": 0.0922,
-      "mark": 0.0914
+      "mark": 0.0915
     },
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": -7.82,
-      "pnl_pct": -0.62,
+      "pnl": -8.48,
+      "pnl_pct": -0.67,
       "margin": 210.17,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3239,
-      "mark": 1.3321
+      "mark": 1.3328
     }
   ],
   "signals": {
