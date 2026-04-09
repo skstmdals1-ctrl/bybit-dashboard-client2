@@ -1,71 +1,71 @@
 {
-  "ts": "2026-04-09T09:04:42.568559+09:00",
+  "ts": "2026-04-09T09:05:43.845557+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 114192.68,
-  "available": 105990.34,
-  "unrealized": -184.59,
-  "daily_pnl": 149.78,
-  "total_pnl": 9192.68,
+  "equity": 114188.2,
+  "available": 106356.23,
+  "unrealized": -251.46,
+  "daily_pnl": 218.3,
+  "total_pnl": 9188.2,
   "cum_pct": 8.75,
   "daily_avg_pct": 1.75,
   "annual_pct": 56142.23,
   "mdd": -2.22,
   "current_dd": -0.88,
-  "seed_used": 8202.34,
-  "seed_used_pct": 7.18,
+  "seed_used": 7831.96,
+  "seed_used_pct": 6.86,
   "long_count": 2,
   "short_count": 7,
   "positions": [
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": -150.81,
-      "pnl_pct": -1.14,
+      "pnl": -156.25,
+      "pnl_pct": -1.19,
       "margin": 2196.32,
       "leverage": "6",
       "tier": "5/9",
       "entry": 435.6347,
-      "mark": 440.62
+      "mark": 440.8
     },
     {
       "symbol": "LTCUSDT",
       "side": "SHORT",
-      "pnl": -4.11,
-      "pnl_pct": -0.04,
+      "pnl": -6.18,
+      "pnl_pct": -0.06,
       "margin": 1014.08,
       "leverage": "11",
       "tier": "4/9",
       "entry": 53.8102,
-      "mark": 53.83
+      "mark": 53.84
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": -51.64,
-      "pnl_pct": -1.79,
+      "pnl": -52.81,
+      "pnl_pct": -1.83,
       "margin": 575.95,
       "leverage": "5",
       "tier": "2/9",
       "entry": 0.2454,
-      "mark": 0.2498
+      "mark": 0.2499
     },
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": -20.57,
-      "pnl_pct": -0.72,
+      "pnl": -22.18,
+      "pnl_pct": -0.77,
       "margin": 575.39,
       "leverage": "5",
       "tier": "2/9",
       "entry": 1.2558,
-      "mark": 1.2648
+      "mark": 1.2655
     },
     {
       "symbol": "1000PEPEUSDT",
       "side": "LONG",
-      "pnl": -10.82,
-      "pnl_pct": -0.27,
+      "pnl": -10.03,
+      "pnl_pct": -0.25,
       "margin": 573.05,
       "leverage": "7",
       "tier": "3/9",
@@ -75,30 +75,19 @@
     {
       "symbol": "NEARUSDT",
       "side": "LONG",
-      "pnl": -15.84,
-      "pnl_pct": -0.62,
+      "pnl": -10.68,
+      "pnl_pct": -0.42,
       "margin": 510.07,
       "leverage": "5",
       "tier": "2/10",
       "entry": 1.3341,
-      "mark": 1.3258
-    },
-    {
-      "symbol": "ALGOUSDT",
-      "side": "SHORT",
-      "pnl": 85.18,
-      "pnl_pct": 2.79,
-      "margin": 508.84,
-      "leverage": "6",
-      "tier": "3/10",
-      "entry": 0.1169,
-      "mark": 0.1136
+      "mark": 1.3285
     },
     {
       "symbol": "DOGEUSDT",
       "side": "SHORT",
-      "pnl": -0.8,
-      "pnl_pct": -0.05,
+      "pnl": -0.96,
+      "pnl_pct": -0.07,
       "margin": 245.88,
       "leverage": "6",
       "tier": "2/9",
@@ -108,13 +97,24 @@
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": -15.15,
-      "pnl_pct": -1.2,
+      "pnl": -15.34,
+      "pnl_pct": -1.22,
       "margin": 210.17,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3239,
-      "mark": 1.3398
+      "mark": 1.34
+    },
+    {
+      "symbol": "ALGOUSDT",
+      "side": "SHORT",
+      "pnl": 22.99,
+      "pnl_pct": 3.01,
+      "margin": 127.21,
+      "leverage": "6",
+      "tier": "3/10",
+      "entry": 0.1169,
+      "mark": 0.1134
     }
   ],
   "signals": {
@@ -234,10 +234,24 @@
     },
     {
       "t": "2026-04-09",
-      "v": -1088.12
+      "v": -1064.93
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-09 09:05",
+      "symbol": "ALGOUSDT",
+      "side": "Sell",
+      "pnl": 23.19,
+      "reason": "3/10"
+    },
+    {
+      "ts": "2026-04-09 09:04",
+      "symbol": "ALGOUSDT",
+      "side": "Sell",
+      "pnl": 45.33,
+      "reason": "3/10"
+    },
     {
       "ts": "2026-04-09 08:29",
       "symbol": "BNBUSDT",
@@ -363,20 +377,6 @@
       "side": "Buy",
       "pnl": 34.62,
       "reason": "3/10"
-    },
-    {
-      "ts": "2026-04-08 06:41",
-      "symbol": "NEARUSDT",
-      "side": "Buy",
-      "pnl": 65.05,
-      "reason": "-"
-    },
-    {
-      "ts": "2026-04-08 06:28",
-      "symbol": "1000PEPEUSDT",
-      "side": "Buy",
-      "pnl": 9.58,
-      "reason": "6/12"
     }
   ],
   "num_days": 5
