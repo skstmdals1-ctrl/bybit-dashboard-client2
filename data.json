@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-09T19:30:13.575957+09:00",
+  "ts": "2026-04-09T19:31:14.970729+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 113944.49,
-  "available": 101747.0,
-  "unrealized": -552.88,
+  "equity": 113963.02,
+  "available": 101765.83,
+  "unrealized": -539.38,
   "daily_pnl": 275.63,
-  "total_pnl": 8944.49,
-  "cum_pct": 8.52,
-  "daily_avg_pct": 1.704,
-  "annual_pct": 47585.07,
+  "total_pnl": 8963.02,
+  "cum_pct": 8.54,
+  "daily_avg_pct": 1.708,
+  "annual_pct": 48274.53,
   "mdd": -2.22,
-  "current_dd": -1.08,
-  "seed_used": 12197.49,
+  "current_dd": -1.09,
+  "seed_used": 12197.2,
   "seed_used_pct": 10.7,
   "long_count": 2,
   "short_count": 9,
@@ -20,52 +20,52 @@
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": -210.7,
-      "pnl_pct": -1.6,
+      "pnl": -205.56,
+      "pnl_pct": -1.56,
       "margin": 2196.32,
       "leverage": "6",
       "tier": "5/9",
       "entry": 435.6347,
-      "mark": 442.6
+      "mark": 442.43
     },
     {
       "symbol": "XMRUSDT",
       "side": "SHORT",
-      "pnl": -132.0,
-      "pnl_pct": -0.83,
+      "pnl": -124.84,
+      "pnl_pct": -0.78,
       "margin": 1767.52,
       "leverage": "9",
       "tier": "5/9",
       "entry": 333.1455,
-      "mark": 335.91
+      "mark": 335.76
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": -68.96,
-      "pnl_pct": -1.35,
+      "pnl": -66.9,
+      "pnl_pct": -1.31,
       "margin": 1021.6,
       "leverage": "5",
       "tier": "4/9",
       "entry": 0.2479,
-      "mark": 0.2512
+      "mark": 0.2511
     },
     {
       "symbol": "LTCUSDT",
       "side": "SHORT",
-      "pnl": -20.7,
-      "pnl_pct": -0.19,
+      "pnl": -24.84,
+      "pnl_pct": -0.22,
       "margin": 1014.08,
       "leverage": "11",
       "tier": "4/9",
       "entry": 53.8102,
-      "mark": 53.91
+      "mark": 53.93
     },
     {
       "symbol": "1000PEPEUSDT",
       "side": "LONG",
-      "pnl": -113.31,
-      "pnl_pct": -1.6,
+      "pnl": -110.5,
+      "pnl_pct": -1.56,
       "margin": 1009.72,
       "leverage": "7",
       "tier": "3/9",
@@ -75,52 +75,52 @@
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -3.29,
-      "pnl_pct": -0.05,
+      "pnl": -1.05,
+      "pnl_pct": -0.01,
       "margin": 791.32,
       "leverage": "9",
       "tier": "2/9",
       "entry": 82.4289,
-      "mark": 82.467
+      "mark": 82.441
     },
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": 9.21,
-      "pnl_pct": 0.32,
+      "pnl": 5.77,
+      "pnl_pct": 0.2,
       "margin": 575.39,
       "leverage": "5",
       "tier": "2/9",
       "entry": 1.2558,
-      "mark": 1.2518
+      "mark": 1.2533
     },
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": -5.22,
-      "pnl_pct": -0.18,
+      "pnl": -4.75,
+      "pnl_pct": -0.17,
       "margin": 316.61,
       "leverage": "9",
       "tier": "2/9",
       "entry": 599.9,
-      "mark": 601.0
+      "mark": 600.9
     },
     {
       "symbol": "NEARUSDT",
       "side": "LONG",
-      "pnl": -2.85,
-      "pnl_pct": -0.22,
+      "pnl": -2.09,
+      "pnl_pct": -0.16,
       "margin": 255.08,
       "leverage": "5",
       "tier": "2/10",
       "entry": 1.3341,
-      "mark": 1.3311
+      "mark": 1.3319
     },
     {
       "symbol": "DOGEUSDT",
       "side": "SHORT",
-      "pnl": 5.6,
-      "pnl_pct": 0.38,
+      "pnl": 5.76,
+      "pnl_pct": 0.39,
       "margin": 245.88,
       "leverage": "6",
       "tier": "2/9",
@@ -130,13 +130,13 @@
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": -10.58,
-      "pnl_pct": -0.84,
+      "pnl": -10.29,
+      "pnl_pct": -0.82,
       "margin": 210.17,
       "leverage": "6",
       "tier": "3/9",
       "entry": 1.3239,
-      "mark": 1.335
+      "mark": 1.3347
     }
   ],
   "signals": {
@@ -158,7 +158,7 @@
     },
     "TRUMPUSDT": {
       "dir": "short",
-      "conf": 0.595
+      "conf": 0.581
     },
     "AAVEUSDT": {
       "dir": "short",
