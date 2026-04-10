@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-11T05:52:42.345910+09:00",
+  "ts": "2026-04-11T05:53:43.480562+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 115133.63,
-  "available": 104373.76,
-  "unrealized": -431.72,
+  "equity": 115118.62,
+  "available": 104359.55,
+  "unrealized": -438.3,
   "daily_pnl": 460.5,
-  "total_pnl": 10133.63,
-  "cum_pct": 9.65,
-  "daily_avg_pct": 1.3786,
-  "annual_pct": 14704.57,
+  "total_pnl": 10118.62,
+  "cum_pct": 9.64,
+  "daily_avg_pct": 1.3771,
+  "annual_pct": 14624.83,
   "mdd": -2.22,
-  "current_dd": -0.16,
-  "seed_used": 10759.87,
+  "current_dd": -0.19,
+  "seed_used": 10759.07,
   "seed_used_pct": 9.35,
   "long_count": 5,
   "short_count": 3,
@@ -20,41 +20,41 @@
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -408.9,
-      "pnl_pct": -1.56,
+      "pnl": -407.33,
+      "pnl_pct": -1.55,
       "margin": 2912.02,
       "leverage": "9",
       "tier": "6/9",
       "entry": 83.8931,
-      "mark": 85.202
+      "mark": 85.197
     },
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": -72.87,
-      "pnl_pct": -0.43,
+      "pnl": -75.12,
+      "pnl_pct": -0.44,
       "margin": 1895.84,
       "leverage": "9",
       "tier": "4/9",
       "entry": 606.1313,
-      "mark": 608.72
+      "mark": 608.8
     },
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": -81.21,
-      "pnl_pct": -0.73,
+      "pnl": -83.73,
+      "pnl_pct": -0.75,
       "margin": 1389.76,
       "leverage": "8",
       "tier": "3/9",
       "entry": 442.0709,
-      "mark": 445.3
+      "mark": 445.4
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": 26.78,
-      "pnl_pct": 0.73,
+      "pnl": 25.99,
+      "pnl_pct": 0.7,
       "margin": 369.2,
       "leverage": "10",
       "tier": "2/9",
@@ -64,56 +64,56 @@
     {
       "symbol": "ADAUSDT",
       "side": "LONG",
-      "pnl": 40.39,
-      "pnl_pct": 2.38,
+      "pnl": 39.71,
+      "pnl_pct": 2.34,
       "margin": 212.17,
       "leverage": "8",
       "tier": "4/9",
       "entry": 0.2511,
-      "mark": 0.2571
+      "mark": 0.257
     },
     {
       "symbol": "LTCUSDT",
       "side": "LONG",
-      "pnl": 21.08,
-      "pnl_pct": 1.56,
+      "pnl": 20.58,
+      "pnl_pct": 1.52,
       "margin": 193.09,
       "leverage": "7",
       "tier": "2/9",
       "entry": 54.5,
-      "mark": 55.35
+      "mark": 55.33
     },
     {
       "symbol": "WLDUSDT",
       "side": "LONG",
-      "pnl": 26.38,
-      "pnl_pct": 3.06,
+      "pnl": 24.49,
+      "pnl_pct": 2.84,
       "margin": 107.82,
       "leverage": "8",
       "tier": "3/12",
       "entry": 0.2744,
-      "mark": 0.2828
+      "mark": 0.2822
     },
     {
       "symbol": "SUIUSDT",
       "side": "LONG",
-      "pnl": 17.03,
-      "pnl_pct": 2.51,
+      "pnl": 17.31,
+      "pnl_pct": 2.55,
       "margin": 84.69,
       "leverage": "8",
       "tier": "3/9",
       "entry": 0.9282,
-      "mark": 0.9515
+      "mark": 0.9519
     }
   ],
   "signals": {
     "LINKUSDT": {
       "dir": "short",
-      "conf": 0.525
+      "conf": 0.526
     },
     "DOGEUSDT": {
       "dir": "long",
-      "conf": 0.645
+      "conf": 0.65
     },
     "NEARUSDT": {
       "dir": "short",
@@ -121,7 +121,7 @@
     },
     "BTCUSDT": {
       "dir": "short",
-      "conf": 0.939
+      "conf": 0.934
     },
     "TRUMPUSDT": {
       "dir": "short",
@@ -129,7 +129,7 @@
     },
     "AAVEUSDT": {
       "dir": "long",
-      "conf": 0.518
+      "conf": 0.519
     },
     "AVAXUSDT": {
       "dir": "short",
@@ -137,7 +137,7 @@
     },
     "ETHUSDT": {
       "dir": "short",
-      "conf": 0.514
+      "conf": 0.515
     },
     "ZECUSDT": {
       "dir": "long",
@@ -149,23 +149,23 @@
     },
     "ALGOUSDT": {
       "dir": "short",
-      "conf": 0.528
+      "conf": 0.529
     },
     "HYPEUSDT": {
       "dir": "long",
-      "conf": 0.597
+      "conf": 0.599
     },
     "SUIUSDT": {
-      "dir": "short",
-      "conf": 0.534
+      "dir": "long",
+      "conf": 0.581
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.528
+      "conf": 0.516
     },
     "XRPUSDT": {
       "dir": "short",
-      "conf": 0.742
+      "conf": 0.752
     },
     "DOTUSDT": {
       "dir": "short",
@@ -173,7 +173,7 @@
     },
     "1000PEPEUSDT": {
       "dir": "short",
-      "conf": 0.56
+      "conf": 0.563
     },
     "ENAUSDT": {
       "dir": "short",
@@ -181,7 +181,7 @@
     },
     "ADAUSDT": {
       "dir": "long",
-      "conf": 0.612
+      "conf": 0.613
     },
     "TAOUSDT": {
       "dir": "short",
@@ -189,15 +189,15 @@
     },
     "WLDUSDT": {
       "dir": "long",
-      "conf": 0.645
+      "conf": 0.643
     },
     "BCHUSDT": {
       "dir": "long",
-      "conf": 0.673
+      "conf": 0.668
     },
     "LTCUSDT": {
       "dir": "short",
-      "conf": 0.619
+      "conf": 0.627
     },
     "XMRUSDT": {
       "dir": "short",
@@ -205,7 +205,7 @@
     },
     "ARBUSDT": {
       "dir": "short",
-      "conf": 0.51
+      "conf": 0.511
     },
     "TONUSDT": {
       "dir": "long",
