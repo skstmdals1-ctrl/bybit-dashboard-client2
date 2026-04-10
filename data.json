@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-11T07:54:08.289206+09:00",
+  "ts": "2026-04-11T07:55:09.494398+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 115273.3,
-  "available": 103022.63,
-  "unrealized": -336.95,
+  "equity": 115268.24,
+  "available": 103014.43,
+  "unrealized": -348.71,
   "daily_pnl": 519.5,
-  "total_pnl": 10273.3,
+  "total_pnl": 10268.24,
   "cum_pct": 9.78,
   "daily_avg_pct": 1.3971,
   "annual_pct": 15724.13,
   "mdd": -2.22,
-  "current_dd": -0.04,
-  "seed_used": 12250.67,
+  "current_dd": -0.07,
+  "seed_used": 12253.81,
   "seed_used_pct": 10.63,
   "long_count": 5,
   "short_count": 3,
@@ -20,24 +20,24 @@
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -273.94,
-      "pnl_pct": -1.05,
+      "pnl": -289.56,
+      "pnl_pct": -1.1,
       "margin": 2912.02,
       "leverage": "9",
       "tier": "6/9",
       "entry": 83.8931,
-      "mark": 84.77
+      "mark": 84.82
     },
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": -6.44,
+      "pnl": -7.57,
       "pnl_pct": -0.04,
       "margin": 1895.84,
       "leverage": "9",
       "tier": "4/9",
       "entry": 606.1313,
-      "mark": 606.36
+      "mark": 606.4
     },
     {
       "symbol": "BCHUSDT",
@@ -64,13 +64,13 @@
     {
       "symbol": "SUIUSDT",
       "side": "LONG",
-      "pnl": 3.35,
-      "pnl_pct": 0.06,
+      "pnl": 5.35,
+      "pnl_pct": 0.1,
       "margin": 695.66,
       "leverage": "8",
       "tier": "3/9",
       "entry": 0.9449,
-      "mark": 0.9454
+      "mark": 0.9458
     },
     {
       "symbol": "WLDUSDT",
@@ -86,24 +86,24 @@
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": 3.54,
-      "pnl_pct": 0.1,
+      "pnl": 6.3,
+      "pnl_pct": 0.17,
       "margin": 369.2,
       "leverage": "10",
       "tier": "2/9",
       "entry": 0.0937,
-      "mark": 0.0938
+      "mark": 0.0939
     },
     {
       "symbol": "LTCUSDT",
       "side": "LONG",
-      "pnl": 11.66,
-      "pnl_pct": 0.86,
+      "pnl": 11.9,
+      "pnl_pct": 0.88,
       "margin": 193.09,
       "leverage": "7",
       "tier": "2/9",
       "entry": 54.5,
-      "mark": 54.97
+      "mark": 54.98
     }
   ],
   "signals": {
@@ -117,7 +117,7 @@
     },
     "NEARUSDT": {
       "dir": "short",
-      "conf": 0.515
+      "conf": 0.516
     },
     "BTCUSDT": {
       "dir": "short",
@@ -157,7 +157,7 @@
     },
     "SUIUSDT": {
       "dir": "long",
-      "conf": 0.59
+      "conf": 0.591
     },
     "SOLUSDT": {
       "dir": "long",
