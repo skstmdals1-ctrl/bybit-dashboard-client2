@@ -1,54 +1,54 @@
 {
-  "ts": "2026-04-11T06:23:19.544083+09:00",
+  "ts": "2026-04-11T06:24:20.756967+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 115153.04,
-  "available": 104677.55,
-  "unrealized": -425.02,
-  "daily_pnl": 475.14,
-  "total_pnl": 10153.04,
-  "cum_pct": 9.67,
-  "daily_avg_pct": 1.3814,
-  "annual_pct": 14854.56,
+  "equity": 115165.04,
+  "available": 104441.48,
+  "unrealized": -424.12,
+  "daily_pnl": 493.37,
+  "total_pnl": 10165.04,
+  "cum_pct": 9.68,
+  "daily_avg_pct": 1.3829,
+  "annual_pct": 14935.54,
   "mdd": -2.22,
-  "current_dd": -0.14,
-  "seed_used": 10475.49,
-  "seed_used_pct": 9.1,
-  "long_count": 5,
+  "current_dd": -0.16,
+  "seed_used": 10723.56,
+  "seed_used_pct": 9.31,
+  "long_count": 4,
   "short_count": 3,
   "positions": [
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -367.66,
-      "pnl_pct": -1.4,
+      "pnl": -356.41,
+      "pnl_pct": -1.36,
       "margin": 2912.02,
       "leverage": "9",
       "tier": "6/9",
       "entry": 83.8931,
-      "mark": 85.07
+      "mark": 85.034
     },
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": -55.7,
-      "pnl_pct": -0.33,
+      "pnl": -49.79,
+      "pnl_pct": -0.29,
       "margin": 1895.84,
       "leverage": "9",
       "tier": "4/9",
       "entry": 606.1313,
-      "mark": 608.11
+      "mark": 607.9
     },
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": -86.24,
-      "pnl_pct": -0.78,
+      "pnl": -84.48,
+      "pnl_pct": -0.76,
       "margin": 1389.76,
       "leverage": "8",
       "tier": "3/9",
       "entry": 442.0709,
-      "mark": 445.5
+      "mark": 445.43
     },
     {
       "symbol": "DOGEUSDT",
@@ -64,13 +64,13 @@
     {
       "symbol": "SUIUSDT",
       "side": "LONG",
-      "pnl": 1.37,
+      "pnl": 1.55,
       "pnl_pct": 0.06,
       "margin": 305.54,
       "leverage": "8",
-      "tier": "1/9",
+      "tier": "2/9",
       "entry": 0.9474,
-      "mark": 0.9479
+      "mark": 0.948
     },
     {
       "symbol": "ADAUSDT",
@@ -93,17 +93,6 @@
       "tier": "2/9",
       "entry": 54.5,
       "mark": 55.22
-    },
-    {
-      "symbol": "WLDUSDT",
-      "side": "LONG",
-      "pnl": 18.23,
-      "pnl_pct": 2.26,
-      "margin": 100.96,
-      "leverage": "8",
-      "tier": "3/12",
-      "entry": 0.2744,
-      "mark": 0.2806
     }
   ],
   "signals": {
@@ -113,7 +102,7 @@
     },
     "DOGEUSDT": {
       "dir": "long",
-      "conf": 0.645
+      "conf": 0.648
     },
     "NEARUSDT": {
       "dir": "short",
@@ -121,7 +110,7 @@
     },
     "BTCUSDT": {
       "dir": "short",
-      "conf": 0.939
+      "conf": 0.936
     },
     "TRUMPUSDT": {
       "dir": "short",
@@ -129,7 +118,7 @@
     },
     "AAVEUSDT": {
       "dir": "long",
-      "conf": 0.517
+      "conf": 0.519
     },
     "AVAXUSDT": {
       "dir": "short",
@@ -137,11 +126,11 @@
     },
     "ETHUSDT": {
       "dir": "short",
-      "conf": 0.514
+      "conf": 0.513
     },
     "ZECUSDT": {
       "dir": "long",
-      "conf": 0.502
+      "conf": 0.503
     },
     "BNBUSDT": {
       "dir": "long",
@@ -157,7 +146,7 @@
     },
     "SUIUSDT": {
       "dir": "long",
-      "conf": 0.616
+      "conf": 0.652
     },
     "SOLUSDT": {
       "dir": "long",
@@ -173,7 +162,7 @@
     },
     "1000PEPEUSDT": {
       "dir": "short",
-      "conf": 0.572
+      "conf": 0.574
     },
     "ENAUSDT": {
       "dir": "short",
@@ -189,11 +178,11 @@
     },
     "WLDUSDT": {
       "dir": "long",
-      "conf": 0.637
+      "conf": 0.65
     },
     "BCHUSDT": {
       "dir": "long",
-      "conf": 0.647
+      "conf": 0.643
     },
     "LTCUSDT": {
       "dir": "short",
@@ -213,7 +202,7 @@
     },
     "WLFIUSDT": {
       "dir": "short",
-      "conf": 0.503
+      "conf": 0.502
     },
     "DASHUSDT": {
       "dir": "long",
@@ -247,7 +236,7 @@
     },
     {
       "t": "2026-04-11",
-      "v": -547.44
+      "v": -527.97
     }
   ],
   "trade_history": [
@@ -255,8 +244,8 @@
       "ts": "2026-04-11 06:23",
       "symbol": "WLDUSDT",
       "side": "Buy",
-      "pnl": 0.58,
-      "reason": "-"
+      "pnl": 19.46,
+      "reason": "3/12"
     },
     {
       "ts": "2026-04-11 06:13",
