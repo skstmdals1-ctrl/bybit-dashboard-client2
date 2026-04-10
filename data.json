@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-11T01:17:59.027978+09:00",
+  "ts": "2026-04-11T01:19:00.407184+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 115230.85,
-  "available": 104006.93,
-  "unrealized": 52.68,
+  "equity": 115211.55,
+  "available": 103986.98,
+  "unrealized": 38.68,
   "daily_pnl": 111.67,
-  "total_pnl": 10230.85,
-  "cum_pct": 9.74,
-  "daily_avg_pct": 1.3914,
-  "annual_pct": 15402.75,
+  "total_pnl": 10211.55,
+  "cum_pct": 9.73,
+  "daily_avg_pct": 1.39,
+  "annual_pct": 15324.81,
   "mdd": -2.22,
   "current_dd": -0.1,
-  "seed_used": 11223.92,
+  "seed_used": 11224.57,
   "seed_used_pct": 9.74,
   "long_count": 4,
   "short_count": 3,
@@ -20,35 +20,35 @@
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -183.34,
-      "pnl_pct": -0.7,
+      "pnl": -189.59,
+      "pnl_pct": -0.72,
       "margin": 2912.02,
       "leverage": "9",
       "tier": "6/9",
       "entry": 83.8931,
-      "mark": 84.48
+      "mark": 84.5
     },
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": 50.42,
+      "pnl": 50.99,
       "pnl_pct": 0.3,
       "margin": 1895.84,
       "leverage": "9",
       "tier": "4/9",
       "entry": 606.1313,
-      "mark": 604.34
+      "mark": 604.32
     },
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": -42.23,
-      "pnl_pct": -0.38,
+      "pnl": -48.52,
+      "pnl_pct": -0.44,
       "margin": 1389.76,
       "leverage": "8",
       "tier": "3/9",
       "entry": 442.0709,
-      "mark": 443.75
+      "mark": 444.0
     },
     {
       "symbol": "ADAUSDT",
@@ -75,24 +75,24 @@
     {
       "symbol": "SUIUSDT",
       "side": "LONG",
-      "pnl": 61.17,
-      "pnl_pct": 2.26,
+      "pnl": 58.9,
+      "pnl_pct": 2.18,
       "margin": 337.62,
       "leverage": "8",
       "tier": "3/9",
       "entry": 0.9282,
-      "mark": 0.9492
+      "mark": 0.9484
     },
     {
       "symbol": "LTCUSDT",
       "side": "LONG",
-      "pnl": 14.14,
-      "pnl_pct": 1.05,
+      "pnl": 14.38,
+      "pnl_pct": 1.06,
       "margin": 193.09,
       "leverage": "7",
       "tier": "2/9",
       "entry": 54.5,
-      "mark": 55.07
+      "mark": 55.08
     }
   ],
   "signals": {
@@ -138,7 +138,7 @@
     },
     "ALGOUSDT": {
       "dir": "short",
-      "conf": 0.528
+      "conf": 0.529
     },
     "HYPEUSDT": {
       "dir": "long",
