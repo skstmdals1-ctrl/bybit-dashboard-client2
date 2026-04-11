@@ -1,49 +1,49 @@
 {
-  "ts": "2026-04-12T02:28:53.110990+09:00",
+  "ts": "2026-04-12T02:29:54.246687+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 114830.44,
-  "available": 97555.29,
-  "unrealized": -337.88,
+  "equity": 114819.3,
+  "available": 97320.09,
+  "unrealized": -344.76,
   "daily_pnl": 37.86,
-  "total_pnl": 9830.44,
-  "cum_pct": 9.36,
-  "daily_avg_pct": 1.17,
-  "annual_pct": 6880.54,
+  "total_pnl": 9819.3,
+  "cum_pct": 9.35,
+  "daily_avg_pct": 1.1687,
+  "annual_pct": 6847.87,
   "mdd": -2.22,
-  "current_dd": -0.51,
-  "seed_used": 17275.15,
-  "seed_used_pct": 15.04,
+  "current_dd": -0.53,
+  "seed_used": 17499.21,
+  "seed_used_pct": 15.24,
   "long_count": 3,
   "short_count": 8,
   "positions": [
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -286.44,
-      "pnl_pct": -1.09,
+      "pnl": -294.87,
+      "pnl_pct": -1.13,
       "margin": 2912.02,
       "leverage": "9",
       "tier": "6/9",
       "entry": 83.8931,
-      "mark": 84.81
+      "mark": 84.837
     },
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": -16.01,
-      "pnl_pct": -0.09,
+      "pnl": -18.82,
+      "pnl_pct": -0.11,
       "margin": 1895.84,
       "leverage": "9",
       "tier": "4/9",
       "entry": 606.1313,
-      "mark": 606.7
+      "mark": 606.8
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -22.67,
-      "pnl_pct": -0.16,
+      "pnl": -21.16,
+      "pnl_pct": -0.15,
       "margin": 1408.93,
       "leverage": "10",
       "tier": "4/9",
@@ -53,24 +53,24 @@
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": 92.32,
-      "pnl_pct": 0.83,
+      "pnl": 87.29,
+      "pnl_pct": 0.79,
       "margin": 1389.76,
       "leverage": "8",
       "tier": "4/9",
       "entry": 442.0709,
-      "mark": 438.4
+      "mark": 438.6
     },
     {
       "symbol": "SUIUSDT",
       "side": "SHORT",
-      "pnl": -77.8,
-      "pnl_pct": -0.71,
+      "pnl": -74.28,
+      "pnl_pct": -0.68,
       "margin": 1221.44,
       "leverage": "9",
       "tier": "4/9",
       "entry": 0.9372,
-      "mark": 0.9438
+      "mark": 0.9435
     },
     {
       "symbol": "LTCUSDT",
@@ -86,13 +86,13 @@
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": -54.18,
-      "pnl_pct": -0.65,
+      "pnl": -50.61,
+      "pnl_pct": -0.61,
       "margin": 834.41,
       "leverage": "10",
       "tier": "2/9",
       "entry": 9.3334,
-      "mark": 9.394
+      "mark": 9.39
     },
     {
       "symbol": "ADAUSDT",
@@ -108,35 +108,35 @@
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 22.06,
-      "pnl_pct": 0.52,
+      "pnl": 22.37,
+      "pnl_pct": 0.53,
       "margin": 421.37,
       "leverage": "10",
       "tier": "2/9",
       "entry": 72649.3,
-      "mark": 73029.6
+      "mark": 73035.0
     },
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": -1.15,
-      "pnl_pct": -0.04,
+      "pnl": -0.92,
+      "pnl_pct": -0.03,
       "margin": 296.07,
       "leverage": "10",
       "tier": "1/9",
       "entry": 1.2861,
-      "mark": 1.2866
+      "mark": 1.2865
     },
     {
       "symbol": "DOTUSDT",
       "side": "LONG",
-      "pnl": 16.95,
-      "pnl_pct": 1.07,
+      "pnl": 16.83,
+      "pnl_pct": 1.06,
       "margin": 158.67,
       "leverage": "10",
       "tier": "1/9",
       "entry": 1.273,
-      "mark": 1.2866
+      "mark": 1.2865
     }
   ],
   "signals": {
@@ -154,7 +154,7 @@
     },
     "BTCUSDT": {
       "dir": "long",
-      "conf": 0.681
+      "conf": 0.649
     },
     "TRUMPUSDT": {
       "dir": "short",
@@ -178,7 +178,7 @@
     },
     "BNBUSDT": {
       "dir": "long",
-      "conf": 0.503
+      "conf": 0.504
     },
     "ALGOUSDT": {
       "dir": "short",
@@ -190,11 +190,11 @@
     },
     "SUIUSDT": {
       "dir": "short",
-      "conf": 0.654
+      "conf": 0.631
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.844
+      "conf": 0.858
     },
     "XRPUSDT": {
       "dir": "long",
