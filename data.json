@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-12T00:13:06.603628+09:00",
+  "ts": "2026-04-12T00:14:07.813280+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 115169.44,
-  "available": 100374.43,
-  "unrealized": 40.93,
+  "equity": 115166.22,
+  "available": 100369.82,
+  "unrealized": 38.86,
   "daily_pnl": 0,
-  "total_pnl": 10169.44,
-  "cum_pct": 9.69,
-  "daily_avg_pct": 1.2112,
-  "annual_pct": 7998.97,
+  "total_pnl": 10166.22,
+  "cum_pct": 9.68,
+  "daily_avg_pct": 1.21,
+  "annual_pct": 7963.99,
   "mdd": -2.22,
   "current_dd": -0.23,
-  "seed_used": 14795.01,
+  "seed_used": 14796.4,
   "seed_used_pct": 12.85,
   "long_count": 4,
   "short_count": 8,
@@ -20,30 +20,30 @@
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -148.98,
-      "pnl_pct": -0.57,
+      "pnl": -152.1,
+      "pnl_pct": -0.58,
       "margin": 2912.02,
       "leverage": "9",
       "tier": "6/9",
       "entry": 83.8931,
-      "mark": 84.37
+      "mark": 84.38
     },
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": 61.97,
-      "pnl_pct": 0.36,
+      "pnl": 59.99,
+      "pnl_pct": 0.35,
       "margin": 1895.84,
       "leverage": "9",
       "tier": "4/9",
       "entry": 606.1313,
-      "mark": 603.93
+      "mark": 604.0
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -86.18,
-      "pnl_pct": -0.61,
+      "pnl": -83.16,
+      "pnl_pct": -0.59,
       "margin": 1408.93,
       "leverage": "10",
       "tier": "3/9",
@@ -53,35 +53,35 @@
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": 87.29,
+      "pnl": 88.3,
       "pnl_pct": 0.79,
       "margin": 1389.76,
       "leverage": "8",
       "tier": "4/9",
       "entry": 442.0709,
-      "mark": 438.6
+      "mark": 438.56
     },
     {
       "symbol": "SUIUSDT",
       "side": "SHORT",
-      "pnl": 22.49,
-      "pnl_pct": 0.35,
+      "pnl": 21.12,
+      "pnl_pct": 0.33,
       "margin": 711.82,
       "leverage": "9",
       "tier": "3/9",
       "entry": 0.9339,
-      "mark": 0.9306
+      "mark": 0.9308
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 0.74,
+      "pnl": 0.9,
       "pnl_pct": 0.02,
       "margin": 421.37,
       "leverage": "10",
       "tier": "2/9",
       "entry": 72649.3,
-      "mark": 72662.12
+      "mark": 72664.8
     },
     {
       "symbol": "LTCUSDT",
@@ -97,57 +97,57 @@
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": 12.34,
-      "pnl_pct": 0.33,
+      "pnl": 11.95,
+      "pnl_pct": 0.32,
       "margin": 370.49,
       "leverage": "10",
       "tier": "2/9",
       "entry": 9.304,
-      "mark": 9.273
+      "mark": 9.274
     },
     {
       "symbol": "AAVEUSDT",
       "side": "SHORT",
-      "pnl": 10.4,
-      "pnl_pct": 0.43,
+      "pnl": 8.8,
+      "pnl_pct": 0.36,
       "margin": 305.36,
       "leverage": "8",
       "tier": "2/9",
       "entry": 91.9414,
-      "mark": 91.55
+      "mark": 91.61
     },
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": 29.47,
-      "pnl_pct": 1.0,
+      "pnl": 28.55,
+      "pnl_pct": 0.96,
       "margin": 296.07,
       "leverage": "10",
       "tier": "1/9",
       "entry": 1.2861,
-      "mark": 1.2733
+      "mark": 1.2737
     },
     {
       "symbol": "DOTUSDT",
       "side": "LONG",
-      "pnl": 0.37,
-      "pnl_pct": 0.02,
+      "pnl": 0.87,
+      "pnl_pct": 0.05,
       "margin": 158.67,
       "leverage": "10",
       "tier": "1/9",
       "entry": 1.273,
-      "mark": 1.2733
+      "mark": 1.2737
     },
     {
       "symbol": "WLDUSDT",
       "side": "LONG",
-      "pnl": 48.64,
-      "pnl_pct": 4.01,
+      "pnl": 51.27,
+      "pnl_pct": 4.23,
       "margin": 134.62,
       "leverage": "9",
       "tier": "1/10",
       "entry": 0.2765,
-      "mark": 0.2876
+      "mark": 0.2882
     }
   ],
   "signals": {
@@ -205,7 +205,7 @@
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.674
+      "conf": 0.675
     },
     "XRPUSDT": {
       "dir": "long",
