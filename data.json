@@ -1,49 +1,49 @@
 {
-  "ts": "2026-04-11T16:39:11.916486+09:00",
+  "ts": "2026-04-11T16:40:13.672551+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 115137.37,
-  "available": 102109.38,
-  "unrealized": -68.4,
-  "daily_pnl": 107.31,
-  "total_pnl": 10137.37,
-  "cum_pct": 9.65,
-  "daily_avg_pct": 1.3786,
-  "annual_pct": 14704.57,
+  "equity": 115110.5,
+  "available": 101866.9,
+  "unrealized": -100.71,
+  "daily_pnl": 108.88,
+  "total_pnl": 10110.5,
+  "cum_pct": 9.63,
+  "daily_avg_pct": 1.3757,
+  "annual_pct": 14550.79,
   "mdd": -2.22,
   "current_dd": -0.26,
-  "seed_used": 13027.99,
-  "seed_used_pct": 11.32,
+  "seed_used": 13243.6,
+  "seed_used_pct": 11.51,
   "long_count": 4,
   "short_count": 6,
   "positions": [
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -99.0,
-      "pnl_pct": -0.38,
+      "pnl": -108.37,
+      "pnl_pct": -0.41,
       "margin": 2912.02,
       "leverage": "9",
       "tier": "6/9",
       "entry": 83.8931,
-      "mark": 84.21
+      "mark": 84.24
     },
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": 6.51,
-      "pnl_pct": 0.04,
+      "pnl": -2.22,
+      "pnl_pct": -0.01,
       "margin": 1895.84,
       "leverage": "9",
       "tier": "4/9",
       "entry": 606.1313,
-      "mark": 605.9
+      "mark": 606.21
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -51.4,
-      "pnl_pct": -0.36,
+      "pnl": -52.91,
+      "pnl_pct": -0.38,
       "margin": 1408.93,
       "leverage": "10",
       "tier": "3/9",
@@ -53,57 +53,57 @@
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": 57.11,
-      "pnl_pct": 0.51,
+      "pnl": 52.08,
+      "pnl_pct": 0.47,
       "margin": 1389.76,
       "leverage": "8",
       "tier": "4/9",
       "entry": 442.0709,
-      "mark": 439.8
+      "mark": 440.0
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 5.45,
-      "pnl_pct": 0.13,
+      "pnl": 6.54,
+      "pnl_pct": 0.16,
       "margin": 421.37,
       "leverage": "10",
       "tier": "2/9",
       "entry": 72649.3,
-      "mark": 72743.21
+      "mark": 72762.0
     },
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": 5.97,
-      "pnl_pct": 0.16,
+      "pnl": 3.98,
+      "pnl_pct": 0.11,
       "margin": 370.49,
       "leverage": "10",
       "tier": "2/9",
       "entry": 9.304,
-      "mark": 9.289
+      "mark": 9.294
     },
     {
       "symbol": "SUIUSDT",
       "side": "SHORT",
-      "pnl": -7.25,
-      "pnl_pct": -0.26,
+      "pnl": -9.03,
+      "pnl_pct": -0.32,
       "margin": 312.34,
       "leverage": "9",
       "tier": "2/9",
       "entry": 0.9308,
-      "mark": 0.9332
+      "mark": 0.9338
     },
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": 11.05,
-      "pnl_pct": 0.37,
+      "pnl": 8.06,
+      "pnl_pct": 0.27,
       "margin": 296.07,
       "leverage": "10",
       "tier": "1/9",
       "entry": 1.2861,
-      "mark": 1.2813
+      "mark": 1.2826
     },
     {
       "symbol": "WLDUSDT",
@@ -119,13 +119,13 @@
     {
       "symbol": "LTCUSDT",
       "side": "LONG",
-      "pnl": 1.98,
-      "pnl_pct": 0.15,
-      "margin": 193.09,
-      "leverage": "7",
-      "tier": "2/9",
+      "pnl": 0.01,
+      "pnl_pct": 0.2,
+      "margin": 0.68,
+      "leverage": "8",
+      "tier": "1/9",
       "entry": 54.5,
-      "mark": 54.58
+      "mark": 54.61
     }
   ],
   "signals": {
@@ -269,10 +269,17 @@
     },
     {
       "t": "2026-04-11",
-      "v": -828.88
+      "v": -827.31
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-11 16:39",
+      "symbol": "LTCUSDT",
+      "side": "Buy",
+      "pnl": 1.57,
+      "reason": "1/9"
+    },
     {
       "ts": "2026-04-11 15:04",
       "symbol": "SUIUSDT",
@@ -405,13 +412,6 @@
       "side": "Buy",
       "pnl": 35.47,
       "reason": "3/9"
-    },
-    {
-      "ts": "2026-04-11 04:21",
-      "symbol": "XRPUSDT",
-      "side": "Buy",
-      "pnl": 32.51,
-      "reason": "4/9"
     }
   ],
   "num_days": 7
