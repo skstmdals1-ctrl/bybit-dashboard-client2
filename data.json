@@ -1,54 +1,54 @@
 {
-  "ts": "2026-04-14T07:16:40.032496+09:00",
+  "ts": "2026-04-14T07:17:41.255187+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117590.45,
-  "available": 115149.92,
-  "unrealized": 181.13,
-  "daily_pnl": 154.1,
-  "total_pnl": 12590.45,
-  "cum_pct": 11.99,
-  "daily_avg_pct": 1.199,
-  "annual_pct": 7650.34,
+  "equity": 117622.62,
+  "available": 115338.17,
+  "unrealized": 175.7,
+  "daily_pnl": 197.08,
+  "total_pnl": 12622.62,
+  "cum_pct": 12.02,
+  "daily_avg_pct": 1.202,
+  "annual_pct": 7734.65,
   "mdd": -2.22,
   "current_dd": -0.06,
-  "seed_used": 2440.53,
-  "seed_used_pct": 2.08,
+  "seed_used": 2284.46,
+  "seed_used_pct": 1.94,
   "long_count": 2,
   "short_count": 1,
   "positions": [
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 328.42,
-      "pnl_pct": 3.69,
+      "pnl": 384.22,
+      "pnl_pct": 4.32,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 73768.6
+      "mark": 74215.05
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -216.92,
-      "pnl_pct": -3.51,
+      "pnl": -255.1,
+      "pnl_pct": -4.13,
       "margin": 687.06,
       "leverage": "9",
       "tier": "2/9",
       "entry": 82.1192,
-      "mark": 85.0
+      "mark": 85.507
     },
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": 69.55,
-      "pnl_pct": 2.39,
-      "margin": 323.23,
+      "pnl": 46.51,
+      "pnl_pct": 3.2,
+      "margin": 161.72,
       "leverage": "9",
       "tier": "3/10",
       "entry": 9.2,
-      "mark": 9.42
+      "mark": 9.494
     }
   ],
   "signals": {
@@ -213,6 +213,13 @@
   ],
   "trade_history": [
     {
+      "ts": "2026-04-14 07:16",
+      "symbol": "AVAXUSDT",
+      "side": "Buy",
+      "pnl": 42.98,
+      "reason": "-"
+    },
+    {
       "ts": "2026-04-14 07:05",
       "symbol": "AVAXUSDT",
       "side": "Buy",
@@ -344,13 +351,6 @@
       "side": "Sell",
       "pnl": 361.35,
       "reason": "4/9"
-    },
-    {
-      "ts": "2026-04-13 13:32",
-      "symbol": "BCHUSDT",
-      "side": "Sell",
-      "pnl": 15.67,
-      "reason": "-"
     }
   ],
   "num_days": 10
