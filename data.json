@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-14T08:29:05.949531+09:00",
+  "ts": "2026-04-14T08:30:07.105699+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117633.3,
-  "available": 115951.5,
-  "unrealized": 110.06,
+  "equity": 117632.22,
+  "available": 115948.98,
+  "unrealized": 112.04,
   "daily_pnl": 274.65,
-  "total_pnl": 12633.3,
+  "total_pnl": 12632.22,
   "cum_pct": 12.03,
   "daily_avg_pct": 1.203,
   "annual_pct": 7762.96,
   "mdd": -2.22,
-  "current_dd": -0.01,
-  "seed_used": 1681.8,
+  "current_dd": -0.05,
+  "seed_used": 1683.24,
   "seed_used_pct": 1.43,
   "long_count": 1,
   "short_count": 1,
@@ -20,24 +20,24 @@
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 438.39,
-      "pnl_pct": 4.93,
+      "pnl": 447.14,
+      "pnl_pct": 5.03,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 74648.36
+      "mark": 74718.4
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -328.37,
-      "pnl_pct": -5.31,
+      "pnl": -335.14,
+      "pnl_pct": -5.42,
       "margin": 687.06,
       "leverage": "9",
       "tier": "2/9",
       "entry": 82.1192,
-      "mark": 86.48
+      "mark": 86.57
     }
   ],
   "signals": {
@@ -55,7 +55,7 @@
     },
     "BTCUSDT": {
       "dir": "short",
-      "conf": 0.555
+      "conf": 0.558
     },
     "TRUMPUSDT": {
       "dir": "short",
@@ -95,7 +95,7 @@
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.521
+      "conf": 0.522
     },
     "XRPUSDT": {
       "dir": "short",
