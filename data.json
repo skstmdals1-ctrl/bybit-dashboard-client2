@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-13T13:40:31.402564+09:00",
+  "ts": "2026-04-13T13:41:32.513986+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 116869.15,
-  "available": 107848.28,
-  "unrealized": -176.51,
+  "equity": 116867.77,
+  "available": 107846.65,
+  "unrealized": -174.74,
   "daily_pnl": 1355.68,
-  "total_pnl": 11869.15,
+  "total_pnl": 11867.77,
   "cum_pct": 11.3,
   "daily_avg_pct": 1.2556,
   "annual_pct": 9405.04,
   "mdd": -2.22,
-  "current_dd": -0.33,
-  "seed_used": 9020.87,
+  "current_dd": -0.32,
+  "seed_used": 9021.11,
   "seed_used_pct": 7.72,
   "long_count": 4,
   "short_count": 3,
@@ -20,8 +20,8 @@
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -323.87,
-      "pnl_pct": -1.07,
+      "pnl": -320.59,
+      "pnl_pct": -1.06,
       "margin": 3028.36,
       "leverage": "10",
       "tier": "6/9",
@@ -42,57 +42,57 @@
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": -7.83,
-      "pnl_pct": -0.09,
+      "pnl": -8.95,
+      "pnl_pct": -0.1,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 71078.62
+      "mark": 71069.69
     },
     {
       "symbol": "XRPUSDT",
       "side": "LONG",
-      "pnl": 1.36,
-      "pnl_pct": 0.04,
+      "pnl": 1.62,
+      "pnl_pct": 0.05,
       "margin": 442.23,
       "leverage": "8",
       "tier": "3/9",
       "entry": 1.3255,
-      "mark": 1.326
+      "mark": 1.3261
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -7.24,
-      "pnl_pct": -0.27,
+      "pnl": -8.0,
+      "pnl_pct": -0.29,
       "margin": 302.08,
       "leverage": "9",
       "tier": "2/9",
       "entry": 81.89,
-      "mark": 82.108
+      "mark": 82.131
     },
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": 30.75,
-      "pnl_pct": 1.52,
+      "pnl": 30.26,
+      "pnl_pct": 1.49,
       "margin": 289.62,
       "leverage": "7",
       "tier": "2/9",
       "entry": 1.2393,
-      "mark": 1.2205
+      "mark": 1.2208
     },
     {
       "symbol": "WLDUSDT",
       "side": "LONG",
-      "pnl": -4.12,
-      "pnl_pct": -0.24,
+      "pnl": -3.53,
+      "pnl_pct": -0.2,
       "margin": 193.33,
       "leverage": "9",
       "tier": "1/12",
       "entry": 0.2954,
-      "mark": 0.2947
+      "mark": 0.2948
     }
   ],
   "signals": {
@@ -109,8 +109,8 @@
       "conf": 0.504
     },
     "BTCUSDT": {
-      "dir": "long",
-      "conf": 0.795
+      "dir": "short",
+      "conf": 0.543
     },
     "TRUMPUSDT": {
       "dir": "short",
@@ -126,7 +126,7 @@
     },
     "ETHUSDT": {
       "dir": "short",
-      "conf": 0.511
+      "conf": 0.51
     },
     "ZECUSDT": {
       "dir": "long",
@@ -165,8 +165,8 @@
       "conf": 0.501
     },
     "ENAUSDT": {
-      "dir": "short",
-      "conf": 0.529
+      "dir": "long",
+      "conf": 0.558
     },
     "ADAUSDT": {
       "dir": "short",
