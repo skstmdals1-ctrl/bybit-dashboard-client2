@@ -1,27 +1,27 @@
 {
-  "ts": "2026-04-13T13:55:49.126438+09:00",
+  "ts": "2026-04-13T13:56:50.227991+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 116839.23,
-  "available": 108575.78,
-  "unrealized": -176.5,
-  "daily_pnl": 1337.39,
-  "total_pnl": 11839.23,
-  "cum_pct": 11.28,
-  "daily_avg_pct": 1.2533,
-  "annual_pct": 9326.56,
+  "equity": 116837.45,
+  "available": 109233.15,
+  "unrealized": -263.58,
+  "daily_pnl": 1413.78,
+  "total_pnl": 11837.45,
+  "cum_pct": 11.27,
+  "daily_avg_pct": 1.2522,
+  "annual_pct": 9289.25,
   "mdd": -2.22,
   "current_dd": -0.39,
-  "seed_used": 8263.45,
-  "seed_used_pct": 7.07,
+  "seed_used": 7604.3,
+  "seed_used_pct": 6.51,
   "long_count": 4,
-  "short_count": 3,
+  "short_count": 2,
   "positions": [
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -363.31,
-      "pnl_pct": -1.2,
+      "pnl": -373.17,
+      "pnl_pct": -1.23,
       "margin": 3028.36,
       "leverage": "10",
       "tier": "6/9",
@@ -42,57 +42,46 @@
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": -27.55,
-      "pnl_pct": -0.31,
+      "pnl": -26.15,
+      "pnl_pct": -0.29,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 70920.9
+      "mark": 70932.1
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -3.98,
-      "pnl_pct": -0.15,
+      "pnl": -4.35,
+      "pnl_pct": -0.16,
       "margin": 302.08,
       "leverage": "9",
       "tier": "2/9",
       "entry": 81.89,
-      "mark": 82.01
-    },
-    {
-      "symbol": "DOTUSDT",
-      "side": "SHORT",
-      "pnl": 77.05,
-      "pnl_pct": 3.8,
-      "margin": 289.62,
-      "leverage": "7",
-      "tier": "2/9",
-      "entry": 1.2393,
-      "mark": 1.1922
+      "mark": 82.021
     },
     {
       "symbol": "WLDUSDT",
       "side": "LONG",
-      "pnl": -8.84,
-      "pnl_pct": -0.51,
+      "pnl": -10.01,
+      "pnl_pct": -0.58,
       "margin": 193.33,
       "leverage": "9",
       "tier": "1/12",
       "entry": 0.2954,
-      "mark": 0.2939
+      "mark": 0.2937
     },
     {
       "symbol": "XRPUSDT",
       "side": "LONG",
       "pnl": -0.0,
-      "pnl_pct": -0.17,
+      "pnl_pct": -0.13,
       "margin": 0.02,
       "leverage": "8",
       "tier": "1/9",
       "entry": 1.3255,
-      "mark": 1.3232
+      "mark": 1.3238
     }
   ],
   "signals": {
@@ -248,10 +237,17 @@
     },
     {
       "t": "2026-04-13",
-      "v": 253.84
+      "v": 330.22
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-13 13:55",
+      "symbol": "DOTUSDT",
+      "side": "Sell",
+      "pnl": 76.39,
+      "reason": "2/9"
+    },
     {
       "ts": "2026-04-13 13:53",
       "symbol": "XRPUSDT",
@@ -384,13 +380,6 @@
       "side": "Sell",
       "pnl": 83.5,
       "reason": "5/9"
-    },
-    {
-      "ts": "2026-04-13 02:55",
-      "symbol": "AVAXUSDT",
-      "side": "Sell",
-      "pnl": 0.02,
-      "reason": "마진 0.1USDT < 48"
     }
   ],
   "num_days": 9
