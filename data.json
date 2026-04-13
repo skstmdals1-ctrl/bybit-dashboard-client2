@@ -1,27 +1,27 @@
 {
-  "ts": "2026-04-14T00:04:25.577662+09:00",
+  "ts": "2026-04-14T00:05:27.082823+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117414.25,
-  "available": 109517.43,
-  "unrealized": 144.67,
+  "equity": 117411.85,
+  "available": 109515.94,
+  "unrealized": 127.04,
   "daily_pnl": 0,
-  "total_pnl": 12414.25,
+  "total_pnl": 12411.85,
   "cum_pct": 11.82,
   "daily_avg_pct": 1.182,
   "annual_pct": 7189.37,
   "mdd": -2.22,
   "current_dd": -0.11,
-  "seed_used": 7896.82,
-  "seed_used_pct": 6.73,
+  "seed_used": 7895.91,
+  "seed_used_pct": 6.72,
   "long_count": 3,
   "short_count": 2,
   "positions": [
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": 21.21,
-      "pnl_pct": 0.07,
+      "pnl": 8.06,
+      "pnl_pct": 0.03,
       "margin": 3028.36,
       "leverage": "10",
       "tier": "6/9",
@@ -31,46 +31,46 @@
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 116.63,
-      "pnl_pct": 1.31,
+      "pnl": 119.6,
+      "pnl_pct": 1.34,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 72074.3
+      "mark": 72098.1
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -90.87,
-      "pnl_pct": -1.47,
+      "pnl": -91.32,
+      "pnl_pct": -1.48,
       "margin": 687.06,
       "leverage": "9",
       "tier": "2/9",
       "entry": 82.1192,
-      "mark": 83.326
+      "mark": 83.332
     },
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": 49.91,
-      "pnl_pct": 0.86,
+      "pnl": 42.33,
+      "pnl_pct": 0.73,
       "margin": 646.05,
       "leverage": "9",
       "tier": "3/10",
       "entry": 9.2,
-      "mark": 9.279
+      "mark": 9.267
     },
     {
       "symbol": "LTCUSDT",
       "side": "SHORT",
-      "pnl": 47.71,
-      "pnl_pct": 3.08,
+      "pnl": 48.27,
+      "pnl_pct": 3.12,
       "margin": 193.6,
       "leverage": "8",
       "tier": "4/9",
       "entry": 54.9218,
-      "mark": 53.23
+      "mark": 53.21
     }
   ],
   "signals": {
@@ -140,7 +140,7 @@
     },
     "1000PEPEUSDT": {
       "dir": "short",
-      "conf": 0.56
+      "conf": 0.559
     },
     "ENAUSDT": {
       "dir": "short",
