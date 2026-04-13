@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-13T15:19:27.444690+09:00",
+  "ts": "2026-04-13T15:20:28.608283+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 116960.71,
-  "available": 108408.88,
-  "unrealized": -138.41,
+  "equity": 116950.73,
+  "available": 108399.97,
+  "unrealized": -160.29,
   "daily_pnl": 1413.78,
-  "total_pnl": 11960.71,
-  "cum_pct": 11.39,
-  "daily_avg_pct": 1.2656,
-  "annual_pct": 9753.9,
+  "total_pnl": 11950.73,
+  "cum_pct": 11.38,
+  "daily_avg_pct": 1.2644,
+  "annual_pct": 9711.37,
   "mdd": -2.22,
   "current_dd": -0.26,
-  "seed_used": 8551.83,
+  "seed_used": 8550.76,
   "seed_used_pct": 7.31,
   "long_count": 3,
   "short_count": 3,
@@ -20,13 +20,24 @@
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -221.99,
-      "pnl_pct": -0.73,
+      "pnl": -235.14,
+      "pnl_pct": -0.78,
       "margin": 3028.36,
       "leverage": "10",
       "tier": "6/9",
       "entry": 0.0921,
-      "mark": 0.0915
+      "mark": 0.0914
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "side": "SHORT",
+      "pnl": -24.97,
+      "pnl_pct": -0.34,
+      "margin": 919.65,
+      "leverage": "8",
+      "tier": "2/9",
+      "entry": 9.144,
+      "mark": 9.175
     },
     {
       "symbol": "LTCUSDT",
@@ -42,46 +53,35 @@
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": -15.52,
-      "pnl_pct": -0.17,
+      "pnl": -15.94,
+      "pnl_pct": -0.18,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 71017.1
+      "mark": 71013.77
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -12.11,
-      "pnl_pct": -0.2,
+      "pnl": -9.85,
+      "pnl_pct": -0.16,
       "margin": 687.06,
       "leverage": "9",
       "tier": "2/9",
       "entry": 82.1192,
-      "mark": 82.28
-    },
-    {
-      "symbol": "AVAXUSDT",
-      "side": "SHORT",
-      "pnl": -12.06,
-      "pnl_pct": -0.37,
-      "margin": 404.07,
-      "leverage": "8",
-      "tier": "2/9",
-      "entry": 9.116,
-      "mark": 9.15
+      "mark": 82.25
     },
     {
       "symbol": "WLDUSDT",
       "side": "LONG",
-      "pnl": 0.0,
-      "pnl_pct": 0.0,
+      "pnl": 2.36,
+      "pnl_pct": 0.14,
       "margin": 193.33,
       "leverage": "9",
       "tier": "1/12",
       "entry": 0.2954,
-      "mark": 0.2954
+      "mark": 0.2958
     }
   ],
   "signals": {
