@@ -1,76 +1,76 @@
 {
-  "ts": "2026-04-13T22:53:49.209960+09:00",
+  "ts": "2026-04-13T22:54:50.400599+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117020.58,
-  "available": 109145.22,
-  "unrealized": -263.53,
+  "equity": 117053.99,
+  "available": 109166.22,
+  "unrealized": -245.83,
   "daily_pnl": 1601.59,
-  "total_pnl": 12020.58,
-  "cum_pct": 11.45,
-  "daily_avg_pct": 1.2722,
-  "annual_pct": 9991.12,
+  "total_pnl": 12053.99,
+  "cum_pct": 11.48,
+  "daily_avg_pct": 1.2756,
+  "annual_pct": 10115.53,
   "mdd": -2.22,
   "current_dd": -0.19,
-  "seed_used": 7875.36,
-  "seed_used_pct": 6.73,
+  "seed_used": 7887.76,
+  "seed_used_pct": 6.74,
   "long_count": 2,
   "short_count": 3,
   "positions": [
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -264.72,
-      "pnl_pct": -0.87,
+      "pnl": -215.42,
+      "pnl_pct": -0.71,
       "margin": 3028.36,
       "leverage": "10",
       "tier": "6/9",
       "entry": 0.0921,
-      "mark": 0.0913
+      "mark": 0.0915
     },
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": -2.95,
-      "pnl_pct": -0.03,
+      "pnl": -34.09,
+      "pnl_pct": -0.38,
       "margin": 1117.72,
       "leverage": "8",
       "tier": "3/9",
       "entry": 9.188,
-      "mark": 9.191
+      "mark": 9.223
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 19.31,
-      "pnl_pct": 0.22,
+      "pnl": 31.96,
+      "pnl_pct": 0.36,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 71295.72
+      "mark": 71396.93
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -70.16,
-      "pnl_pct": -1.13,
+      "pnl": -81.83,
+      "pnl_pct": -1.32,
       "margin": 687.06,
       "leverage": "9",
       "tier": "2/9",
       "entry": 82.1192,
-      "mark": 83.051
+      "mark": 83.206
     },
     {
       "symbol": "LTCUSDT",
       "side": "SHORT",
-      "pnl": 55.04,
-      "pnl_pct": 3.55,
+      "pnl": 53.63,
+      "pnl_pct": 3.46,
       "margin": 193.6,
       "leverage": "8",
       "tier": "4/9",
       "entry": 54.9218,
-      "mark": 52.97
+      "mark": 53.02
     }
   ],
   "signals": {
@@ -88,7 +88,7 @@
     },
     "BTCUSDT": {
       "dir": "short",
-      "conf": 0.551
+      "conf": 0.553
     },
     "TRUMPUSDT": {
       "dir": "short",
