@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-14T08:18:54.175882+09:00",
+  "ts": "2026-04-14T08:19:55.371628+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117657.25,
-  "available": 115980.43,
-  "unrealized": 125.91,
+  "equity": 117649.94,
+  "available": 115970.75,
+  "unrealized": 121.77,
   "daily_pnl": 274.65,
-  "total_pnl": 12657.25,
+  "total_pnl": 12649.94,
   "cum_pct": 12.05,
   "daily_avg_pct": 1.205,
   "annual_pct": 7819.88,
   "mdd": -2.22,
-  "current_dd": -0.0,
-  "seed_used": 1676.82,
+  "current_dd": -0.01,
+  "seed_used": 1679.18,
   "seed_used_pct": 1.43,
   "long_count": 1,
   "short_count": 1,
@@ -20,30 +20,30 @@
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 421.24,
-      "pnl_pct": 4.74,
+      "pnl": 431.25,
+      "pnl_pct": 4.85,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 74511.18
+      "mark": 74591.3
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -295.38,
-      "pnl_pct": -4.78,
+      "pnl": -310.29,
+      "pnl_pct": -5.02,
       "margin": 687.06,
       "leverage": "9",
       "tier": "2/9",
       "entry": 82.1192,
-      "mark": 86.042
+      "mark": 86.24
     }
   ],
   "signals": {
     "LINKUSDT": {
       "dir": "short",
-      "conf": 0.525
+      "conf": 0.526
     },
     "DOGEUSDT": {
       "dir": "short",
@@ -67,7 +67,7 @@
     },
     "AVAXUSDT": {
       "dir": "short",
-      "conf": 0.573
+      "conf": 0.531
     },
     "ETHUSDT": {
       "dir": "short",
@@ -75,7 +75,7 @@
     },
     "ZECUSDT": {
       "dir": "long",
-      "conf": 0.506
+      "conf": 0.504
     },
     "BNBUSDT": {
       "dir": "short",
@@ -91,7 +91,7 @@
     },
     "SUIUSDT": {
       "dir": "long",
-      "conf": 0.508
+      "conf": 0.509
     },
     "SOLUSDT": {
       "dir": "short",
@@ -111,11 +111,11 @@
     },
     "ENAUSDT": {
       "dir": "short",
-      "conf": 0.539
+      "conf": 0.54
     },
     "ADAUSDT": {
       "dir": "long",
-      "conf": 0.503
+      "conf": 0.505
     },
     "TAOUSDT": {
       "dir": "long",
