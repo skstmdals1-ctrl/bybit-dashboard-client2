@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-14T02:29:30.847941+09:00",
+  "ts": "2026-04-14T02:30:32.086711+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117349.33,
-  "available": 109455.43,
-  "unrealized": 106.3,
+  "equity": 117465.36,
+  "available": 109557.66,
+  "unrealized": 215.89,
   "daily_pnl": 0,
-  "total_pnl": 12349.33,
-  "cum_pct": 11.76,
-  "daily_avg_pct": 1.176,
-  "annual_pct": 7033.28,
+  "total_pnl": 12465.36,
+  "cum_pct": 11.87,
+  "daily_avg_pct": 1.187,
+  "annual_pct": 7322.03,
   "mdd": -2.22,
   "current_dd": -0.21,
-  "seed_used": 7893.89,
+  "seed_used": 7907.69,
   "seed_used_pct": 6.73,
   "long_count": 3,
   "short_count": 2,
@@ -20,57 +20,57 @@
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -70.81,
-      "pnl_pct": -0.23,
+      "pnl": 4.78,
+      "pnl_pct": 0.02,
       "margin": 3028.36,
       "leverage": "10",
       "tier": "6/9",
       "entry": 0.0921,
-      "mark": 0.0919
+      "mark": 0.0922
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 155.72,
-      "pnl_pct": 1.75,
+      "pnl": 172.29,
+      "pnl_pct": 1.94,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 72387.01
+      "mark": 72519.56
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -108.72,
-      "pnl_pct": -1.76,
+      "pnl": -117.53,
+      "pnl_pct": -1.9,
       "margin": 687.06,
       "leverage": "9",
       "tier": "2/9",
       "entry": 82.1192,
-      "mark": 83.563
+      "mark": 83.68
     },
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": 78.98,
-      "pnl_pct": 1.36,
+      "pnl": 107.42,
+      "pnl_pct": 1.85,
       "margin": 646.05,
       "leverage": "9",
       "tier": "3/10",
       "entry": 9.2,
-      "mark": 9.325
+      "mark": 9.37
     },
     {
       "symbol": "LTCUSDT",
       "side": "SHORT",
-      "pnl": 51.09,
-      "pnl_pct": 3.3,
+      "pnl": 48.84,
+      "pnl_pct": 3.15,
       "margin": 193.6,
       "leverage": "8",
       "tier": "4/9",
       "entry": 54.9218,
-      "mark": 53.11
+      "mark": 53.19
     }
   ],
   "signals": {
@@ -120,7 +120,7 @@
     },
     "HYPEUSDT": {
       "dir": "short",
-      "conf": 0.518
+      "conf": 0.516
     },
     "SUIUSDT": {
       "dir": "long",
