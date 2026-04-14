@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-14T22:11:27.461901+09:00",
+  "ts": "2026-04-14T22:12:28.653441+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117780.94,
-  "available": 113431.24,
-  "unrealized": -35.01,
+  "equity": 117773.51,
+  "available": 113425.42,
+  "unrealized": -43.85,
   "daily_pnl": 565.97,
-  "total_pnl": 12780.94,
+  "total_pnl": 12773.51,
   "cum_pct": 12.17,
   "daily_avg_pct": 1.217,
   "annual_pct": 8170.15,
   "mdd": -2.22,
-  "current_dd": -0.1,
-  "seed_used": 4349.7,
+  "current_dd": -0.12,
+  "seed_used": 4348.09,
   "seed_used_pct": 3.69,
   "long_count": 3,
   "short_count": 1,
@@ -20,52 +20,52 @@
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": -160.64,
-      "pnl_pct": -1.07,
+      "pnl": -171.76,
+      "pnl_pct": -1.14,
       "margin": 1506.26,
       "leverage": "10",
       "tier": "4/10",
       "entry": 9.4811,
-      "mark": 9.38
+      "mark": 9.373
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 421.46,
+      "pnl": 421.09,
       "pnl_pct": 4.74,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 74512.98
+      "mark": 74510.0
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -298.02,
-      "pnl_pct": -4.82,
+      "pnl": -294.48,
+      "pnl_pct": -4.76,
       "margin": 687.06,
       "leverage": "9",
       "tier": "3/9",
       "entry": 82.1192,
-      "mark": 86.077
+      "mark": 86.03
     },
     {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": 2.2,
-      "pnl_pct": 0.11,
+      "pnl": 1.32,
+      "pnl_pct": 0.07,
       "margin": 286.4,
       "leverage": "7",
       "tier": "2/9",
       "entry": 9.117,
-      "mark": 9.127
+      "mark": 9.123
     }
   ],
   "signals": {
     "LINKUSDT": {
       "dir": "long",
-      "conf": 0.588
+      "conf": 0.589
     },
     "DOGEUSDT": {
       "dir": "long",
@@ -121,7 +121,7 @@
     },
     "XRPUSDT": {
       "dir": "short",
-      "conf": 0.588
+      "conf": 0.587
     },
     "DOTUSDT": {
       "dir": "short",
@@ -183,7 +183,7 @@
   "equity_hist": [
     {
       "t": "2026-04-14",
-      "v": 12780.94
+      "v": 12773.51
     }
   ],
   "trade_history": [
