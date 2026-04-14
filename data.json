@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-14T13:46:12.123421+09:00",
+  "ts": "2026-04-14T13:47:13.428680+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117572.86,
-  "available": 114393.62,
-  "unrealized": 49.66,
+  "equity": 117583.21,
+  "available": 114402.97,
+  "unrealized": 60.48,
   "daily_pnl": 274.65,
-  "total_pnl": 12572.86,
-  "cum_pct": 11.97,
-  "daily_avg_pct": 1.197,
-  "annual_pct": 7594.63,
+  "total_pnl": 12583.21,
+  "cum_pct": 11.98,
+  "daily_avg_pct": 1.198,
+  "annual_pct": 7622.44,
   "mdd": -2.22,
-  "current_dd": -0.06,
-  "seed_used": 3179.24,
+  "current_dd": -0.07,
+  "seed_used": 3180.24,
   "seed_used_pct": 2.7,
   "long_count": 2,
   "short_count": 1,
@@ -20,35 +20,35 @@
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": -90.24,
-      "pnl_pct": -0.88,
+      "pnl": -81.64,
+      "pnl_pct": -0.8,
       "margin": 1023.65,
       "leverage": "10",
       "tier": "4/10",
       "entry": 9.5179,
-      "mark": 9.434
+      "mark": 9.442
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 401.38,
-      "pnl_pct": 4.51,
+      "pnl": 403.44,
+      "pnl_pct": 4.54,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 74352.3
+      "mark": 74368.8
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -261.5,
+      "pnl": -261.35,
       "pnl_pct": -4.23,
       "margin": 687.06,
       "leverage": "9",
       "tier": "2/9",
       "entry": 82.1192,
-      "mark": 85.592
+      "mark": 85.59
     }
   ],
   "signals": {
@@ -66,7 +66,7 @@
     },
     "BTCUSDT": {
       "dir": "short",
-      "conf": 0.555
+      "conf": 0.557
     },
     "TRUMPUSDT": {
       "dir": "short",
@@ -78,7 +78,7 @@
     },
     "AVAXUSDT": {
       "dir": "short",
-      "conf": 0.876
+      "conf": 0.867
     },
     "ETHUSDT": {
       "dir": "short",
@@ -106,7 +106,7 @@
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.518
+      "conf": 0.517
     },
     "XRPUSDT": {
       "dir": "short",
