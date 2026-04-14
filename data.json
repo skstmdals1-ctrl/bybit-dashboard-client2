@@ -1,43 +1,54 @@
 {
-  "ts": "2026-04-14T09:21:06.306184+09:00",
+  "ts": "2026-04-14T09:22:07.481028+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117598.51,
-  "available": 115635.11,
-  "unrealized": 74.06,
+  "equity": 117595.78,
+  "available": 115635.46,
+  "unrealized": 74.42,
   "daily_pnl": 274.65,
-  "total_pnl": 12598.51,
+  "total_pnl": 12595.78,
   "cum_pct": 12.0,
   "daily_avg_pct": 1.2,
   "annual_pct": 7678.34,
   "mdd": -2.22,
   "current_dd": -0.05,
-  "seed_used": 1963.4,
+  "seed_used": 1960.32,
   "seed_used_pct": 1.67,
-  "long_count": 1,
+  "long_count": 2,
   "short_count": 1,
   "positions": [
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 398.18,
-      "pnl_pct": 4.48,
+      "pnl": 391.58,
+      "pnl_pct": 4.4,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 74326.69
+      "mark": 74273.9
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -324.15,
-      "pnl_pct": -5.24,
+      "pnl": -315.72,
+      "pnl_pct": -5.11,
       "margin": 687.06,
       "leverage": "9",
       "tier": "2/9",
       "entry": 82.1192,
-      "mark": 86.424
+      "mark": 86.312
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "side": "LONG",
+      "pnl": -1.47,
+      "pnl_pct": -0.05,
+      "margin": 282.51,
+      "leverage": "10",
+      "tier": "1/10",
+      "entry": 9.583,
+      "mark": 9.578
     }
   ],
   "signals": {
@@ -47,7 +58,7 @@
     },
     "DOGEUSDT": {
       "dir": "short",
-      "conf": 0.635
+      "conf": 0.615
     },
     "NEARUSDT": {
       "dir": "short",
@@ -75,7 +86,7 @@
     },
     "ZECUSDT": {
       "dir": "long",
-      "conf": 0.507
+      "conf": 0.506
     },
     "BNBUSDT": {
       "dir": "short",
@@ -99,15 +110,15 @@
     },
     "XRPUSDT": {
       "dir": "short",
-      "conf": 0.57
+      "conf": 0.564
     },
     "DOTUSDT": {
       "dir": "short",
-      "conf": 0.534
+      "conf": 0.533
     },
     "1000PEPEUSDT": {
       "dir": "short",
-      "conf": 0.514
+      "conf": 0.513
     },
     "ENAUSDT": {
       "dir": "short",
