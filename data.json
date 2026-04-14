@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-14T16:10:01.044634+09:00",
+  "ts": "2026-04-14T16:11:02.430742+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117646.93,
-  "available": 114455.61,
-  "unrealized": 115.67,
+  "equity": 117588.81,
+  "available": 114405.31,
+  "unrealized": 61.78,
   "daily_pnl": 274.65,
-  "total_pnl": 12646.93,
-  "cum_pct": 12.04,
-  "daily_avg_pct": 1.204,
-  "annual_pct": 7791.37,
+  "total_pnl": 12588.81,
+  "cum_pct": 11.99,
+  "daily_avg_pct": 1.199,
+  "annual_pct": 7650.34,
   "mdd": -2.22,
-  "current_dd": -0.07,
-  "seed_used": 3191.32,
+  "current_dd": -0.06,
+  "seed_used": 3183.5,
   "seed_used_pct": 2.71,
   "long_count": 2,
   "short_count": 1,
@@ -20,35 +20,35 @@
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": -49.43,
-      "pnl_pct": -0.33,
+      "pnl": -92.32,
+      "pnl_pct": -0.61,
       "margin": 1506.26,
       "leverage": "10",
       "tier": "4/10",
       "entry": 9.4811,
-      "mark": 9.45
+      "mark": 9.423
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 469.32,
-      "pnl_pct": 5.28,
+      "pnl": 445.47,
+      "pnl_pct": 5.01,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 74895.8
+      "mark": 74705.02
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -304.27,
-      "pnl_pct": -4.92,
+      "pnl": -291.39,
+      "pnl_pct": -4.71,
       "margin": 687.06,
       "leverage": "9",
       "tier": "2/9",
       "entry": 82.1192,
-      "mark": 86.16
+      "mark": 85.989
     }
   ],
   "signals": {
@@ -58,7 +58,7 @@
     },
     "DOGEUSDT": {
       "dir": "short",
-      "conf": 0.757
+      "conf": 0.779
     },
     "NEARUSDT": {
       "dir": "short",
@@ -90,7 +90,7 @@
     },
     "BNBUSDT": {
       "dir": "short",
-      "conf": 0.668
+      "conf": 0.666
     },
     "ALGOUSDT": {
       "dir": "short",
@@ -101,7 +101,7 @@
       "conf": 0.504
     },
     "SUIUSDT": {
-      "dir": "long",
+      "dir": "short",
       "conf": 0.5
     },
     "SOLUSDT": {
@@ -122,7 +122,7 @@
     },
     "ENAUSDT": {
       "dir": "short",
-      "conf": 0.541
+      "conf": 0.54
     },
     "ADAUSDT": {
       "dir": "short",
@@ -142,7 +142,7 @@
     },
     "LTCUSDT": {
       "dir": "short",
-      "conf": 0.524
+      "conf": 0.525
     },
     "XMRUSDT": {
       "dir": "short",
