@@ -1,65 +1,65 @@
 {
-  "ts": "2026-04-14T22:22:41.505108+09:00",
+  "ts": "2026-04-14T22:23:42.709717+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117805.89,
-  "available": 112869.02,
-  "unrealized": -16.29,
-  "daily_pnl": 565.97,
-  "total_pnl": 12805.89,
+  "equity": 117809.46,
+  "available": 114953.71,
+  "unrealized": 138.95,
+  "daily_pnl": 409.58,
+  "total_pnl": 12809.46,
   "cum_pct": 12.2,
   "daily_avg_pct": 1.22,
   "annual_pct": 8260.1,
   "mdd": -2.22,
   "current_dd": -0.09,
-  "seed_used": 4936.87,
-  "seed_used_pct": 4.19,
+  "seed_used": 2855.75,
+  "seed_used_pct": 2.42,
   "long_count": 3,
   "short_count": 1,
   "positions": [
     {
-      "symbol": "AVAXUSDT",
-      "side": "LONG",
-      "pnl": -149.52,
-      "pnl_pct": -0.99,
-      "margin": 1506.26,
-      "leverage": "10",
-      "tier": "5/10",
-      "entry": 9.4811,
-      "mark": 9.387
-    },
-    {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 437.15,
-      "pnl_pct": 4.92,
+      "pnl": 443.43,
+      "pnl_pct": 4.99,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 74638.44
+      "mark": 74688.7
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -310.29,
-      "pnl_pct": -5.02,
+      "pnl": -311.8,
+      "pnl_pct": -5.04,
       "margin": 687.06,
       "leverage": "9",
       "tier": "3/9",
       "entry": 82.1192,
-      "mark": 86.24
+      "mark": 86.26
     },
     {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": 6.38,
-      "pnl_pct": 0.32,
+      "pnl": 7.26,
+      "pnl_pct": 0.36,
       "margin": 286.4,
       "leverage": "7",
       "tier": "2/9",
       "entry": 9.117,
-      "mark": 9.146
+      "mark": 9.15
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "side": "LONG",
+      "pnl": -0.01,
+      "pnl_pct": -0.92,
+      "margin": 0.09,
+      "leverage": "10",
+      "tier": "1/10",
+      "entry": 9.4811,
+      "mark": 9.394
     }
   ],
   "signals": {
@@ -183,10 +183,17 @@
   "equity_hist": [
     {
       "t": "2026-04-14",
-      "v": 12805.89
+      "v": 12809.46
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-14 22:23",
+      "symbol": "AVAXUSDT",
+      "side": "Buy",
+      "pnl": -156.39,
+      "reason": "L5"
+    },
     {
       "ts": "2026-04-14 17:06",
       "symbol": "RAVEUSDT",
@@ -319,13 +326,6 @@
       "side": "Sell",
       "pnl": 46.5,
       "reason": "4/9"
-    },
-    {
-      "ts": "2026-04-13 16:32",
-      "symbol": "LTCUSDT",
-      "side": "Sell",
-      "pnl": 91.26,
-      "reason": "-"
     }
   ],
   "num_days": 10
