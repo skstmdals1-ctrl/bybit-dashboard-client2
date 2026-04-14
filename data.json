@@ -1,76 +1,76 @@
 {
-  "ts": "2026-04-14T23:50:19.639628+09:00",
+  "ts": "2026-04-14T23:51:20.997024+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117984.99,
-  "available": 112675.67,
-  "unrealized": 270.36,
+  "equity": 117984.16,
+  "available": 112387.57,
+  "unrealized": 264.59,
   "daily_pnl": 409.57,
-  "total_pnl": 12984.99,
+  "total_pnl": 12984.16,
   "cum_pct": 12.37,
   "daily_avg_pct": 1.237,
   "annual_pct": 8788.58,
   "mdd": -2.22,
-  "current_dd": 0.0,
-  "seed_used": 5309.32,
-  "seed_used_pct": 4.5,
+  "current_dd": -0.04,
+  "seed_used": 5596.6,
+  "seed_used_pct": 4.74,
   "long_count": 4,
   "short_count": 1,
   "positions": [
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -198.03,
+      "pnl": -197.04,
       "pnl_pct": -1.18,
       "margin": 1857.13,
       "leverage": "9",
       "tier": "5/9",
       "entry": 85.1027,
-      "mark": 86.111
+      "mark": 86.106
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 496.58,
-      "pnl_pct": 5.58,
+      "pnl": 493.9,
+      "pnl_pct": 5.55,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 75113.94
+      "mark": 75092.5
     },
     {
       "symbol": "ZECUSDT",
       "side": "LONG",
-      "pnl": -39.61,
-      "pnl_pct": -1.15,
+      "pnl": -41.6,
+      "pnl_pct": -1.21,
       "margin": 430.37,
       "leverage": "8",
-      "tier": "2/11",
+      "tier": "3/11",
       "entry": 363.9475,
-      "mark": 359.76
+      "mark": 359.55
     },
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": 1.49,
-      "pnl_pct": 0.04,
+      "pnl": -0.37,
+      "pnl_pct": -0.01,
       "margin": 351.11,
       "leverage": "10",
       "tier": "1/10",
       "entry": 9.398,
-      "mark": 9.402
+      "mark": 9.397
     },
     {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": 9.68,
-      "pnl_pct": 0.48,
+      "pnl": 9.46,
+      "pnl_pct": 0.47,
       "margin": 286.4,
       "leverage": "7",
       "tier": "2/9",
       "entry": 9.117,
-      "mark": 9.161
+      "mark": 9.16
     }
   ],
   "signals": {
@@ -100,7 +100,7 @@
     },
     "AVAXUSDT": {
       "dir": "long",
-      "conf": 0.652
+      "conf": 0.654
     },
     "ETHUSDT": {
       "dir": "short",
@@ -194,7 +194,7 @@
   "equity_hist": [
     {
       "t": "2026-04-14",
-      "v": 12984.99
+      "v": 12984.16
     }
   ],
   "trade_history": [
