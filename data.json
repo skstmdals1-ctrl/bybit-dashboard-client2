@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-14T23:59:31.336871+09:00",
+  "ts": "2026-04-15T00:00:32.556518+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117979.09,
-  "available": 112381.44,
-  "unrealized": 276.57,
-  "daily_pnl": 409.57,
-  "total_pnl": 12979.09,
-  "cum_pct": 12.36,
-  "daily_avg_pct": 1.236,
-  "annual_pct": 8756.59,
+  "equity": 117972.59,
+  "available": 112384.96,
+  "unrealized": 277.01,
+  "daily_pnl": 0,
+  "total_pnl": 12972.59,
+  "cum_pct": 12.35,
+  "daily_avg_pct": 1.1227,
+  "annual_pct": 5785.18,
   "mdd": -2.22,
   "current_dd": -0.03,
-  "seed_used": 5597.65,
+  "seed_used": 5587.63,
   "seed_used_pct": 4.74,
   "long_count": 4,
   "short_count": 1,
@@ -20,57 +20,57 @@
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -198.42,
-      "pnl_pct": -1.19,
+      "pnl": -153.05,
+      "pnl_pct": -0.92,
       "margin": 1857.13,
       "leverage": "9",
       "tier": "5/9",
       "entry": 85.1027,
-      "mark": 86.113
+      "mark": 85.882
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 491.79,
-      "pnl_pct": 5.53,
+      "pnl": 472.34,
+      "pnl_pct": 5.31,
       "margin": 741.05,
       "leverage": "12",
       "tier": "2/9",
       "entry": 71141.2625,
-      "mark": 75075.6
+      "mark": 74920.0
     },
     {
       "symbol": "ZECUSDT",
       "side": "LONG",
-      "pnl": -26.94,
-      "pnl_pct": -0.78,
+      "pnl": -33.56,
+      "pnl_pct": -0.97,
       "margin": 430.37,
       "leverage": "8",
       "tier": "3/11",
       "entry": 363.9475,
-      "mark": 361.1
+      "mark": 360.4
     },
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": 1.12,
-      "pnl_pct": 0.03,
+      "pnl": -10.46,
+      "pnl_pct": -0.3,
       "margin": 351.11,
       "leverage": "10",
       "tier": "1/10",
       "entry": 9.398,
-      "mark": 9.401
+      "mark": 9.37
     },
     {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": 8.8,
-      "pnl_pct": 0.44,
+      "pnl": 1.54,
+      "pnl_pct": 0.08,
       "margin": 286.4,
       "leverage": "7",
       "tier": "2/9",
       "entry": 9.117,
-      "mark": 9.157
+      "mark": 9.124
     }
   ],
   "signals": {
@@ -195,6 +195,10 @@
     {
       "t": "2026-04-14",
       "v": 12979.09
+    },
+    {
+      "t": "2026-04-15",
+      "v": 12972.59
     }
   ],
   "trade_history": [
@@ -339,5 +343,5 @@
       "reason": "1/12"
     }
   ],
-  "num_days": 10
+  "num_days": 11
 }
