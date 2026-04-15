@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-15T16:50:17.214685+09:00",
+  "ts": "2026-04-15T16:51:19.172892+09:00",
   "start_date": "2026-04-05",
-  "status": "stopped",
-  "equity": 117535.71,
-  "available": 103524.64,
-  "unrealized": -437.82,
+  "status": "running",
+  "equity": 117609.13,
+  "available": 103587.85,
+  "unrealized": -362.17,
   "daily_pnl": 327.59,
-  "total_pnl": 12535.71,
-  "cum_pct": 11.94,
-  "daily_avg_pct": 1.0855,
-  "annual_pct": 5045.59,
+  "total_pnl": 12609.13,
+  "cum_pct": 12.01,
+  "daily_avg_pct": 1.0918,
+  "annual_pct": 5163.98,
   "mdd": -2.22,
-  "current_dd": -1.11,
-  "seed_used": 14011.07,
+  "current_dd": -1.01,
+  "seed_used": 14021.28,
   "seed_used_pct": 11.92,
   "long_count": 7,
   "short_count": 2,
@@ -20,101 +20,101 @@
     {
       "symbol": "ENAUSDT",
       "side": "LONG",
-      "pnl": -155.85,
-      "pnl_pct": -0.98,
+      "pnl": -137.57,
+      "pnl_pct": -0.86,
       "margin": 1988.95,
       "leverage": "8",
       "tier": "6/10",
       "entry": 0.0958,
-      "mark": 0.0948
+      "mark": 0.095
     },
     {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": -18.95,
-      "pnl_pct": -0.16,
+      "pnl": -0.35,
+      "pnl_pct": -0.0,
       "margin": 1712.36,
       "leverage": "7",
       "tier": "4/9",
       "entry": 9.0233,
-      "mark": 9.009
+      "mark": 9.023
     },
     {
       "symbol": "BNBUSDT",
       "side": "LONG",
-      "pnl": -37.22,
-      "pnl_pct": -0.42,
+      "pnl": -36.5,
+      "pnl_pct": -0.41,
       "margin": 1266.91,
       "leverage": "7",
       "tier": "3/9",
       "entry": 613.726,
-      "mark": 611.15
+      "mark": 611.2
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -163.9,
-      "pnl_pct": -1.48,
+      "pnl": -152.1,
+      "pnl_pct": -1.37,
       "margin": 1234.18,
       "leverage": "9",
       "tier": "5/11",
       "entry": 0.0942,
-      "mark": 0.0928
+      "mark": 0.0929
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": -79.68,
-      "pnl_pct": -0.74,
+      "pnl": -70.25,
+      "pnl_pct": -0.65,
       "margin": 1203.51,
       "leverage": "9",
       "tier": "4/9",
       "entry": 74188.9548,
-      "mark": 73643.22
+      "mark": 73707.76
     },
     {
       "symbol": "ZECUSDT",
       "side": "LONG",
-      "pnl": 13.64,
-      "pnl_pct": 0.15,
+      "pnl": 25.79,
+      "pnl_pct": 0.29,
       "margin": 1110.51,
       "leverage": "8",
       "tier": "3/9",
       "entry": 351.0111,
-      "mark": 351.55
+      "mark": 352.03
     },
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": -51.12,
-      "pnl_pct": -0.54,
+      "pnl": -42.0,
+      "pnl_pct": -0.45,
       "margin": 943.87,
       "leverage": "10",
       "tier": "3/10",
       "entry": 9.3185,
-      "mark": 9.268
+      "mark": 9.277
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": 49.86,
-      "pnl_pct": 1.1,
+      "pnl": 46.1,
+      "pnl_pct": 1.02,
       "margin": 647.2,
       "leverage": "7",
       "tier": "3/9",
       "entry": 0.2409,
-      "mark": 0.2382
+      "mark": 0.2384
     },
     {
       "symbol": "TRUMPUSDT",
       "side": "SHORT",
-      "pnl": 5.54,
-      "pnl_pct": 0.29,
+      "pnl": 4.85,
+      "pnl_pct": 0.25,
       "margin": 277.3,
       "leverage": "7",
       "tier": "2/9",
       "entry": 2.801,
-      "mark": 2.793
+      "mark": 2.794
     }
   ],
   "signals": {
@@ -148,7 +148,7 @@
     },
     "ETHUSDT": {
       "dir": "long",
-      "conf": 0.507
+      "conf": 0.506
     },
     "ZECUSDT": {
       "dir": "long",
@@ -176,7 +176,7 @@
     },
     "XRPUSDT": {
       "dir": "short",
-      "conf": 0.591
+      "conf": 0.584
     },
     "DOTUSDT": {
       "dir": "short",
@@ -200,7 +200,7 @@
     },
     "WLDUSDT": {
       "dir": "long",
-      "conf": 0.508
+      "conf": 0.509
     },
     "BCHUSDT": {
       "dir": "long",
@@ -246,7 +246,7 @@
     },
     {
       "t": "2026-04-15",
-      "v": 12535.71
+      "v": 12609.13
     }
   ],
   "trade_history": [
