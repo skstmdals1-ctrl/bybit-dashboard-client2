@@ -1,87 +1,87 @@
 {
-  "ts": "2026-04-15T15:43:36.489354+09:00",
+  "ts": "2026-04-15T15:44:37.649328+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117903.95,
-  "available": 104726.72,
-  "unrealized": -461.65,
-  "daily_pnl": 716.61,
-  "total_pnl": 12903.95,
-  "cum_pct": 12.29,
-  "daily_avg_pct": 1.1173,
-  "annual_pct": 5671.58,
+  "equity": 117888.13,
+  "available": 105092.3,
+  "unrealized": -187.4,
+  "daily_pnl": 422.13,
+  "total_pnl": 12888.13,
+  "cum_pct": 12.27,
+  "daily_avg_pct": 1.1155,
+  "annual_pct": 5634.2,
   "mdd": -2.22,
   "current_dd": -0.48,
-  "seed_used": 13177.23,
-  "seed_used_pct": 11.18,
-  "long_count": 8,
+  "seed_used": 12795.83,
+  "seed_used_pct": 10.85,
+  "long_count": 7,
   "short_count": 2,
   "positions": [
     {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": 18.25,
-      "pnl_pct": 0.15,
+      "pnl": 14.26,
+      "pnl_pct": 0.12,
       "margin": 1712.36,
       "leverage": "7",
       "tier": "4/9",
       "entry": 9.0233,
-      "mark": 9.037
+      "mark": 9.034
     },
     {
       "symbol": "ENAUSDT",
       "side": "LONG",
-      "pnl": -64.08,
-      "pnl_pct": -0.57,
+      "pnl": -51.25,
+      "pnl_pct": -0.46,
       "margin": 1403.71,
       "leverage": "8",
       "tier": "5/10",
       "entry": 0.0962,
-      "mark": 0.0957
+      "mark": 0.0958
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -130.87,
-      "pnl_pct": -1.18,
+      "pnl": -134.41,
+      "pnl_pct": -1.21,
       "margin": 1234.18,
       "leverage": "9",
       "tier": "5/11",
       "entry": 0.0942,
-      "mark": 0.0931
+      "mark": 0.093
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": -36.33,
-      "pnl_pct": -0.34,
+      "pnl": -35.63,
+      "pnl_pct": -0.33,
       "margin": 1203.51,
       "leverage": "9",
       "tier": "4/9",
       "entry": 74188.9548,
-      "mark": 73940.12
+      "mark": 73944.9
     },
     {
       "symbol": "ZECUSDT",
       "side": "LONG",
-      "pnl": 2.76,
-      "pnl_pct": 0.03,
+      "pnl": 6.05,
+      "pnl_pct": 0.07,
       "margin": 1110.51,
       "leverage": "8",
       "tier": "3/9",
       "entry": 351.0111,
-      "mark": 351.12
+      "mark": 351.25
     },
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": -18.71,
-      "pnl_pct": -0.2,
+      "pnl": -12.63,
+      "pnl_pct": -0.13,
       "margin": 943.87,
       "leverage": "10",
       "tier": "2/10",
       "entry": 9.3185,
-      "mark": 9.3
+      "mark": 9.306
     },
     {
       "symbol": "BNBUSDT",
@@ -97,35 +97,24 @@
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": 34.81,
-      "pnl_pct": 0.77,
+      "pnl": 32.93,
+      "pnl_pct": 0.73,
       "margin": 647.2,
       "leverage": "7",
       "tier": "3/9",
       "entry": 0.2409,
-      "mark": 0.239
-    },
-    {
-      "symbol": "RAVEUSDT",
-      "side": "LONG",
-      "pnl": -261.34,
-      "pnl_pct": -5.03,
-      "margin": 399.66,
-      "leverage": "13",
-      "tier": "2/12",
-      "entry": 15.8887,
-      "mark": 15.0895
+      "mark": 0.2391
     },
     {
       "symbol": "TRUMPUSDT",
       "side": "SHORT",
-      "pnl": 6.93,
-      "pnl_pct": 0.36,
+      "pnl": 6.24,
+      "pnl_pct": 0.32,
       "margin": 277.3,
       "leverage": "7",
       "tier": "2/9",
       "entry": 2.801,
-      "mark": 2.791
+      "mark": 2.792
     }
   ],
   "signals": {
@@ -257,10 +246,17 @@
     },
     {
       "t": "2026-04-15",
-      "v": 12903.95
+      "v": 12888.13
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-15 15:43",
+      "symbol": "RAVEUSDT",
+      "side": "Buy",
+      "pnl": -294.48,
+      "reason": "2/12"
+    },
     {
       "ts": "2026-04-15 15:39",
       "symbol": "RAVEUSDT",
@@ -393,13 +389,6 @@
       "side": "Sell",
       "pnl": 123.14,
       "reason": "5/9"
-    },
-    {
-      "ts": "2026-04-15 00:11",
-      "symbol": "BTCUSDT",
-      "side": "Buy",
-      "pnl": 3.58,
-      "reason": "L2"
     }
   ],
   "num_days": 11
