@@ -1,87 +1,87 @@
 {
-  "ts": "2026-04-15T09:04:49.233345+09:00",
+  "ts": "2026-04-15T09:05:50.344152+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 118356.97,
-  "available": 107593.78,
-  "unrealized": -15.83,
-  "daily_pnl": 722.26,
-  "total_pnl": 13356.97,
-  "cum_pct": 12.72,
-  "daily_avg_pct": 1.1564,
-  "annual_pct": 6546.27,
+  "equity": 118646.83,
+  "available": 108864.77,
+  "unrealized": 149.43,
+  "daily_pnl": 838.15,
+  "total_pnl": 13646.83,
+  "cum_pct": 13.0,
+  "daily_avg_pct": 1.1818,
+  "annual_pct": 7184.11,
   "mdd": -2.22,
   "current_dd": -0.1,
-  "seed_used": 10763.19,
-  "seed_used_pct": 9.09,
+  "seed_used": 9782.06,
+  "seed_used_pct": 8.24,
   "long_count": 6,
   "short_count": 1,
   "positions": [
     {
-      "symbol": "ZECUSDT",
-      "side": "LONG",
-      "pnl": 50.22,
-      "pnl_pct": 0.31,
-      "margin": 1995.06,
-      "leverage": "8",
-      "tier": "7/11",
-      "entry": 354.2055,
-      "mark": 355.32
-    },
-    {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": 24.89,
-      "pnl_pct": 0.21,
+      "pnl": 48.8,
+      "pnl_pct": 0.41,
       "margin": 1712.36,
       "leverage": "7",
       "tier": "4/9",
       "entry": 9.0233,
-      "mark": 9.042
+      "mark": 9.06
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -110.82,
-      "pnl_pct": -1.0,
+      "pnl": -96.67,
+      "pnl_pct": -0.87,
       "margin": 1234.18,
       "leverage": "9",
       "tier": "5/11",
       "entry": 0.0942,
-      "mark": 0.0932
+      "mark": 0.0934
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 24.43,
-      "pnl_pct": 0.23,
+      "pnl": 51.21,
+      "pnl_pct": 0.47,
       "margin": 1203.51,
       "leverage": "9",
       "tier": "4/9",
       "entry": 74188.9548,
-      "mark": 74356.3
+      "mark": 74539.68
+    },
+    {
+      "symbol": "ZECUSDT",
+      "side": "LONG",
+      "pnl": 122.67,
+      "pnl_pct": 1.54,
+      "margin": 997.53,
+      "leverage": "8",
+      "tier": "7/11",
+      "entry": 354.2055,
+      "mark": 359.65
     },
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": 10.67,
-      "pnl_pct": 0.11,
+      "pnl": 31.94,
+      "pnl_pct": 0.34,
       "margin": 943.87,
       "leverage": "10",
       "tier": "2/10",
       "entry": 9.3185,
-      "mark": 9.329
+      "mark": 9.35
     },
     {
       "symbol": "BNBUSDT",
       "side": "LONG",
-      "pnl": -10.36,
-      "pnl_pct": -0.2,
+      "pnl": -3.72,
+      "pnl_pct": -0.07,
       "margin": 739.0,
       "leverage": "7",
       "tier": "3/9",
       "entry": 615.8333,
-      "mark": 614.6
+      "mark": 615.39
     },
     {
       "symbol": "TRUMPUSDT",
@@ -125,8 +125,8 @@
       "conf": 0.6
     },
     "ETHUSDT": {
-      "dir": "short",
-      "conf": 0.501
+      "dir": "long",
+      "conf": 0.504
     },
     "ZECUSDT": {
       "dir": "long",
@@ -154,11 +154,11 @@
     },
     "XRPUSDT": {
       "dir": "short",
-      "conf": 0.555
+      "conf": 0.556
     },
     "DOTUSDT": {
       "dir": "short",
-      "conf": 0.534
+      "conf": 0.535
     },
     "1000PEPEUSDT": {
       "dir": "long",
@@ -166,7 +166,7 @@
     },
     "ENAUSDT": {
       "dir": "short",
-      "conf": 0.547
+      "conf": 0.548
     },
     "ADAUSDT": {
       "dir": "long",
@@ -178,7 +178,7 @@
     },
     "WLDUSDT": {
       "dir": "short",
-      "conf": 0.501
+      "conf": 0.502
     },
     "BCHUSDT": {
       "dir": "long",
@@ -224,10 +224,17 @@
     },
     {
       "t": "2026-04-15",
-      "v": 13356.97
+      "v": 13646.83
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-15 09:05",
+      "symbol": "ZECUSDT",
+      "side": "Buy",
+      "pnl": 115.89,
+      "reason": "-"
+    },
     {
       "ts": "2026-04-15 08:50",
       "symbol": "SOLUSDT",
@@ -360,13 +367,6 @@
       "side": "Buy",
       "pnl": 42.98,
       "reason": "-"
-    },
-    {
-      "ts": "2026-04-14 07:05",
-      "symbol": "AVAXUSDT",
-      "side": "Buy",
-      "pnl": 40.13,
-      "reason": "3/10"
     }
   ],
   "num_days": 11
