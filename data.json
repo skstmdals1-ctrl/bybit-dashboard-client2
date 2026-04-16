@@ -1,27 +1,27 @@
 {
-  "ts": "2026-04-16T12:45:21.016779+09:00",
+  "ts": "2026-04-16T12:46:22.213647+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 117137.26,
-  "available": 95172.15,
-  "unrealized": -2118.36,
-  "daily_pnl": 753.38,
-  "total_pnl": 12137.26,
-  "cum_pct": 11.56,
-  "daily_avg_pct": 0.9633,
-  "annual_pct": 3208.96,
+  "equity": 117001.21,
+  "available": 95119.56,
+  "unrealized": -2274.87,
+  "daily_pnl": 775.3,
+  "total_pnl": 12001.21,
+  "cum_pct": 11.43,
+  "daily_avg_pct": 0.9525,
+  "annual_pct": 3082.24,
   "mdd": -2.22,
   "current_dd": -1.05,
-  "seed_used": 21965.11,
-  "seed_used_pct": 18.75,
+  "seed_used": 21881.65,
+  "seed_used_pct": 18.7,
   "long_count": 6,
   "short_count": 4,
   "positions": [
     {
       "symbol": "1000PEPEUSDT",
       "side": "SHORT",
-      "pnl": -2133.87,
-      "pnl_pct": -4.13,
+      "pnl": -2276.87,
+      "pnl_pct": -4.4,
       "margin": 7384.75,
       "leverage": "7",
       "tier": "10/11",
@@ -31,63 +31,63 @@
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -270.33,
-      "pnl_pct": -0.97,
+      "pnl": -273.64,
+      "pnl_pct": -0.98,
       "margin": 3100.84,
       "leverage": "9",
       "tier": "6/9",
       "entry": 84.4915,
-      "mark": 85.31
+      "mark": 85.32
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": -167.81,
-      "pnl_pct": -1.73,
+      "pnl": -179.7,
+      "pnl_pct": -1.86,
       "margin": 1382.4,
       "leverage": "7",
       "tier": "5/9",
       "entry": 0.2441,
-      "mark": 0.2483
+      "mark": 0.2486
     },
     {
       "symbol": "BNBUSDT",
       "side": "LONG",
-      "pnl": 149.91,
-      "pnl_pct": 1.69,
+      "pnl": 155.69,
+      "pnl_pct": 1.76,
       "margin": 1266.91,
       "leverage": "7",
       "tier": "3/9",
       "entry": 613.726,
-      "mark": 624.1
+      "mark": 624.5
     },
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": 136.27,
-      "pnl_pct": 1.44,
+      "pnl": 146.39,
+      "pnl_pct": 1.55,
       "margin": 943.87,
       "leverage": "10",
       "tier": "3/10",
       "entry": 9.3185,
-      "mark": 9.453
+      "mark": 9.463
     },
     {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": 25.48,
-      "pnl_pct": 0.5,
+      "pnl": 29.31,
+      "pnl_pct": 0.58,
       "margin": 631.44,
       "leverage": "8",
       "tier": "3/9",
       "entry": 9.2384,
-      "mark": 9.285
+      "mark": 9.292
     },
     {
       "symbol": "ENAUSDT",
       "side": "LONG",
-      "pnl": 134.05,
-      "pnl_pct": 2.77,
+      "pnl": 133.56,
+      "pnl_pct": 2.76,
       "margin": 538.27,
       "leverage": "9",
       "tier": "3/10",
@@ -106,26 +106,26 @@
       "mark": 0.0809
     },
     {
-      "symbol": "WLDUSDT",
-      "side": "LONG",
-      "pnl": 41.13,
-      "pnl_pct": 2.8,
-      "margin": 210.02,
-      "leverage": "7",
-      "tier": "1/10",
-      "entry": 0.3038,
-      "mark": 0.3123
-    },
-    {
       "symbol": "ZECUSDT",
       "side": "LONG",
-      "pnl": -42.83,
-      "pnl_pct": -2.64,
+      "pnl": -41.53,
+      "pnl_pct": -2.56,
       "margin": 179.97,
       "leverage": "9",
       "tier": "2/10",
       "entry": 349.83,
-      "mark": 340.58
+      "mark": 340.86
+    },
+    {
+      "symbol": "WLDUSDT",
+      "side": "LONG",
+      "pnl": 22.26,
+      "pnl_pct": 3.03,
+      "margin": 105.01,
+      "leverage": "7",
+      "tier": "1/10",
+      "entry": 0.3038,
+      "mark": 0.313
     }
   ],
   "signals": {
@@ -265,10 +265,17 @@
     },
     {
       "t": "2026-04-16",
-      "v": 12137.26
+      "v": 12001.21
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-16 12:45",
+      "symbol": "WLDUSDT",
+      "side": "Buy",
+      "pnl": 21.92,
+      "reason": "-"
+    },
     {
       "ts": "2026-04-16 12:18",
       "symbol": "TRUMPUSDT",
@@ -400,13 +407,6 @@
       "symbol": "ENAUSDT",
       "side": "Buy",
       "pnl": -28.34,
-      "reason": "5/9"
-    },
-    {
-      "ts": "2026-04-16 00:30",
-      "symbol": "LINKUSDT",
-      "side": "Buy",
-      "pnl": 39.94,
       "reason": "5/9"
     }
   ],
