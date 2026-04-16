@@ -1,109 +1,98 @@
 {
-  "ts": "2026-04-17T05:21:00.112184+09:00",
+  "ts": "2026-04-17T05:22:01.352100+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 121003.85,
-  "available": 115548.96,
-  "unrealized": 332.78,
-  "daily_pnl": 747.57,
-  "total_pnl": 16003.85,
-  "cum_pct": 15.24,
-  "daily_avg_pct": 1.1723,
-  "annual_pct": 6938.7,
+  "equity": 121009.27,
+  "available": 115872.28,
+  "unrealized": 322.76,
+  "daily_pnl": 760.04,
+  "total_pnl": 16009.27,
+  "cum_pct": 15.25,
+  "daily_avg_pct": 1.1731,
+  "annual_pct": 6959.04,
   "mdd": -2.6,
   "current_dd": 0.0,
-  "seed_used": 5454.89,
-  "seed_used_pct": 4.51,
-  "long_count": 7,
+  "seed_used": 5136.99,
+  "seed_used_pct": 4.25,
+  "long_count": 6,
   "short_count": 1,
   "positions": [
     {
       "symbol": "WLFIUSDT",
       "side": "SHORT",
-      "pnl": 33.65,
-      "pnl_pct": 0.41,
+      "pnl": 29.66,
+      "pnl_pct": 0.36,
       "margin": 1170.94,
       "leverage": "7",
       "tier": "4/9",
       "entry": 0.0821,
-      "mark": 0.0818
+      "mark": 0.0819
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 48.64,
-      "pnl_pct": 2.0,
+      "pnl": 49.07,
+      "pnl_pct": 2.02,
       "margin": 347.14,
       "leverage": "7",
       "tier": "1/9",
       "entry": 73636.3,
-      "mark": 75110.15
+      "mark": 75123.3
     },
     {
       "symbol": "BNBUSDT",
       "side": "LONG",
-      "pnl": 76.14,
-      "pnl_pct": 3.42,
+      "pnl": 76.86,
+      "pnl_pct": 3.45,
       "margin": 318.26,
       "leverage": "7",
       "tier": "3/9",
       "entry": 613.726,
-      "mark": 634.7
+      "mark": 634.9
     },
     {
       "symbol": "ADAUSDT",
       "side": "LONG",
-      "pnl": 64.75,
-      "pnl_pct": 2.74,
+      "pnl": 66.63,
+      "pnl_pct": 2.82,
       "margin": 262.13,
       "leverage": "9",
       "tier": "2/11",
       "entry": 0.2514,
-      "mark": 0.2583
+      "mark": 0.2585
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": 38.82,
-      "pnl_pct": 1.55,
+      "pnl": 40.63,
+      "pnl_pct": 1.62,
       "margin": 251.16,
       "leverage": "10",
       "tier": "2/11",
       "entry": 0.097,
-      "mark": 0.0985
+      "mark": 0.0986
     },
     {
       "symbol": "WLDUSDT",
       "side": "LONG",
-      "pnl": 27.2,
-      "pnl_pct": 2.16,
+      "pnl": 28.01,
+      "pnl_pct": 2.22,
       "margin": 180.19,
       "leverage": "7",
       "tier": "2/12",
       "entry": 0.3107,
-      "mark": 0.3174
+      "mark": 0.3176
     },
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": 31.69,
-      "pnl_pct": 2.33,
+      "pnl": 31.83,
+      "pnl_pct": 2.34,
       "margin": 151.19,
       "leverage": "9",
       "tier": "1/11",
       "entry": 9.489,
-      "mark": 9.71
-    },
-    {
-      "symbol": "1000PEPEUSDT",
-      "side": "LONG",
-      "pnl": 11.83,
-      "pnl_pct": 2.71,
-      "margin": 54.6,
-      "leverage": "8",
-      "tier": "2/12",
-      "entry": 0.0039,
-      "mark": 0.004
+      "mark": 9.711
     }
   ],
   "signals": {
@@ -251,10 +240,17 @@
     },
     {
       "t": "2026-04-17",
-      "v": 16003.85
+      "v": 16009.27
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-17 05:21",
+      "symbol": "1000PEPEUSDT",
+      "side": "Buy",
+      "pnl": 12.46,
+      "reason": "2/12"
+    },
     {
       "ts": "2026-04-17 04:59",
       "symbol": "TRUMPUSDT",
@@ -387,13 +383,6 @@
       "side": "Buy",
       "pnl": 42.93,
       "reason": "2/11"
-    },
-    {
-      "ts": "2026-04-17 01:39",
-      "symbol": "AVAXUSDT",
-      "side": "Buy",
-      "pnl": 0.01,
-      "reason": "L2"
     }
   ],
   "num_days": 13
