@@ -1,71 +1,60 @@
 {
-  "ts": "2026-04-17T01:33:14.270692+09:00",
+  "ts": "2026-04-17T01:34:15.455600+09:00",
   "start_date": "2026-04-05",
   "status": "running",
-  "equity": 120428.07,
-  "available": 113703.25,
-  "unrealized": 396.39,
-  "daily_pnl": 102.37,
-  "total_pnl": 15428.07,
-  "cum_pct": 14.69,
-  "daily_avg_pct": 1.13,
-  "annual_pct": 5942.3,
+  "equity": 120328.65,
+  "available": 114930.27,
+  "unrealized": 234.44,
+  "daily_pnl": 184.83,
+  "total_pnl": 15328.65,
+  "cum_pct": 14.6,
+  "daily_avg_pct": 1.1231,
+  "annual_pct": 5793.68,
   "mdd": -2.6,
   "current_dd": -0.14,
-  "seed_used": 6724.82,
-  "seed_used_pct": 5.58,
+  "seed_used": 5398.38,
+  "seed_used_pct": 4.49,
   "long_count": 8,
   "short_count": 1,
   "positions": [
     {
       "symbol": "BNBUSDT",
       "side": "LONG",
-      "pnl": 172.3,
-      "pnl_pct": 1.94,
+      "pnl": 154.24,
+      "pnl_pct": 1.74,
       "margin": 1266.91,
       "leverage": "7",
       "tier": "3/9",
       "entry": 613.726,
-      "mark": 625.65
-    },
-    {
-      "symbol": "AVAXUSDT",
-      "side": "LONG",
-      "pnl": 104.93,
-      "pnl_pct": 1.54,
-      "margin": 757.9,
-      "leverage": "9",
-      "tier": "3/9",
-      "entry": 9.358,
-      "mark": 9.502
+      "mark": 624.4
     },
     {
       "symbol": "ZECUSDT",
       "side": "LONG",
-      "pnl": -57.52,
-      "pnl_pct": -1.08,
+      "pnl": -71.2,
+      "pnl_pct": -1.33,
       "margin": 593.76,
       "leverage": "9",
       "tier": "4/10",
       "entry": 339.9391,
-      "mark": 336.28
+      "mark": 335.41
     },
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": 27.32,
-      "pnl_pct": 1.12,
+      "pnl": 22.14,
+      "pnl_pct": 0.91,
       "margin": 347.14,
       "leverage": "7",
       "tier": "1/9",
       "entry": 73636.3,
-      "mark": 74464.19
+      "mark": 74307.3
     },
     {
       "symbol": "WLFIUSDT",
       "side": "SHORT",
-      "pnl": -3.47,
-      "pnl_pct": -0.17,
+      "pnl": -1.49,
+      "pnl_pct": -0.07,
       "margin": 288.05,
       "leverage": "7",
       "tier": "2/9",
@@ -75,46 +64,57 @@
     {
       "symbol": "SOLUSDT",
       "side": "LONG",
-      "pnl": 62.46,
-      "pnl_pct": 2.21,
+      "pnl": 54.11,
+      "pnl_pct": 1.91,
       "margin": 282.86,
       "leverage": "10",
       "tier": "2/11",
       "entry": 84.69,
-      "mark": 86.56
+      "mark": 86.31
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": 61.08,
-      "pnl_pct": 2.78,
+      "pnl": 51.36,
+      "pnl_pct": 2.34,
       "margin": 244.16,
       "leverage": "9",
       "tier": "2/11",
       "entry": 0.095,
-      "mark": 0.0976
+      "mark": 0.0972
     },
     {
       "symbol": "ADAUSDT",
       "side": "LONG",
-      "pnl": 19.52,
-      "pnl_pct": 2.42,
+      "pnl": 16.91,
+      "pnl_pct": 2.1,
       "margin": 115.18,
       "leverage": "7",
       "tier": "3/11",
       "entry": 0.247,
-      "mark": 0.253
+      "mark": 0.2522
     },
     {
       "symbol": "TRUMPUSDT",
       "side": "LONG",
-      "pnl": 9.66,
-      "pnl_pct": 2.74,
+      "pnl": 8.33,
+      "pnl_pct": 2.36,
       "margin": 50.37,
       "leverage": "7",
       "tier": "2/12",
       "entry": 2.921,
-      "mark": 3.001
+      "mark": 2.99
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "side": "LONG",
+      "pnl": 0.01,
+      "pnl_pct": 1.24,
+      "margin": 0.1,
+      "leverage": "9",
+      "tier": "1/9",
+      "entry": 9.358,
+      "mark": 9.474
     }
   ],
   "signals": {
@@ -258,10 +258,17 @@
     },
     {
       "t": "2026-04-17",
-      "v": 15428.07
+      "v": 15328.65
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-17 01:34",
+      "symbol": "AVAXUSDT",
+      "side": "Buy",
+      "pnl": 82.46,
+      "reason": "3/9"
+    },
     {
       "ts": "2026-04-17 01:12",
       "symbol": "TRUMPUSDT",
@@ -394,13 +401,6 @@
       "side": "Sell",
       "pnl": -30.98,
       "reason": "3/9"
-    },
-    {
-      "ts": "2026-04-16 22:12",
-      "symbol": "WLDUSDT",
-      "side": "Buy",
-      "pnl": 21.31,
-      "reason": "-"
     }
   ],
   "num_days": 13
