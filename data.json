@@ -1,21 +1,21 @@
 {
-  "ts": "2026-04-18T03:39:21.147327+09:00",
+  "ts": "2026-04-18T03:40:22.470207+09:00",
   "start_date": "2026-03-01",
   "status": "running",
-  "equity": 122296.58,
-  "available": 115097.23,
-  "unrealized": 80.34,
-  "daily_pnl": 583.06,
-  "total_pnl": 17296.58,
+  "equity": 122294.78,
+  "available": 116924.08,
+  "unrealized": 30.19,
+  "daily_pnl": 629.15,
+  "total_pnl": 17294.78,
   "cum_pct": 16.47,
   "daily_avg_pct": 0.3361,
   "annual_pct": 240.32,
   "mdd": -2.6,
   "current_dd": -0.04,
-  "seed_used": 7199.36,
-  "seed_used_pct": 5.89,
+  "seed_used": 5370.7,
+  "seed_used_pct": 4.39,
   "long_count": 4,
-  "short_count": 3,
+  "short_count": 2,
   "positions": [
     {
       "symbol": "1000PEPEUSDT",
@@ -29,26 +29,15 @@
       "mark": 0.0041
     },
     {
-      "symbol": "WLFIUSDT",
-      "side": "SHORT",
-      "pnl": 46.39,
-      "pnl_pct": 0.98,
-      "margin": 675.89,
-      "leverage": "7",
-      "tier": "6/9",
-      "entry": 0.083,
-      "mark": 0.0822
-    },
-    {
       "symbol": "HYPEUSDT",
       "side": "SHORT",
-      "pnl": -28.04,
-      "pnl_pct": -0.67,
+      "pnl": -30.9,
+      "pnl_pct": -0.73,
       "margin": 600.68,
       "leverage": "7",
       "tier": "2/9",
       "entry": 44.0562,
-      "mark": 44.35
+      "mark": 44.38
     },
     {
       "symbol": "LINKUSDT",
@@ -64,35 +53,35 @@
     {
       "symbol": "ADAUSDT",
       "side": "LONG",
-      "pnl": -18.18,
-      "pnl_pct": -0.41,
+      "pnl": -19.87,
+      "pnl_pct": -0.45,
       "margin": 553.45,
       "leverage": "8",
       "tier": "3/10",
       "entry": 0.2626,
-      "mark": 0.2615
+      "mark": 0.2614
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -19.8,
-      "pnl_pct": -0.47,
+      "pnl": -19.38,
+      "pnl_pct": -0.46,
       "margin": 526.92,
       "leverage": "8",
       "tier": "3/10",
       "entry": 0.1006,
-      "mark": 0.1001
+      "mark": 0.1002
     },
     {
       "symbol": "ZECUSDT",
       "side": "SHORT",
-      "pnl": 42.52,
-      "pnl_pct": 2.78,
+      "pnl": 42.92,
+      "pnl_pct": 2.8,
       "margin": 218.74,
       "leverage": "7",
       "tier": "2/11",
       "entry": 341.78,
-      "mark": 332.29
+      "mark": 332.2
     }
   ],
   "signals": {
@@ -244,10 +233,17 @@
     },
     {
       "t": "2026-04-18",
-      "v": 17296.58
+      "v": 17294.78
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-18 03:39",
+      "symbol": "WLFIUSDT",
+      "side": "Sell",
+      "pnl": 46.09,
+      "reason": "6/9"
+    },
     {
       "ts": "2026-04-18 03:11",
       "symbol": "WLFIUSDT",
@@ -380,13 +376,6 @@
       "side": "Buy",
       "pnl": 110.3,
       "reason": "-"
-    },
-    {
-      "ts": "2026-04-17 21:40",
-      "symbol": "ENAUSDT",
-      "side": "Buy",
-      "pnl": 9.61,
-      "reason": "2/11"
     }
   ],
   "num_days": 49
