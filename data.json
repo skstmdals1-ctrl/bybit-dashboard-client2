@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-18T03:50:34.600503+09:00",
+  "ts": "2026-04-18T03:51:35.811440+09:00",
   "start_date": "2026-03-01",
   "status": "running",
-  "equity": 122315.01,
-  "available": 116944.77,
-  "unrealized": 60.93,
+  "equity": 122308.27,
+  "available": 116941.75,
+  "unrealized": 50.89,
   "daily_pnl": 629.15,
-  "total_pnl": 17315.01,
-  "cum_pct": 16.49,
-  "daily_avg_pct": 0.3365,
-  "annual_pct": 240.81,
+  "total_pnl": 17308.27,
+  "cum_pct": 16.48,
+  "daily_avg_pct": 0.3363,
+  "annual_pct": 240.56,
   "mdd": -2.6,
-  "current_dd": 0.0,
-  "seed_used": 5370.24,
+  "current_dd": -0.02,
+  "seed_used": 5366.52,
   "seed_used_pct": 4.39,
   "long_count": 4,
   "short_count": 2,
@@ -20,8 +20,8 @@
     {
       "symbol": "1000PEPEUSDT",
       "side": "LONG",
-      "pnl": 91.49,
-      "pnl_pct": 1.35,
+      "pnl": 84.73,
+      "pnl_pct": 1.25,
       "margin": 850.15,
       "leverage": "8",
       "tier": "4/12",
@@ -31,57 +31,57 @@
     {
       "symbol": "HYPEUSDT",
       "side": "SHORT",
-      "pnl": -15.54,
-      "pnl_pct": -0.37,
+      "pnl": -8.09,
+      "pnl_pct": -0.19,
       "margin": 600.68,
       "leverage": "7",
       "tier": "2/9",
       "entry": 44.0562,
-      "mark": 44.219
+      "mark": 44.141
     },
     {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": -25.26,
-      "pnl_pct": -0.56,
+      "pnl": -29.43,
+      "pnl_pct": -0.65,
       "margin": 563.02,
       "leverage": "8",
       "tier": "3/10",
       "entry": 9.7135,
-      "mark": 9.659
+      "mark": 9.65
     },
     {
       "symbol": "ADAUSDT",
       "side": "LONG",
-      "pnl": -16.5,
-      "pnl_pct": -0.37,
+      "pnl": -21.55,
+      "pnl_pct": -0.49,
       "margin": 553.45,
       "leverage": "8",
       "tier": "3/10",
       "entry": 0.2626,
-      "mark": 0.2616
+      "mark": 0.2613
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -15.19,
-      "pnl_pct": -0.36,
+      "pnl": -18.96,
+      "pnl_pct": -0.45,
       "margin": 526.92,
       "leverage": "8",
       "tier": "3/10",
       "entry": 0.1006,
-      "mark": 0.1003
+      "mark": 0.1002
     },
     {
       "symbol": "ZECUSDT",
       "side": "SHORT",
-      "pnl": 41.89,
-      "pnl_pct": 2.74,
+      "pnl": 44.17,
+      "pnl_pct": 2.88,
       "margin": 218.74,
       "leverage": "7",
       "tier": "2/11",
       "entry": 341.78,
-      "mark": 332.43
+      "mark": 331.92
     }
   ],
   "signals": {
@@ -99,7 +99,7 @@
     },
     "BTCUSDT": {
       "dir": "short",
-      "conf": 0.615
+      "conf": 0.621
     },
     "TRUMPUSDT": {
       "dir": "short",
@@ -111,7 +111,7 @@
     },
     "AVAXUSDT": {
       "dir": "short",
-      "conf": 0.604
+      "conf": 0.603
     },
     "ETHUSDT": {
       "dir": "long",
@@ -119,7 +119,7 @@
     },
     "ZECUSDT": {
       "dir": "short",
-      "conf": 0.632
+      "conf": 0.631
     },
     "BNBUSDT": {
       "dir": "short",
@@ -135,15 +135,15 @@
     },
     "SUIUSDT": {
       "dir": "short",
-      "conf": 0.513
+      "conf": 0.515
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.813
+      "conf": 0.837
     },
     "XRPUSDT": {
       "dir": "short",
-      "conf": 0.503
+      "conf": 0.502
     },
     "DOTUSDT": {
       "dir": "short",
@@ -151,7 +151,7 @@
     },
     "1000PEPEUSDT": {
       "dir": "long",
-      "conf": 0.518
+      "conf": 0.508
     },
     "ENAUSDT": {
       "dir": "short",
@@ -163,7 +163,7 @@
     },
     "TAOUSDT": {
       "dir": "short",
-      "conf": 0.519
+      "conf": 0.522
     },
     "WLDUSDT": {
       "dir": "long",
@@ -183,7 +183,7 @@
     },
     "ARBUSDT": {
       "dir": "short",
-      "conf": 0.511
+      "conf": 0.51
     },
     "TONUSDT": {
       "dir": "long",
@@ -191,7 +191,7 @@
     },
     "WLFIUSDT": {
       "dir": "short",
-      "conf": 0.566
+      "conf": 0.572
     },
     "DASHUSDT": {
       "dir": "long",
@@ -233,7 +233,7 @@
     },
     {
       "t": "2026-04-18",
-      "v": 17315.01
+      "v": 17308.27
     }
   ],
   "trade_history": [
