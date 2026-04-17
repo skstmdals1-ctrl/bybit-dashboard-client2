@@ -1,38 +1,38 @@
 {
-  "ts": "2026-04-17T20:30:26.960867+09:00",
+  "ts": "2026-04-17T20:31:28.169499+09:00",
   "start_date": "2026-03-01",
   "status": "running",
-  "equity": 121492.01,
-  "available": 115356.58,
-  "unrealized": 188.45,
+  "equity": 121504.17,
+  "available": 115366.12,
+  "unrealized": 205.55,
   "daily_pnl": 1355.87,
-  "total_pnl": 16492.01,
-  "cum_pct": 15.71,
-  "daily_avg_pct": 0.3273,
-  "annual_pct": 229.59,
+  "total_pnl": 16504.17,
+  "cum_pct": 15.72,
+  "daily_avg_pct": 0.3275,
+  "annual_pct": 229.83,
   "mdd": -2.6,
   "current_dd": -0.16,
-  "seed_used": 6135.43,
+  "seed_used": 6138.05,
   "seed_used_pct": 5.05,
-  "long_count": 4,
+  "long_count": 5,
   "short_count": 2,
   "positions": [
     {
       "symbol": "WLFIUSDT",
       "side": "SHORT",
-      "pnl": 19.68,
-      "pnl_pct": 0.24,
+      "pnl": 15.69,
+      "pnl_pct": 0.19,
       "margin": 1170.94,
       "leverage": "7",
       "tier": "4/9",
       "entry": 0.0821,
-      "mark": 0.0819
+      "mark": 0.082
     },
     {
       "symbol": "1000BONKUSDT",
       "side": "LONG",
-      "pnl": 80.25,
-      "pnl_pct": 1.08,
+      "pnl": 92.6,
+      "pnl_pct": 1.25,
       "margin": 1058.7,
       "leverage": "7",
       "tier": "5/11",
@@ -42,46 +42,57 @@
     {
       "symbol": "HYPEUSDT",
       "side": "SHORT",
-      "pnl": 46.4,
-      "pnl_pct": 1.1,
+      "pnl": 45.74,
+      "pnl_pct": 1.09,
       "margin": 600.68,
       "leverage": "7",
       "tier": "2/9",
       "entry": 44.0562,
-      "mark": 43.57
+      "mark": 43.577
     },
     {
       "symbol": "ADAUSDT",
       "side": "LONG",
-      "pnl": 22.47,
-      "pnl_pct": 1.02,
+      "pnl": 25.06,
+      "pnl_pct": 1.14,
       "margin": 314.41,
       "leverage": "7",
       "tier": "2/9",
       "entry": 0.2547,
-      "mark": 0.2573
+      "mark": 0.2576
+    },
+    {
+      "symbol": "BTCUSDT",
+      "side": "LONG",
+      "pnl": 1.78,
+      "pnl_pct": 0.1,
+      "margin": 258.68,
+      "leverage": "7",
+      "tier": "1/9",
+      "entry": 75447.0,
+      "mark": 75521.3
     },
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": 4.7,
-      "pnl_pct": 0.24,
+      "pnl": 7.97,
+      "pnl_pct": 0.41,
       "margin": 245.67,
       "leverage": "8",
       "tier": "2/10",
       "entry": 9.62,
-      "mark": 9.643
+      "mark": 9.659
     },
     {
       "symbol": "ENAUSDT",
       "side": "LONG",
-      "pnl": 14.88,
-      "pnl_pct": 1.06,
+      "pnl": 16.65,
+      "pnl_pct": 1.19,
       "margin": 200.41,
       "leverage": "7",
       "tier": "2/11",
       "entry": 0.1113,
-      "mark": 0.1124
+      "mark": 0.1126
     }
   ],
   "signals": {
@@ -211,7 +222,7 @@
     },
     "1000BONKUSDT": {
       "dir": "short",
-      "conf": 0.541
+      "conf": 0.543
     }
   },
   "equity_hist": [
@@ -229,7 +240,7 @@
     },
     {
       "t": "2026-04-17",
-      "v": 16492.01
+      "v": 16504.17
     }
   ],
   "trade_history": [
