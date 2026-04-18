@@ -1,82 +1,82 @@
 {
-  "ts": "2026-04-18T11:02:10.373357+09:00",
+  "ts": "2026-04-18T11:03:11.424063+09:00",
   "start_date": "2026-03-01",
   "status": "running",
-  "equity": 122030.21,
-  "available": 117634.27,
-  "unrealized": -229.16,
+  "equity": 122041.49,
+  "available": 117641.72,
+  "unrealized": -212.87,
   "daily_pnl": 624.38,
-  "total_pnl": 17030.21,
-  "cum_pct": 16.22,
-  "daily_avg_pct": 0.331,
-  "annual_pct": 234.06,
+  "total_pnl": 17041.49,
+  "cum_pct": 16.23,
+  "daily_avg_pct": 0.3312,
+  "annual_pct": 234.3,
   "mdd": -2.6,
   "current_dd": -0.28,
-  "seed_used": 4395.94,
-  "seed_used_pct": 3.6,
+  "seed_used": 4399.77,
+  "seed_used_pct": 3.61,
   "long_count": 2,
   "short_count": 3,
   "positions": [
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -99.35,
-      "pnl_pct": -0.93,
+      "pnl": -77.89,
+      "pnl_pct": -0.73,
       "margin": 1336.94,
       "leverage": "8",
       "tier": "4/10",
       "entry": 0.0997,
-      "mark": 0.0988
+      "mark": 0.099
     },
     {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": -90.29,
-      "pnl_pct": -1.19,
+      "pnl": -87.93,
+      "pnl_pct": -1.16,
       "margin": 949.86,
       "leverage": "8",
       "tier": "3/10",
       "entry": 9.6739,
-      "mark": 9.559
+      "mark": 9.562
     },
     {
       "symbol": "HYPEUSDT",
       "side": "SHORT",
-      "pnl": -84.44,
-      "pnl_pct": -2.01,
+      "pnl": -86.83,
+      "pnl_pct": -2.07,
       "margin": 600.68,
       "leverage": "7",
       "tier": "2/9",
       "entry": 44.0562,
-      "mark": 44.941
+      "mark": 44.966
     },
     {
       "symbol": "WLFIUSDT",
       "side": "SHORT",
-      "pnl": 38.6,
-      "pnl_pct": 2.19,
+      "pnl": 36.45,
+      "pnl_pct": 2.07,
       "margin": 293.64,
       "leverage": "6",
       "tier": "2/9",
       "entry": 0.0822,
-      "mark": 0.0804
+      "mark": 0.0805
     },
     {
       "symbol": "ZECUSDT",
       "side": "SHORT",
-      "pnl": 6.44,
-      "pnl_pct": 0.27,
+      "pnl": 3.43,
+      "pnl_pct": 0.15,
       "margin": 260.26,
       "leverage": "9",
       "tier": "2/9",
       "entry": 334.62,
-      "mark": 333.7
+      "mark": 334.13
     }
   ],
   "signals": {
     "LINKUSDT": {
       "dir": "short",
-      "conf": 0.539
+      "conf": 0.54
     },
     "DOGEUSDT": {
       "dir": "short",
@@ -222,7 +222,7 @@
     },
     {
       "t": "2026-04-18",
-      "v": 17030.21
+      "v": 17041.49
     }
   ],
   "trade_history": [
