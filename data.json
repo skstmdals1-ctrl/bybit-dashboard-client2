@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-19T08:33:35.715518+09:00",
+  "ts": "2026-04-19T08:34:37.121301+09:00",
   "start_date": "2026-03-01",
   "status": "running",
-  "equity": 121540.98,
-  "available": 109957.08,
-  "unrealized": -747.32,
+  "equity": 121526.56,
+  "available": 109943.13,
+  "unrealized": -740.11,
   "daily_pnl": 79.76,
-  "total_pnl": 16540.98,
-  "cum_pct": 15.75,
-  "daily_avg_pct": 0.315,
-  "annual_pct": 215.17,
+  "total_pnl": 16526.56,
+  "cum_pct": 15.74,
+  "daily_avg_pct": 0.3148,
+  "annual_pct": 214.94,
   "mdd": -2.6,
   "current_dd": -0.68,
-  "seed_used": 11583.91,
+  "seed_used": 11583.43,
   "seed_used_pct": 9.53,
   "long_count": 5,
   "short_count": 6,
@@ -20,30 +20,30 @@
     {
       "symbol": "BTCUSDT",
       "side": "LONG",
-      "pnl": -64.6,
-      "pnl_pct": -0.58,
+      "pnl": -61.27,
+      "pnl_pct": -0.55,
       "margin": 1599.15,
       "leverage": "7",
       "tier": "4/9",
       "entry": 76150.1252,
-      "mark": 75710.65
+      "mark": 75733.3
     },
     {
       "symbol": "SOLUSDT",
       "side": "LONG",
-      "pnl": -49.86,
-      "pnl_pct": -0.45,
+      "pnl": -46.94,
+      "pnl_pct": -0.43,
       "margin": 1374.18,
       "leverage": "8",
       "tier": "4/9",
       "entry": 86.5626,
-      "mark": 86.17
+      "mark": 86.193
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -518.82,
-      "pnl_pct": -4.85,
+      "pnl": -514.53,
+      "pnl_pct": -4.81,
       "margin": 1336.94,
       "leverage": "8",
       "tier": "4/10",
@@ -64,41 +64,41 @@
     {
       "symbol": "AVAXUSDT",
       "side": "LONG",
-      "pnl": -2.86,
-      "pnl_pct": -0.06,
+      "pnl": -3.84,
+      "pnl_pct": -0.08,
       "margin": 655.6,
       "leverage": "7",
       "tier": "2/9",
       "entry": 9.3618,
-      "mark": 9.356
+      "mark": 9.354
     },
     {
       "symbol": "HYPEUSDT",
       "side": "SHORT",
-      "pnl": -6.09,
-      "pnl_pct": -0.14,
+      "pnl": -6.66,
+      "pnl_pct": -0.16,
       "margin": 600.68,
       "leverage": "7",
       "tier": "2/9",
       "entry": 44.0562,
-      "mark": 44.12
+      "mark": 44.126
     },
     {
       "symbol": "TAOUSDT",
       "side": "SHORT",
-      "pnl": 56.61,
-      "pnl_pct": 1.77,
+      "pnl": 54.94,
+      "pnl_pct": 1.71,
       "margin": 457.88,
       "leverage": "7",
       "tier": "3/10",
       "entry": 249.3336,
-      "mark": 244.93
+      "mark": 245.06
     },
     {
       "symbol": "WLFIUSDT",
       "side": "SHORT",
-      "pnl": 63.47,
-      "pnl_pct": 3.6,
+      "pnl": 64.12,
+      "pnl_pct": 3.64,
       "margin": 293.64,
       "leverage": "6",
       "tier": "2/9",
@@ -119,24 +119,24 @@
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": 11.85,
-      "pnl_pct": 0.62,
+      "pnl": 11.26,
+      "pnl_pct": 0.59,
       "margin": 271.33,
       "leverage": "7",
       "tier": "2/9",
       "entry": 1.2823,
-      "mark": 1.2743
+      "mark": 1.2747
     },
     {
       "symbol": "WLDUSDT",
       "side": "SHORT",
-      "pnl": 45.78,
-      "pnl_pct": 5.59,
+      "pnl": 45.48,
+      "pnl_pct": 5.55,
       "margin": 102.45,
       "leverage": "8",
       "tier": "1/11",
       "entry": 0.2793,
-      "mark": 0.2637
+      "mark": 0.2638
     }
   ],
   "signals": {
@@ -166,7 +166,7 @@
     },
     "AVAXUSDT": {
       "dir": "long",
-      "conf": 0.614
+      "conf": 0.61
     },
     "ETHUSDT": {
       "dir": "long",
@@ -174,7 +174,7 @@
     },
     "ZECUSDT": {
       "dir": "long",
-      "conf": 0.657
+      "conf": 0.654
     },
     "BNBUSDT": {
       "dir": "short",
@@ -194,7 +194,7 @@
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.682
+      "conf": 0.709
     },
     "XRPUSDT": {
       "dir": "short",
@@ -246,7 +246,7 @@
     },
     "WLFIUSDT": {
       "dir": "short",
-      "conf": 0.528
+      "conf": 0.526
     },
     "DASHUSDT": {
       "dir": "long",
@@ -296,7 +296,7 @@
     },
     {
       "t": "2026-04-19",
-      "v": 16540.98
+      "v": 16526.56
     }
   ],
   "trade_history": [
