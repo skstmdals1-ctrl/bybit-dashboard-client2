@@ -1,32 +1,32 @@
 {
-  "ts": "2026-04-21T21:10:14.285147+09:00",
+  "ts": "2026-04-21T21:11:15.730169+09:00",
   "start_date": "2026-03-01",
   "status": "running",
-  "equity": 121650.29,
-  "available": 104487.88,
-  "unrealized": -2051.58,
-  "daily_pnl": 807.55,
-  "total_pnl": 16650.29,
-  "cum_pct": 15.86,
-  "daily_avg_pct": 0.305,
-  "annual_pct": 203.91,
+  "equity": 121663.34,
+  "available": 104980.54,
+  "unrealized": -2058.52,
+  "daily_pnl": 821.98,
+  "total_pnl": 16663.34,
+  "cum_pct": 15.87,
+  "daily_avg_pct": 0.3052,
+  "annual_pct": 204.13,
   "mdd": -2.6,
   "current_dd": -1.02,
-  "seed_used": 17162.4,
-  "seed_used_pct": 14.11,
-  "long_count": 5,
+  "seed_used": 16682.79,
+  "seed_used_pct": 13.71,
+  "long_count": 4,
   "short_count": 6,
   "positions": [
     {
       "symbol": "ZECUSDT",
       "side": "SHORT",
-      "pnl": -934.73,
-      "pnl_pct": -4.64,
+      "pnl": -930.9,
+      "pnl_pct": -4.62,
       "margin": 2879.17,
       "leverage": "7",
       "tier": "5/9",
       "entry": 316.243,
-      "mark": 330.91
+      "mark": 330.85
     },
     {
       "symbol": "ADAUSDT",
@@ -42,35 +42,35 @@
     {
       "symbol": "HYPEUSDT",
       "side": "LONG",
-      "pnl": -28.57,
-      "pnl_pct": -0.2,
+      "pnl": -35.22,
+      "pnl_pct": -0.25,
       "margin": 1783.95,
       "leverage": "8",
       "tier": "5/10",
       "entry": 40.8167,
-      "mark": 40.735
+      "mark": 40.716
     },
     {
       "symbol": "TRXUSDT",
       "side": "LONG",
-      "pnl": -26.14,
-      "pnl_pct": -0.18,
+      "pnl": -21.41,
+      "pnl_pct": -0.15,
       "margin": 1773.32,
       "leverage": "8",
       "tier": "4/9",
       "entry": 0.3294,
-      "mark": 0.3288
+      "mark": 0.3289
     },
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": -151.69,
+      "pnl": -151.32,
       "pnl_pct": -1.29,
       "margin": 1466.88,
       "leverage": "8",
       "tier": "3/9",
       "entry": 625.5341,
-      "mark": 633.62
+      "mark": 633.6
     },
     {
       "symbol": "XRPUSDT",
@@ -86,8 +86,8 @@
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -473.76,
-      "pnl_pct": -4.43,
+      "pnl": -469.47,
+      "pnl_pct": -4.39,
       "margin": 1336.94,
       "leverage": "8",
       "tier": "4/10",
@@ -97,46 +97,35 @@
     {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": -199.47,
-      "pnl_pct": -2.63,
+      "pnl": -197.12,
+      "pnl_pct": -2.59,
       "margin": 949.86,
       "leverage": "8",
       "tier": "3/10",
       "entry": 9.6739,
-      "mark": 9.42
+      "mark": 9.423
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -67.67,
-      "pnl_pct": -1.66,
+      "pnl": -67.0,
+      "pnl_pct": -1.65,
       "margin": 452.33,
       "leverage": "9",
       "tier": "1/9",
       "entry": 84.46,
-      "mark": 85.864
+      "mark": 85.85
     },
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": 17.95,
-      "pnl_pct": 0.95,
+      "pnl": 17.66,
+      "pnl_pct": 0.94,
       "margin": 125.82,
       "leverage": "15",
       "tier": "1/12",
       "entry": 1.293,
-      "mark": 1.2807
-    },
-    {
-      "symbol": "AVAXUSDT",
-      "side": "LONG",
-      "pnl": 16.18,
-      "pnl_pct": 1.71,
-      "margin": 105.1,
-      "leverage": "9",
-      "tier": "1/9",
-      "entry": 9.237,
-      "mark": 9.395
+      "mark": 1.2809
     }
   ],
   "signals": {
@@ -312,10 +301,17 @@
     },
     {
       "t": "2026-04-21",
-      "v": 16650.29
+      "v": 16663.34
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-21 21:11",
+      "symbol": "AVAXUSDT",
+      "side": "Buy",
+      "pnl": 14.44,
+      "reason": "1/9"
+    },
     {
       "ts": "2026-04-21 21:08",
       "symbol": "ENAUSDT",
@@ -448,13 +444,6 @@
       "side": "Sell",
       "pnl": 53.52,
       "reason": "3/11"
-    },
-    {
-      "ts": "2026-04-21 08:04",
-      "symbol": "ZECUSDT",
-      "side": "Buy",
-      "pnl": -0.05,
-      "reason": "마진 0.4USDT < 63"
     }
   ],
   "num_days": 52
