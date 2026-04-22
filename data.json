@@ -1,32 +1,32 @@
 {
-  "ts": "2026-04-22T09:12:49.779583+09:00",
+  "ts": "2026-04-22T09:13:51.091431+09:00",
   "start_date": "2026-03-01",
   "status": "running",
-  "equity": 122989.0,
-  "available": 104767.53,
-  "unrealized": -958.02,
+  "equity": 122979.06,
+  "available": 104760.51,
+  "unrealized": -971.68,
   "daily_pnl": 243.4,
-  "total_pnl": 17989.0,
-  "cum_pct": 17.13,
-  "daily_avg_pct": 0.3232,
-  "annual_pct": 224.72,
+  "total_pnl": 17979.06,
+  "cum_pct": 17.12,
+  "daily_avg_pct": 0.323,
+  "annual_pct": 224.48,
   "mdd": -2.6,
-  "current_dd": -0.03,
-  "seed_used": 18221.46,
-  "seed_used_pct": 14.82,
+  "current_dd": -0.02,
+  "seed_used": 18218.53,
+  "seed_used_pct": 14.81,
   "long_count": 4,
   "short_count": 5,
   "positions": [
     {
       "symbol": "HYPEUSDT",
       "side": "LONG",
-      "pnl": -153.49,
-      "pnl_pct": -0.42,
+      "pnl": -172.72,
+      "pnl_pct": -0.47,
       "margin": 4588.93,
       "leverage": "8",
       "tier": "8/10",
       "entry": 40.0876,
-      "mark": 39.92
+      "mark": 39.899
     },
     {
       "symbol": "ADAUSDT",
@@ -42,52 +42,52 @@
     {
       "symbol": "TRXUSDT",
       "side": "LONG",
-      "pnl": 209.86,
-      "pnl_pct": 1.48,
+      "pnl": 214.6,
+      "pnl_pct": 1.51,
       "margin": 1773.32,
       "leverage": "8",
       "tier": "4/9",
       "entry": 0.3294,
-      "mark": 0.3343
+      "mark": 0.3344
     },
     {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": -151.83,
-      "pnl_pct": -1.23,
+      "pnl": -155.71,
+      "pnl_pct": -1.27,
       "margin": 1537.43,
       "leverage": "8",
       "tier": "5/10",
       "entry": 9.5337,
-      "mark": 9.416
+      "mark": 9.413
     },
     {
       "symbol": "BNBUSDT",
       "side": "SHORT",
-      "pnl": -128.8,
-      "pnl_pct": -1.1,
+      "pnl": -126.37,
+      "pnl_pct": -1.08,
       "margin": 1466.88,
       "leverage": "8",
       "tier": "3/9",
       "entry": 625.5341,
-      "mark": 632.4
+      "mark": 632.27
     },
     {
       "symbol": "XRPUSDT",
       "side": "SHORT",
-      "pnl": -77.17,
-      "pnl_pct": -0.81,
+      "pnl": -73.17,
+      "pnl_pct": -0.77,
       "margin": 1354.36,
       "leverage": "7",
       "tier": "3/9",
       "entry": 1.4205,
-      "mark": 1.4321
+      "mark": 1.4315
     },
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -484.49,
-      "pnl_pct": -4.53,
+      "pnl": -486.64,
+      "pnl_pct": -4.55,
       "margin": 1336.94,
       "leverage": "8",
       "tier": "4/10",
@@ -97,24 +97,24 @@
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -78.61,
+      "pnl": -78.47,
       "pnl_pct": -1.93,
       "margin": 452.33,
       "leverage": "9",
       "tier": "1/9",
       "entry": 84.46,
-      "mark": 86.091
+      "mark": 86.088
     },
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": 18.97,
-      "pnl_pct": 1.01,
+      "pnl": 19.27,
+      "pnl_pct": 1.02,
       "margin": 125.82,
       "leverage": "15",
       "tier": "1/12",
       "entry": 1.293,
-      "mark": 1.28
+      "mark": 1.2798
     }
   ],
   "signals": {
@@ -124,7 +124,7 @@
     },
     "DOGEUSDT": {
       "dir": "short",
-      "conf": 0.502
+      "conf": 0.503
     },
     "NEARUSDT": {
       "dir": "short",
@@ -132,7 +132,7 @@
     },
     "BTCUSDT": {
       "dir": "short",
-      "conf": 0.585
+      "conf": 0.59
     },
     "TRUMPUSDT": {
       "dir": "short",
@@ -144,7 +144,7 @@
     },
     "AVAXUSDT": {
       "dir": "short",
-      "conf": 0.6
+      "conf": 0.599
     },
     "ETHUSDT": {
       "dir": "long",
@@ -164,7 +164,7 @@
     },
     "HYPEUSDT": {
       "dir": "short",
-      "conf": 0.548
+      "conf": 0.551
     },
     "SUIUSDT": {
       "dir": "short",
@@ -172,7 +172,7 @@
     },
     "SOLUSDT": {
       "dir": "short",
-      "conf": 0.636
+      "conf": 0.638
     },
     "XRPUSDT": {
       "dir": "short",
@@ -294,7 +294,7 @@
     },
     {
       "t": "2026-04-22",
-      "v": 17989.0
+      "v": 17979.06
     }
   ],
   "trade_history": [
