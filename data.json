@@ -1,32 +1,32 @@
 {
-  "ts": "2026-04-23T16:32:38.550153+09:00",
+  "ts": "2026-04-23T16:33:39.970716+09:00",
   "start_date": "2026-03-01",
   "status": "running",
-  "equity": 124254.53,
-  "available": 103291.17,
-  "unrealized": -743.87,
-  "daily_pnl": 432.33,
-  "total_pnl": 19254.53,
-  "cum_pct": 18.34,
-  "daily_avg_pct": 0.3396,
-  "annual_pct": 244.68,
+  "equity": 124277.49,
+  "available": 103769.33,
+  "unrealized": -747.93,
+  "daily_pnl": 458.22,
+  "total_pnl": 19277.49,
+  "cum_pct": 18.36,
+  "daily_avg_pct": 0.34,
+  "annual_pct": 245.18,
   "mdd": -2.6,
   "current_dd": -0.13,
-  "seed_used": 20963.35,
-  "seed_used_pct": 16.87,
-  "long_count": 6,
+  "seed_used": 20508.15,
+  "seed_used_pct": 16.5,
+  "long_count": 5,
   "short_count": 7,
   "positions": [
     {
       "symbol": "XMRUSDT",
       "side": "LONG",
-      "pnl": 72.49,
-      "pnl_pct": 0.39,
+      "pnl": 73.49,
+      "pnl_pct": 0.4,
       "margin": 2319.08,
       "leverage": "8",
       "tier": "6/9",
       "entry": 371.6479,
-      "mark": 373.1
+      "mark": 373.12
     },
     {
       "symbol": "XRPUSDT",
@@ -42,29 +42,29 @@
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": 62.42,
-      "pnl_pct": 0.43,
+      "pnl": 56.6,
+      "pnl_pct": 0.39,
       "margin": 2062.9,
       "leverage": "7",
       "tier": "4/9",
       "entry": 0.2481,
-      "mark": 0.247
+      "mark": 0.2471
     },
     {
       "symbol": "LINKUSDT",
       "side": "LONG",
-      "pnl": -376.48,
-      "pnl_pct": -2.35,
+      "pnl": -374.79,
+      "pnl_pct": -2.34,
       "margin": 2001.44,
       "leverage": "8",
       "tier": "5/10",
       "entry": 9.4625,
-      "mark": 9.24
+      "mark": 9.241
     },
     {
       "symbol": "TRXUSDT",
       "side": "LONG",
-      "pnl": -104.1,
+      "pnl": -103.66,
       "pnl_pct": -0.73,
       "margin": 1773.32,
       "leverage": "8",
@@ -86,18 +86,18 @@
     {
       "symbol": "DOGEUSDT",
       "side": "LONG",
-      "pnl": -446.94,
-      "pnl_pct": -4.18,
+      "pnl": -425.48,
+      "pnl_pct": -3.98,
       "margin": 1336.94,
       "leverage": "8",
       "tier": "4/10",
       "entry": 0.0997,
-      "mark": 0.0955
+      "mark": 0.0957
     },
     {
       "symbol": "1000PEPEUSDT",
       "side": "SHORT",
-      "pnl": 14.03,
+      "pnl": 13.9,
       "pnl_pct": 0.28,
       "margin": 718.09,
       "leverage": "7",
@@ -108,57 +108,46 @@
     {
       "symbol": "TAOUSDT",
       "side": "SHORT",
-      "pnl": 79.67,
-      "pnl_pct": 1.59,
+      "pnl": 85.97,
+      "pnl_pct": 1.72,
       "margin": 714.28,
       "leverage": "7",
       "tier": "3/9",
       "entry": 246.1828,
-      "mark": 242.26
+      "mark": 241.95
     },
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": 17.71,
-      "pnl_pct": 0.58,
+      "pnl": 18.31,
+      "pnl_pct": 0.6,
       "margin": 379.41,
       "leverage": "8",
       "tier": "2/9",
       "entry": 459.2,
-      "mark": 456.52
+      "mark": 456.43
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": 19.84,
-      "pnl_pct": 0.73,
+      "pnl": 20.41,
+      "pnl_pct": 0.75,
       "margin": 340.38,
       "leverage": "8",
       "tier": "1/9",
       "entry": 86.72,
-      "mark": 86.088
+      "mark": 86.07
     },
     {
       "symbol": "ZECUSDT",
       "side": "LONG",
-      "pnl": 7.66,
-      "pnl_pct": 0.34,
+      "pnl": 5.6,
+      "pnl_pct": 0.25,
       "margin": 321.31,
       "leverage": "7",
       "tier": "2/9",
       "entry": 317.23,
-      "mark": 318.31
-    },
-    {
-      "symbol": "PENGUUSDT",
-      "side": "LONG",
-      "pnl": 28.09,
-      "pnl_pct": 1.97,
-      "margin": 203.16,
-      "leverage": "7",
-      "tier": "2/12",
-      "entry": 0.0085,
-      "mark": 0.0086
+      "mark": 318.02
     }
   ],
   "signals": {
@@ -346,10 +335,17 @@
     },
     {
       "t": "2026-04-23",
-      "v": 19254.53
+      "v": 19277.49
     }
   ],
   "trade_history": [
+    {
+      "ts": "2026-04-23 16:32",
+      "symbol": "PENGUUSDT",
+      "side": "Buy",
+      "pnl": 25.89,
+      "reason": "2/12"
+    },
     {
       "ts": "2026-04-23 15:54",
       "symbol": "ZECUSDT",
@@ -482,13 +478,6 @@
       "side": "Buy",
       "pnl": -6.55,
       "reason": "2/10"
-    },
-    {
-      "ts": "2026-04-22 22:40",
-      "symbol": "ZECUSDT",
-      "side": "Buy",
-      "pnl": 0.01,
-      "reason": "L4"
     }
   ],
   "num_days": 54
