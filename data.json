@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-27T03:34:18.579914+09:00",
+  "ts": "2026-04-27T03:35:20.105556+09:00",
   "start_date": "2026-03-01",
   "status": "running",
-  "equity": 150847.01,
-  "available": 112853.33,
-  "unrealized": -501.06,
+  "equity": 150832.04,
+  "available": 112839.06,
+  "unrealized": -516.78,
   "daily_pnl": 69.82,
-  "total_pnl": 25447.01,
-  "cum_pct": 20.29,
-  "daily_avg_pct": 0.319,
-  "annual_pct": 219.79,
+  "total_pnl": 25432.04,
+  "cum_pct": 20.28,
+  "daily_avg_pct": 0.3189,
+  "annual_pct": 219.67,
   "mdd": -2.6,
   "current_dd": -0.08,
-  "seed_used": 37993.67,
+  "seed_used": 37992.97,
   "seed_used_pct": 25.19,
   "long_count": 8,
   "short_count": 9,
@@ -20,46 +20,57 @@
     {
       "symbol": "TRXUSDT",
       "side": "LONG",
-      "pnl": -210.76,
-      "pnl_pct": -0.67,
-      "margin": 3885.88,
+      "pnl": -212.68,
+      "pnl_pct": -0.68,
+      "margin": 3885.64,
       "leverage": "8",
       "tier": "6/9",
       "entry": 0.326,
-      "mark": 0.3239
+      "mark": 0.3238
     },
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": -243.91,
-      "pnl_pct": -1.23,
-      "margin": 2873.85,
+      "pnl": -245.5,
+      "pnl_pct": -1.24,
+      "margin": 2874.08,
       "leverage": "7",
       "tier": "6/9",
       "entry": 1.2513,
-      "mark": 1.2667
+      "mark": 1.2668
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": -40.95,
-      "pnl_pct": -0.2,
-      "margin": 2627.42,
+      "pnl": -49.28,
+      "pnl_pct": -0.23,
+      "margin": 2628.46,
       "leverage": "8",
       "tier": "5/9",
       "entry": 0.2518,
-      "mark": 0.2523
+      "mark": 0.2524
     },
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": -100.59,
-      "pnl_pct": -0.35,
-      "margin": 2373.14,
+      "pnl": -97.31,
+      "pnl_pct": -0.34,
+      "margin": 2372.87,
       "leverage": "12",
       "tier": "3/9",
       "entry": 86.3838,
-      "mark": 86.69
+      "mark": 86.68
+    },
+    {
+      "symbol": "BNBUSDT",
+      "side": "SHORT",
+      "pnl": -83.98,
+      "pnl_pct": -0.47,
+      "margin": 2236.59,
+      "leverage": "8",
+      "tier": "5/9",
+      "entry": 629.7306,
+      "mark": 632.7
     },
     {
       "symbol": "XRPUSDT",
@@ -73,22 +84,11 @@
       "mark": 1.4268
     },
     {
-      "symbol": "BNBUSDT",
-      "side": "SHORT",
-      "pnl": -79.17,
-      "pnl_pct": -0.44,
-      "margin": 2235.99,
-      "leverage": "8",
-      "tier": "5/9",
-      "entry": 629.7306,
-      "mark": 632.53
-    },
-    {
       "symbol": "1000PEPEUSDT",
       "side": "SHORT",
-      "pnl": -58.44,
-      "pnl_pct": -0.44,
-      "margin": 2228.79,
+      "pnl": -55.35,
+      "pnl_pct": -0.42,
+      "margin": 2228.28,
       "leverage": "6",
       "tier": "5/9",
       "entry": 0.0039,
@@ -97,53 +97,53 @@
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": -10.21,
+      "pnl": -10.64,
       "pnl_pct": -0.11,
-      "margin": 1209.25,
+      "margin": 1209.31,
       "leverage": "8",
       "tier": "3/9",
       "entry": 452.0025,
-      "mark": 452.48
+      "mark": 452.5
     },
     {
       "symbol": "TAOUSDT",
       "side": "LONG",
-      "pnl": 82.47,
-      "pnl_pct": 1.28,
-      "margin": 1086.36,
+      "pnl": 81.94,
+      "pnl_pct": 1.27,
+      "margin": 1086.28,
       "leverage": "6",
       "tier": "3/9",
       "entry": 245.741,
-      "mark": 248.89
+      "mark": 248.87
     },
     {
       "symbol": "ARBUSDT",
       "side": "SHORT",
-      "pnl": 66.2,
-      "pnl_pct": 1.15,
-      "margin": 946.07,
+      "pnl": 67.51,
+      "pnl_pct": 1.18,
+      "margin": 945.85,
       "leverage": "6",
       "tier": "3/9",
       "entry": 0.1319,
-      "mark": 0.1304
+      "mark": 0.1303
     },
     {
       "symbol": "BTCUSDT",
       "side": "SHORT",
-      "pnl": 7.39,
-      "pnl_pct": 0.19,
-      "margin": 637.88,
+      "pnl": 7.63,
+      "pnl_pct": 0.2,
+      "margin": 637.84,
       "leverage": "6",
       "tier": "3/9",
       "entry": 78258.9143,
-      "mark": 78108.02
+      "mark": 78103.1
     },
     {
       "symbol": "SUIUSDT",
       "side": "LONG",
-      "pnl": 59.72,
+      "pnl": 59.49,
       "pnl_pct": 1.08,
-      "margin": 618.54,
+      "margin": 618.52,
       "leverage": "9",
       "tier": "2/9",
       "entry": 0.935,
@@ -152,31 +152,31 @@
     {
       "symbol": "ENAUSDT",
       "side": "LONG",
-      "pnl": -11.65,
-      "pnl_pct": -0.32,
-      "margin": 519.44,
+      "pnl": -15.97,
+      "pnl_pct": -0.44,
+      "margin": 518.83,
       "leverage": "7",
       "tier": "2/11",
       "entry": 0.1097,
-      "mark": 0.1094
+      "mark": 0.1092
     },
     {
       "symbol": "ASTERUSDT",
       "side": "LONG",
-      "pnl": 49.48,
-      "pnl_pct": 1.28,
-      "margin": 490.44,
+      "pnl": 48.88,
+      "pnl_pct": 1.26,
+      "margin": 490.37,
       "leverage": "8",
       "tier": "2/9",
       "entry": 0.6499,
-      "mark": 0.6582
+      "mark": 0.6581
     },
     {
       "symbol": "PENGUUSDT",
       "side": "SHORT",
-      "pnl": 4.47,
-      "pnl_pct": 0.1,
-      "margin": 484.63,
+      "pnl": 6.95,
+      "pnl_pct": 0.16,
+      "margin": 484.35,
       "leverage": "9",
       "tier": "2/10",
       "entry": 0.0088,
@@ -185,24 +185,24 @@
     {
       "symbol": "ZECUSDT",
       "side": "LONG",
-      "pnl": -9.88,
-      "pnl_pct": -0.42,
-      "margin": 389.66,
+      "pnl": -8.3,
+      "pnl_pct": -0.35,
+      "margin": 389.92,
       "leverage": "6",
       "tier": "1/9",
       "entry": 356.27,
-      "mark": 354.77
+      "mark": 355.01
     },
     {
       "symbol": "AAVEUSDT",
       "side": "LONG",
-      "pnl": 42.69,
-      "pnl_pct": 1.72,
-      "margin": 361.11,
+      "pnl": 37.74,
+      "pnl_pct": 1.52,
+      "margin": 360.4,
       "leverage": "7",
       "tier": "2/9",
       "entry": 95.47,
-      "mark": 97.11
+      "mark": 96.92
     }
   ],
   "signals": {
@@ -410,7 +410,7 @@
     },
     {
       "t": "2026-04-27",
-      "v": 25447.01
+      "v": 25432.04
     }
   ],
   "trade_history": [
