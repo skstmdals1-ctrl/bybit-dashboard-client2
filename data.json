@@ -1,18 +1,18 @@
 {
-  "ts": "2026-04-28T00:42:29.222819+09:00",
+  "ts": "2026-04-28T00:43:31.119459+09:00",
   "start_date": "2026-03-01",
   "status": "running",
-  "equity": 152051.68,
-  "available": 136523.55,
-  "unrealized": 803.94,
+  "equity": 152054.83,
+  "available": 136529.39,
+  "unrealized": 802.25,
   "daily_pnl": -351.14,
-  "total_pnl": 26651.68,
-  "cum_pct": 21.25,
-  "daily_avg_pct": 0.3271,
-  "annual_pct": 229.36,
+  "total_pnl": 26654.83,
+  "cum_pct": 21.26,
+  "daily_avg_pct": 0.3273,
+  "annual_pct": 229.59,
   "mdd": -2.6,
   "current_dd": -0.2,
-  "seed_used": 15528.12,
+  "seed_used": 15525.43,
   "seed_used_pct": 10.21,
   "long_count": 2,
   "short_count": 7,
@@ -20,9 +20,9 @@
     {
       "symbol": "TRXUSDT",
       "side": "LONG",
-      "pnl": -134.93,
-      "pnl_pct": -0.43,
-      "margin": 3895.36,
+      "pnl": -142.6,
+      "pnl_pct": -0.46,
+      "margin": 3894.4,
       "leverage": "8",
       "tier": "6/9",
       "entry": 0.326,
@@ -31,35 +31,35 @@
     {
       "symbol": "SOLUSDT",
       "side": "SHORT",
-      "pnl": 679.52,
-      "pnl_pct": 3.35,
-      "margin": 1634.38,
+      "pnl": 686.5,
+      "pnl_pct": 3.38,
+      "margin": 1633.79,
       "leverage": "12",
       "tier": "3/9",
       "entry": 87.1276,
-      "mark": 84.21
+      "mark": 84.18
     },
     {
       "symbol": "AVAXUSDT",
       "side": "SHORT",
-      "pnl": 100.36,
-      "pnl_pct": 1.11,
-      "margin": 1113.87,
+      "pnl": 103.28,
+      "pnl_pct": 1.15,
+      "margin": 1113.5,
       "leverage": "8",
       "tier": "3/9",
       "entry": 9.249,
-      "mark": 9.146
+      "mark": 9.143
     },
     {
       "symbol": "BCHUSDT",
       "side": "SHORT",
-      "pnl": 19.98,
-      "pnl_pct": 0.38,
-      "margin": 530.51,
+      "pnl": 21.15,
+      "pnl_pct": 0.4,
+      "margin": 530.39,
       "leverage": "10",
       "tier": "2/9",
       "entry": 453.2,
-      "mark": 451.5
+      "mark": 451.4
     },
     {
       "symbol": "SUIUSDT",
@@ -75,46 +75,46 @@
     {
       "symbol": "DOTUSDT",
       "side": "SHORT",
-      "pnl": 49.91,
-      "pnl_pct": 1.29,
-      "margin": 478.31,
+      "pnl": 51.16,
+      "pnl_pct": 1.32,
+      "margin": 478.16,
       "leverage": "8",
       "tier": "1/9",
       "entry": 1.235,
-      "mark": 1.2191
+      "mark": 1.2187
     },
     {
       "symbol": "ADAUSDT",
       "side": "SHORT",
-      "pnl": 44.04,
-      "pnl_pct": 1.41,
-      "margin": 439.87,
+      "pnl": 42.78,
+      "pnl_pct": 1.37,
+      "margin": 440.05,
       "leverage": "7",
       "tier": "2/9",
       "entry": 0.2482,
-      "mark": 0.2447
+      "mark": 0.2448
     },
     {
       "symbol": "AAVEUSDT",
       "side": "SHORT",
-      "pnl": -18.62,
-      "pnl_pct": -0.76,
-      "margin": 408.86,
+      "pnl": -17.61,
+      "pnl_pct": -0.72,
+      "margin": 408.69,
       "leverage": "6",
       "tier": "2/10",
       "entry": 96.5316,
-      "mark": 97.27
+      "mark": 97.23
     },
     {
       "symbol": "ZECUSDT",
       "side": "LONG",
-      "pnl": -12.59,
-      "pnl_pct": -0.54,
-      "margin": 389.21,
+      "pnl": -18.72,
+      "pnl_pct": -0.8,
+      "margin": 388.18,
       "leverage": "6",
       "tier": "1/9",
       "entry": 356.27,
-      "mark": 354.36
+      "mark": 353.43
     }
   ],
   "signals": {
@@ -192,7 +192,7 @@
     },
     "ADAUSDT": {
       "dir": "short",
-      "conf": 0.756
+      "conf": 0.775
     },
     "TAOUSDT": {
       "dir": "short",
@@ -204,7 +204,7 @@
     },
     "BCHUSDT": {
       "dir": "short",
-      "conf": 0.729
+      "conf": 0.733
     },
     "LTCUSDT": {
       "dir": "long",
@@ -216,7 +216,7 @@
     },
     "ARBUSDT": {
       "dir": "short",
-      "conf": 0.598
+      "conf": 0.599
     },
     "TONUSDT": {
       "dir": "long",
@@ -256,7 +256,7 @@
     },
     "TRXUSDT": {
       "dir": "short",
-      "conf": 0.588
+      "conf": 0.589
     },
     "PENGUUSDT": {
       "dir": "short",
@@ -326,7 +326,7 @@
     },
     {
       "t": "2026-04-28",
-      "v": 26651.68
+      "v": 26654.83
     }
   ],
   "trade_history": [
